@@ -51,15 +51,36 @@ for stock in stock_list:
         try:
             return  time.ctime(dataframe['datetime'].min()/1000)
         except:
-            print("this is the faulty stock: ", stock)
+            print("this is the faulty stock regarding the timeOf function: ", stock)
+            print("================================================")
+            print("")
+            print("")
 
-    friendly_dict = getPriceHistory(symbol=stock, periodType='day', frequencyType='minute', startDate = 1602172800000, endDate = 1602450000000, needExtendedHoursData = True)
+
+    try:
+        friendly_dict = getPriceHistory(symbol=stock, periodType='day', frequencyType='minute', startDate = 1602172800000, endDate = 1602450000000, needExtendedHoursData = True)
+    except:
+        print("this stock does not exist: ", stock)
+        print("================================================")
+        print("")
+        print("")
+        continue
+
+
     df = pd.DataFrame(friendly_dict['candles'])
-    premarketFri_start = df[df['datetime'] >= 1602230400000]
-    premarketFri = premarketFri_start[premarketFri_start['datetime'] <= 1602250140000]
+    try:
+        premarketFri_start = df[df['datetime'] >= 1602230400000]
+        premarketFri = premarketFri_start[premarketFri_start['datetime'] <= 1602250140000]
+        marketFri_start = df[df['datetime'] >= 1602250200000]
+        marketFri = marketFri_start[marketFri_start['datetime'] <= 1602273600000]
+    except:
+        print("this stock is a problem but no idea why: ", stock)
+        print("================================================")
+        print("")
+        print("")
+        continue
 
-    marketFri_start = df[df['datetime'] >= 1602250200000]
-    marketFri = marketFri_start[marketFri_start['datetime'] <= 1602273600000]
+
 
 
     #print(time.ctime(premarketFri['datetime'].min()/1000)
@@ -77,6 +98,9 @@ for stock in stock_list:
         indexFirstResBreaker = marketFri[marketFri['high'].gt(premarket_high)].index[0]
     except:
         print("this is the faulty stock, cos it doesn't break the PM high: ", stock)
+        print("================================================")
+        print("")
+        print("")
         continue
     #print("this is the index of pm high breach: ", indexFirstResBreaker )
 
@@ -91,25 +115,25 @@ for stock in stock_list:
         index_of_gobackdownbelowpmhighafterbreach = market_after_breaching_pmhigh[market_after_breaching_pmhigh ['low'].lt(premarket_high)].index[0]
     except:
         print("this is the faulty stock because it doesn't go back down again after breaking the res: ", stock)
+        print("================================================")
+        print("")
+        print("")
         continue
 
     index_of_market_after_breaching_pmhighStart = market_after_breaching_pmhigh.index[0]
     relative_gobackdownbelowpmhighafterbreach = index_of_gobackdownbelowpmhighafterbreach - index_of_market_after_breaching_pmhighStart
-    #print(relative_gobackdownbelowpmhighafterbreach)
-
-    #print("this is the point after which market, after breaching Pm high, dipped below again: ", market_after_breaching_pmhigh[relative_gobackdownbelowpmhighafterbreach: ])
-    #print("this is the start time of the above phenomenon: ", market_after_breaching_pmhigh[relative_gobackdownbelowpmhighafterbreach: ])
-
-    #print("this is the time that the pm high was dipped below, after having risen above it: ", timeOf(market_after_breaching_pmhigh[relative_gobackdownbelowpmhighafterbreach: ]))
 
     indexFirstDipDowner = market_after_breaching_pmhigh[relative_gobackdownbelowpmhighafterbreach: ].index[0]
 
-    #print("this is the index of the pmhighdipbelow: ", indexFirstDipDowner)
 
     # TODO if indexfirstdipdown and indexresbreaker and more than 20 indexes apart (more than 20 min apart), this is not type 1.0 play
 
     if indexFirstDipDowner - indexFirstResBreaker > 20:
-        print('THIS IS NOT A TYPE 1.0 PLAY')
+        print('THIS IS NOT A TYPE 1.0 PLAY, for stock name: ', stock)
+        print("================================================")
+        print("")
+        print("")
+        continue
 
     else:
         isType1PointOhPlay = True
@@ -122,16 +146,10 @@ for stock in stock_list:
 
     potential_loss = mygreensproutdf[0:1]
 
-    #print()
-    #print()
-    #print()
-    #print("this is poptential loss ", potential_loss['datetime'].values)
-    #print()
-    #print()
-    #print()
+
 
     potential_loss_percent = ((potential_loss['high'] - potential_loss['low'])/potential_loss['high']) * 100
-    #print("my potential loss is: ", potential_loss_percent, " %")
+
 
 
     buy_price = potential_loss['high'] # stupid variable name but whatever
@@ -148,14 +166,15 @@ for stock in stock_list:
 
 
     #print("disclaimer: it's actually the next candle that I bought at, but the buy price is the high of the candle at the buy time above ")
-    #   TODO SO FIND IF IT ACTUALLY MANAGED TO JUMP 15% WITHOUT TRIGGERING THE STOP LOSS. there's no POTENTIAL risk and POTENTIAL gain written here, just what actually happened.
-    #    actually yes potential gain should be written. so i can test new take_profits later.
-    #print('this is my buy price: ', buy_price)
 
     try:
         indexOfBuy = buy_price.index.values[0]
     except:
-        print("this is the faulty stock because I don't know why: ", stock)
+        print("this is the faulty stock because I think because it doesnt have a buy price but pls check: ", stock)
+        print("================================================")
+        print("")
+        print("")
+        continue
     #print("this is the index of buy:", indexOfBuy)
 
     # i think just fuck start shimmying in front of the greensprout, checking for any candles that kill the stop, any candles that reach the peak. and this is done uno by uno
@@ -169,34 +188,42 @@ for stock in stock_list:
         marketAfterMyBuy = marketFri[marketFri['datetime'] > buy_time.values[0]] # 1602271740000 is my buy time
     except:
         print("this is a faulty stock ALSO ALSO because I don't know why: ", stock)
+        print("================================================")
+        print("")
+        print("")
+        continue
+
     try:
         indexOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss.values[0]].index.values[0] # never goes below the buy price for ADMP
+        marketAfterBuyRiseThenFallToStopLoss = marketAfterMyBuy[marketAfterMyBuy.index.values[0] < indexOfStopLossKiller] # TODO find out how the fuck to slice
+        highest_point_reached = marketAfterBuyRiseThenFallToStopLoss['high'].max()
     except IndexError:
         isStopLossNotReached = True
-
+        highest_point_reached = marketAfterMyBuy['high'].max()
     try:
         indexOfTakeProfiter = marketAfterMyBuy[marketAfterMyBuy['low'] >= takeProfitLevel.values[0]].index.values[0]
         if indexOfStopLossKiller < indexOfTakeProfiter:
             isWin = True
-    except IndexError: # if the takeprofit is never reached
+    except: # if the takeprofit is never reached
         pass
 
-
+# todo here we start the main deal
     if isType1PointOhPlay:
-        print("this is the stock: ", stock)
-        print("this is my buy time: ", time.ctime(buy_time/1000))
-        print("this is my buy price: ", buy_price.values[0])
-
+        print("this is the stock: ", stock, " the stock is: ", stock)
+        print("this is my buy time: ", time.ctime(buy_time/1000), " the stock is: ", stock)
+        print("this is my buy price: ", buy_price.values[0], " the stock is: ", stock, " and the premarket high was, ", premarket_high)
+        print("was this a win for", stock, " ?: ", isWin)
+        print("the highest percentage gain after my buy without triggering take profit or stop loss was ",((highest_point_reached/buy_price) - 1)*100)
         if isWin:
             try:
-                print('this is the time that my TAKE PROFIT was triggered: ', timeOf(indexOfTakeProfiter))  # TODO if this throws a val error then the 15% was never hit lol
+                print('this is the time that my TAKE PROFIT was triggered: ', timeOf(indexOfTakeProfiter), " the stock is: ", stock)  # TODO if this throws a val error then the 15% was never hit lol
             except ValueError:
-                print("Never Reached Take Profit Level")
+                print("Never Reached Take Profit Level", " the stock is: ", stock)
         else:
             if isStopLossNotReached:
-                print("It didn't reach take profit, but didn't kill the stop loss either")
+                print("It didn't reach take profit, but didn't kill the stop loss either", " the stock is: ", stock)
             else:
-                print("this was the time my stop loss was triggered: ", timeOf(indexOfStopLossKiller))
+                print("this was the time my stop loss was triggered: ", timeOf(indexOfStopLossKiller), " the stock is: ", stock)
 
         print("================================================")
         print("")
@@ -212,73 +239,3 @@ for stock in stock_list:
 
 
     # TODO I WANT TO BE ABLE TO SEARCH FOR THE INDEX OF STOPKILL AND INDEX OF TAKEPROFITREACH AND SEE WHICH COMES FIRST
-    '''
-    indexOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= buy_price] # never goes below the buy price for ADMP
-    
-    print(indexOfStopLossKiller.info())
-    
-    #print("this is the marketAfterMyBuy: ", marketAfterMyBuy)
-    
-    #indexOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low']]
-    
-    
-    for i in range(1000):
-        print(marketAfterMyBuy[i]['high'])
-        if marketAfterMyBuy[i]['high'] >= takeProfitLevel:
-            print("I win")
-        elif marketAfterMyBuy[i]['low'] <= stop_loss:
-            print("I lose")
-    
-    
-    
-    
-    
-    
-    highest_day_pt = marketFri["high"].max()
-    print("this is the high of the market day", highest_day_pt)
-    potential_gain = ((highest_day_pt - potential_loss['high'])/potential_loss['high'])*100
-    print("this is my potential gain: ", potential_gain)
-    
-    
-    
-    
-    
-    
-    
-    mygreensproutdf =  mymarketafterdippingDF[mymarketafterdippingDF['close'] > mymarketafterdippingDF['open'] and mymarketafterdippingDF['low']<=premarket_high]  # finds the first green after the dip back under.
-    print(timeOf(mygreensproutdf)) # AND THIS IS WHERE I BUY.
-    potential_loss = mygreensproutdf[0:1]
-    potential_loss_percent = ((potential_loss['high'] - potential_loss['low'])/potential_loss['high']) * 100
-    print("my potential loss is: ", potential_loss_percent, " %")
-    
-    highest_day_pt = marketFri["high"].max()
-    print("this is the high of the market day", highest_day_pt)
-    potential_gain = ((highest_day_pt - potential_loss['high'])/potential_loss['high'])*100
-    print("this is my potential gain: ", potential_gain)
-    #print('NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO')
-    
-    
-    
-    
-    
-    
-    
-    print('NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'
-          ''
-          ''
-          ''
-          ''
-          ''
-          '')
-    to_help_find_market_after_breaking_pmhigh = marketFri[marketFri['high'] >= premarket_high].index.values
-    
-    print("the time when PM high is broken is: ", time.ctime(to_help_find_market_after_breaking_pmhigh.loc[512]['datetime']/1000)) # find the datetime for the first break of pmhigh
-    
-    actual_market_after_breaking_pmhigh = marketFri[512:517]
-    print(actual_market_after_breaking_pmhigh)
-    
-    to_help_find_gobelowpmhigh = actual_market_after_breaking_pmhigh[actual_market_after_breaking_pmhigh['low'] <= 3.25]
-    
-    print(to_help_find_gobelowpmhigh)
-    
-    '''''
