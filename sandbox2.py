@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings("ignore")
 key = 'ARJTRG5ZQH4Y6MWQJLA0LLHUZVZBU21S'
 stock_list = list(stock_set)
-stock_list[0]="VVPR"
+stock_list[0]="MARPS"
 
 for stock in stock_list:
     start_date_string = "10/06/2020 04:00:00"
@@ -159,11 +159,15 @@ for stock in stock_list:
     mymarketafterdippingDF =  market_after_breaching_pmhigh[relative_gobackdownbelowpmhighafterbreach: ]
 
     AllBelowPmHmymarketafterdippingDF = mymarketafterdippingDF[mymarketafterdippingDF['low'] <= premarket_high]
-
+   # print(AllBelowPmHmymarketafterdippingDF)
+    if len(AllBelowPmHmymarketafterdippingDF) == 1:
+        print("The only thing that was below the Premarket High After Breaking was 1 red, therefore this isn't type1.0, don't buy, for ", stock)
+        continue
     mygreensproutdf = AllBelowPmHmymarketafterdippingDF[AllBelowPmHmymarketafterdippingDF['close'] > AllBelowPmHmymarketafterdippingDF['open']] #THIS SHOULD FIND THE TYPE 1.0 GREENSPROUT
 
-    potential_loss = mygreensproutdf[0:1]
 
+    potential_loss = mygreensproutdf[0:1]
+    #rint("what's the dealio with potential_loss ", stock, " and it's stop loss which is ", potential_loss['low'].values[0])
 
 
     potential_loss_percent = ((potential_loss['high'] - potential_loss['low'])/potential_loss['high']) * 100
@@ -174,11 +178,16 @@ for stock in stock_list:
         buy_price = potential_loss['high'].values[0] # stupid variable name but whatever
     except:
         print("getting the buy price fucked up, the offending stock is, ", stock)
+
     try:
         stop_loss = potential_loss['low'].values[0]
     except:
         print("I can't get the stop loss for this stock: ", stock)
+
+    #   print("THIS IS THE POTENTIAL LOSS: ", potential_loss)
+
     buy_time = potential_loss['datetime'].values[0]
+
     #print("THIS IS THE TIME AT WHICH I BOUGHT: ", time.ctime(buy_time/1000))
 
 
@@ -218,15 +227,18 @@ for stock in stock_list:
         else:
             return ((before-after)/before)*100, "% LOSS"
 
-    def doesPriceLevelExist(df, col, price): # helps you see if a price level exists for a given condition
+    def doesPriceLevelExist(df, col, price, condition): # helps you see if a price level exists for a given condition
         # df is a dataframe. col is a column in df, string type. price is an int.
-        return (df[col].values >= price).any()
+        if condition == 'greateroreq':
+            return (df[col].values >= price).any()
+        if condition == 'lessoreq':
+            return (df[col].values <= price).any()
 
     def time24HOfIncident(df): # helps you see the 24Htime of an incident occurring. Pass this a full dataframe (with conditional), it takes the 24HTime of the first index.
         return df['24HTime'].values[0]
 
-    doesTakeProfitLevelExist = doesPriceLevelExist(marketAfterMyBuy, 'high', takeProfitLevel)
-    doesStopLossKillerExist = doesPriceLevelExist(marketAfterMyBuy, 'low', stop_loss)
+    doesTakeProfitLevelExist = doesPriceLevelExist(marketAfterMyBuy, 'high', takeProfitLevel, 'greateroreq')
+    doesStopLossKillerExist = doesPriceLevelExist(marketAfterMyBuy, 'low', stop_loss, 'lessoreq')
     # if they both exist, then I want to find out which came first so i know if i won or loss
     # if one of them exists, take it either as a loss or win
     # if they both DON'T exist, find the highest point reached
@@ -252,14 +264,13 @@ for stock in stock_list:
     if doesTakeProfitLevelExist and not doesStopLossKillerExist:
         print("I won, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high']>= takeProfitLevel]))
     elif doesStopLossKillerExist and not doesTakeProfitLevelExist:
+        timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]['datetime'].values[0]
         marketFromBuyToStopLossSell = marketAfterMyBuy.loc[
             (((marketAfterMyBuy['datetime'] > buy_time) & (marketAfterMyBuy['datetime'] < timeOfStopLossKiller)))]
         highestPointReachedBeforeDying = marketFromBuyToStopLossSell['high'].max()
-        try:
-            print("I lost, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]),
+        print("I lost, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]),
               " but before I died the highest ($ not %change) point was at: ", highestPointReachedBeforeDying)
-        except:
-            print("offending stock is ", stock)
+
     if not doesTakeProfitLevelExist and isStopLossNotReached:
         print("I neither won nor lost, the highest ($ not %change) point reached was: ", marketAfterMyBuy['high'].max())
 
