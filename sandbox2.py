@@ -26,11 +26,13 @@ for stock in stock_list:
 
     doesTakeProfitLevelExist = False # Note that this is used to see if the level is ever reached, but the stop loss might actually be killed first
     doesStopLossKillerExist = False
-    # premarket start Friday Oct 9th = 1602230400000
-    # premarket end Friday Oct 9th = 1602250140000
 
-    # market open Friday Oct 9th = 1602250200000
-    # market close Saturday Oct 10th = 1602273600000
+    doGreensBelowPMHighExist = False # these refer to greens after the first resistance break
+    premarketstart = 1602230400000
+    premarketend= 1602250140000
+
+    marketopen = 1602250200000
+    marketclose = 1602273600000
 
     def convertTimeTo24H(time):
         return datetime.fromtimestamp(time/1000).strftime('%Y-%m-%d %H%M')
@@ -85,11 +87,11 @@ for stock in stock_list:
 
 
     try:
-        premarketFri_start = df[df['datetime'] >= 1602230400000]
+        premarketFri_start = df[df['datetime'] >= premarketstart]
         #print(premarketFri_start)
-        premarketFri = premarketFri_start[premarketFri_start['datetime'] <= 1602250140000]
-        marketFri_start = df[df['datetime'] >= 1602250200000]
-        marketFri = marketFri_start[marketFri_start['datetime'] <= 1602273600000]
+        premarketFri = premarketFri_start[premarketFri_start['datetime'] <= premarketend]
+        marketFri_start = df[df['datetime'] >= marketopen]
+        marketFri = marketFri_start[marketFri_start['datetime'] <= marketclose]
 
     except:
         print("this stock is a problem but no idea why: ", stock)
@@ -159,12 +161,13 @@ for stock in stock_list:
     mymarketafterdippingDF =  market_after_breaching_pmhigh[relative_gobackdownbelowpmhighafterbreach: ]
 
     AllBelowPmHmymarketafterdippingDF = mymarketafterdippingDF[mymarketafterdippingDF['low'] <= premarket_high]
-   # print(AllBelowPmHmymarketafterdippingDF)
-    if len(AllBelowPmHmymarketafterdippingDF) == 1:
-        print("The only thing that was below the Premarket High After Breaking was 1 red, therefore this isn't type1.0, don't buy, for ", stock)
-        continue
-    mygreensproutdf = AllBelowPmHmymarketafterdippingDF[AllBelowPmHmymarketafterdippingDF['close'] > AllBelowPmHmymarketafterdippingDF['open']] #THIS SHOULD FIND THE TYPE 1.0 GREENSPROUT
 
+    if (AllBelowPmHmymarketafterdippingDF['close'] > AllBelowPmHmymarketafterdippingDF['open']).any(): # if there are any greens present in the dip portion after the PMHighBreak
+        doGreensBelowPMHighExist = True
+        mygreensproutdf = AllBelowPmHmymarketafterdippingDF[AllBelowPmHmymarketafterdippingDF['close'] > AllBelowPmHmymarketafterdippingDF['open']]
+    else:
+        print("There are no greens below the PM high level")
+        continue
 
     potential_loss = mygreensproutdf[0:1]
     #rint("what's the dealio with potential_loss ", stock, " and it's stop loss which is ", potential_loss['low'].values[0])
@@ -184,9 +187,10 @@ for stock in stock_list:
     except:
         print("I can't get the stop loss for this stock: ", stock)
 
-    #   print("THIS IS THE POTENTIAL LOSS: ", potential_loss)
+    #print("THIS IS THE POTENTIAL LOSS: ", potential_loss)
 
-    buy_time = potential_loss['datetime'].values[0]
+    if doGreensBelowPMHighExist:
+        buy_time = potential_loss['datetime'].values[0]
 
     #print("THIS IS THE TIME AT WHICH I BOUGHT: ", time.ctime(buy_time/1000))
 
@@ -211,7 +215,7 @@ for stock in stock_list:
 
     # i think just fuck start shimmying in front of the greensprout, checking for any candles that kill the stop, any candles that reach the peak. and this is done uno by uno
 
-    takeProfitLevel = buy_price * 1.15
+    takeProfitLevel = buy_price * 1.05
     #print("this is my take profit level: ",takeProfitLevel)
 
     #print(marketFri[marketFri['datetime'] > 1602271740000].info())
