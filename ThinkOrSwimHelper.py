@@ -11,13 +11,13 @@ import numpy as np
 warnings.filterwarnings("ignore")
 key = 'ARJTRG5ZQH4Y6MWQJLA0LLHUZVZBU21S'
 stock_list = list(stock_set)
-stock_list[0]="ADMP"
+stock_list[0]="ALWAYS"
 
 # that means
 #resultsList = [[stock, buy_price, time.ctime(buy_time/1000), isWin, realPercentChange, potentialWinPercentChange]]
-resultsList = [[0, 0, 0, 0, 0, 0]]
+resultsList = [[0, 0, 0, 0, 0, 0, 0]]
 # Create the pandas DataFrame
-resultsTable = pd.DataFrame(resultsList, columns=['Instrument', 'BuyPrice', 'BuyTime', "Win?", "Real%change", "Potential%Change"])
+resultsTable = pd.DataFrame(resultsList, columns=['Instrument', 'BuyPrice', 'BuyTime', "SellTime", "Win?", "Real%change", "Potential%Change"])
 
 for stock in stock_list:
     start_date_string = "10/06/2020 04:00:00"
@@ -90,6 +90,8 @@ for stock in stock_list:
     def time24HOfIncident(df): # helps you see the 24Htime of an incident occurring. Pass this a full dataframe (with conditional), it takes the 24HTime of the first index.
         return df['24HTime'].values[0]
 
+
+
     try:
         friendly_dict = getPriceHistory(symbol=stock, periodType='day', frequencyType='minute', startDate = 1602172800000, endDate = 1602450000000, needExtendedHoursData = True)
     except:
@@ -101,30 +103,35 @@ for stock in stock_list:
 
 
     df = pd.DataFrame(friendly_dict['candles'])
-    try:
-        df['24HTime'] = df.apply(lambda row: datetime.fromtimestamp(row.datetime/1000).strftime('%H%M'), axis=1 )
-        df['Date'] = df.apply(lambda row: datetime.fromtimestamp(row.datetime/1000).strftime('%d-%m-%Y'), axis=1 )
-
-    except:
-        print("the making of the 24H col fucked up, offending stock is ", stock)
-
-
-
-    try:
-        premarketFri_start = df[df['datetime'] >= premarketstart]
-        premarketFri = premarketFri_start[premarketFri_start['datetime'] <= premarketend]
-        marketFri_start = df[df['datetime'] >= marketopen]
-        marketFri = marketFri_start[marketFri_start['datetime'] <= marketclose]
-
-    except:
-        print("this stock is a problem but no idea why: ", stock)
+    if len(df) == 0:
+        print("This stock does not exist, ", stock)
         print("================================================")
         print("")
         print("")
         continue
 
 
+    df['24HTime'] = df.apply(lambda row: datetime.fromtimestamp(row.datetime/1000).strftime('%H%M'), axis=1 )
+    df['Date'] = df.apply(lambda row: datetime.fromtimestamp(row.datetime/1000).strftime('%d-%m-%Y'), axis=1 )
+
+
+    #print("the making of the 24H col fucked up, offending stock is ", stock)
+
+
+
+
+    premarketFri_start = df[df['datetime'] >= premarketstart]
+    premarketFri = premarketFri_start[premarketFri_start['datetime'] <= premarketend]
+    marketFri_start = df[df['datetime'] >= marketopen]
+    marketFri = marketFri_start[marketFri_start['datetime'] <= marketclose]
     premarket_high = premarketFri['high'].max()
+
+    if premarket_high < 6:
+        print("Stock is too cheap: ", stock)
+        print("================================================")
+        print("")
+        print("")
+        continue
 
 
     if doesPriceLevelExist(marketFri, 'high', premarket_high, 'greateroreq'):
@@ -239,6 +246,7 @@ for stock in stock_list:
         if timeOfTakeProfit < timeOfStopLossKiller:
             print("I won, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel]))
             realPercentChange = findPercentageChange(buy_price, takeProfitLevel)
+            timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel])
         else:
             marketFromBuyToStopLossSell = marketAfterMyBuy.loc[
                 (((marketAfterMyBuy['datetime'] > buy_time) & (marketAfterMyBuy['datetime'] < timeOfStopLossKiller)))]
@@ -247,6 +255,8 @@ for stock in stock_list:
                   " but before I died the highest ($ not %change) point was at: ", highestPointReachedBeforeDying)
             realPercentChange = findPercentageChange(buy_price, stop_loss)
             potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
+            timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss])
+
 
 
 
@@ -256,15 +266,18 @@ for stock in stock_list:
     if doesTakeProfitLevelExist and not doesStopLossKillerExist:
         print("I won, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high']>= takeProfitLevel]))
         realPercentChange = findPercentageChange(buy_price, takeProfitLevel)
+        timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high']>= takeProfitLevel])
     elif doesStopLossKillerExist and not doesTakeProfitLevelExist:
         timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]['datetime'].values[0]
         marketFromBuyToStopLossSell = marketAfterMyBuy.loc[
             (((marketAfterMyBuy['datetime'] > buy_time) & (marketAfterMyBuy['datetime'] < timeOfStopLossKiller)))]
         highestPointReachedBeforeDying = marketFromBuyToStopLossSell['high'].max()
+
         print("I lost, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]),
               " but before I died the highest ($ not %change) point was at: ", highestPointReachedBeforeDying)
         realPercentChange = findPercentageChange(buy_price, stop_loss)
         potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
+        timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss])
 
 
 
@@ -279,23 +292,14 @@ for stock in stock_list:
     except:
         print("I couldn't get the time of stop loss killer, offending stock is: ", stock)
 
-    new_row = {'Instrument': stock, 'BuyPrice': buy_price, 'BuyTime': time.ctime(buy_time/1000), "Win?": isWin, "Real%change":  realPercentChange, "Potential%Change": potentialWinPercentChange}
+    new_row = {'Instrument': stock, 'BuyPrice': buy_price, 'BuyTime': time.ctime(buy_time/1000), "SellTime": timeOfSale,"Win?": isWin, "Real%change":  realPercentChange, "Potential%Change": potentialWinPercentChange}
     # append row to the dataframe
     resultsTable = resultsTable.append(new_row, ignore_index=True)
 
-    resultsTable.to_excel (r'C:\Users\rohit kurup\Documents\export_dataframe.xlsx', index = False, header=True)
 
 
     isStopLossNotReached = True # TODO yeah this is floating around after i deleted the try catch block, find a good place to put it
-    #highest_point_reached = marketAfterMyBuy['high'].max()
-    '''
-    try:
-        indexOfTakeProfiter = marketAfterMyBuy[marketAfterMyBuy['low'] >= takeProfitLevel.values[0]].index.values[0]
-        if indexOfStopLossKiller < indexOfTakeProfiter:
-            isWin = True
-    except: # if the takeprofit is never reached
-        pass
-'''
+
 # todo here we start the main deal
     if isType1PointOhPlay:
         print("this is the stock: ", stock, " the stock is: ", stock)
@@ -308,3 +312,5 @@ for stock in stock_list:
 
 
     # TODO I WANT TO BE ABLE TO SEARCH FOR THE INDEX OF STOPKILL AND INDEX OF TAKEPROFITREACH AND SEE WHICH COMES FIRST
+
+resultsTable.to_excel (r'C:\Users\rohit kurup\Documents\export_dataframe2.xlsx', index = False, header=True)
