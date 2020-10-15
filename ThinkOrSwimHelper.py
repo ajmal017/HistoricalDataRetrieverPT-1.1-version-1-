@@ -6,15 +6,23 @@ from TimSort import merge_sort # merge_sort needs an array
 from main import stock_set
 import pandas as pd
 import warnings
+import openpyxl
+import numpy as np
 warnings.filterwarnings("ignore")
 key = 'ARJTRG5ZQH4Y6MWQJLA0LLHUZVZBU21S'
 stock_list = list(stock_set)
 stock_list[0]="ADMP"
 
+# that means
+#resultsList = [[stock, buy_price, time.ctime(buy_time/1000), isWin, realPercentChange, potentialWinPercentChange]]
+resultsList = [[0, 0, 0, 0, 0, 0]]
+# Create the pandas DataFrame
+resultsTable = pd.DataFrame(resultsList, columns=['Instrument', 'BuyPrice', 'BuyTime', "Win?", "Real%change", "Potential%Change"])
+
 for stock in stock_list:
     start_date_string = "10/06/2020 04:00:00"
     end_date_string = "10/06/2020 09:29:00"
-    multiplier = 1.10 # this is where I'll take profit
+    multiplier = 1.02 # this is where I'll take profit
     # Considering date is in dd/mm/yyyy format
     start_date  = datetime.timestamp(datetime.strptime(start_date_string, "%m/%d/%Y %H:%M:%S"))*1000
     end_date = datetime.timestamp(datetime.strptime(end_date_string, "%m/%d/%Y %H:%M:%S"))*1000
@@ -34,6 +42,9 @@ for stock in stock_list:
 
     marketopen = 1602250200000
     marketclose = 1602273600000
+
+    realPercentChange = 0 # this is how much I actually increased or decreased
+    potentialWinPercentChange = 0 # this is the percentage INCREASE that I could have made
 
     def convertTimeTo24H(time):
         return datetime.fromtimestamp(time/1000).strftime('%Y-%m-%d %H%M')
@@ -65,9 +76,9 @@ for stock in stock_list:
 
     def findPercentageChange(before, after):
         if after>before:
-            return ((after-before)/before)*100 - 1,"% GAIN"
+            return ((after-before)/before)*100 - 1
         else:
-            return ((before-after)/before)*100, "% LOSS"
+            return ((after-before)/before)*100
 
     def doesPriceLevelExist(df, col, price, condition): # helps you see if a price level exists for a given condition
         # df is a dataframe. col is a column in df, string type. price is an int.
@@ -217,30 +228,34 @@ for stock in stock_list:
     doesTakeProfitLevelExist = doesPriceLevelExist(marketAfterMyBuy, 'high', takeProfitLevel, 'greateroreq')
     doesStopLossKillerExist = doesPriceLevelExist(marketAfterMyBuy, 'low', stop_loss, 'lessoreq')
 
-    # if they both exist, then I want to find out which came first so i know if i won or loss
-    # if one of them exists, take it either as a loss or win
-    # if they both DON'T exist, find the highest point reached
-    # if takeprofitlevel and stoplosskiller both exist
 
+
+    #
+
+    # if they both exist, then I want to find out which came first so i know if i won or loss
     if doesStopLossKillerExist and doesTakeProfitLevelExist:
         timeOfTakeProfit = marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel]['datetime'].values[0]
         timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]['datetime'].values[0]
         if timeOfTakeProfit < timeOfStopLossKiller:
             print("I won, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel]))
+            realPercentChange = findPercentageChange(buy_price, takeProfitLevel)
         else:
             marketFromBuyToStopLossSell = marketAfterMyBuy.loc[
                 (((marketAfterMyBuy['datetime'] > buy_time) & (marketAfterMyBuy['datetime'] < timeOfStopLossKiller)))]
             highestPointReachedBeforeDying = marketFromBuyToStopLossSell['high'].max()
             print("I lost, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]),
                   " but before I died the highest ($ not %change) point was at: ", highestPointReachedBeforeDying)
+            realPercentChange = findPercentageChange(buy_price, stop_loss)
+            potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
 
 
 
 
 
-    # if only takeprofitlevel exists
+    # # if one of them exists, take it either as a loss or win
     if doesTakeProfitLevelExist and not doesStopLossKillerExist:
         print("I won, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high']>= takeProfitLevel]))
+        realPercentChange = findPercentageChange(buy_price, takeProfitLevel)
     elif doesStopLossKillerExist and not doesTakeProfitLevelExist:
         timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]['datetime'].values[0]
         marketFromBuyToStopLossSell = marketAfterMyBuy.loc[
@@ -248,10 +263,15 @@ for stock in stock_list:
         highestPointReachedBeforeDying = marketFromBuyToStopLossSell['high'].max()
         print("I lost, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]),
               " but before I died the highest ($ not %change) point was at: ", highestPointReachedBeforeDying)
+        realPercentChange = findPercentageChange(buy_price, stop_loss)
+        potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
 
+
+
+    # if they both DON'T exist, find the highest point reached
     if not doesTakeProfitLevelExist and isStopLossNotReached:
-        print("I neither won nor lost, the highest ($ not %change) point reached was: ", marketAfterMyBuy['high'].max())
-
+        print("I neither won nor lost, the highest ($ not %change) point reached was: ", marketAfterMyBuy['high'].max(), " and the percentage change was, ", findPercentageChange(buy_price, marketAfterMyBuy['high'].max()))
+        potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
 
 
     try:
@@ -259,6 +279,11 @@ for stock in stock_list:
     except:
         print("I couldn't get the time of stop loss killer, offending stock is: ", stock)
 
+    new_row = {'Instrument': stock, 'BuyPrice': buy_price, 'BuyTime': time.ctime(buy_time/1000), "Win?": isWin, "Real%change":  realPercentChange, "Potential%Change": potentialWinPercentChange}
+    # append row to the dataframe
+    resultsTable = resultsTable.append(new_row, ignore_index=True)
+
+    resultsTable.to_excel (r'C:\Users\rohit kurup\Documents\export_dataframe.xlsx', index = False, header=True)
 
 
     isStopLossNotReached = True # TODO yeah this is floating around after i deleted the try catch block, find a good place to put it
