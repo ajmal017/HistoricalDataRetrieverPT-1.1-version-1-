@@ -22,7 +22,7 @@ resultsTable = pd.DataFrame(resultsList, columns=['Instrument', 'BuyPrice', 'Buy
 for stock in stock_list:
     start_date_string = "10/06/2020 04:00:00"
     end_date_string = "10/06/2020 09:29:00"
-    multiplier = 1.02 # this is where I'll take profit
+    multiplier = 1.07 # this is where I'll take profit
     # Considering date is in dd/mm/yyyy format
     start_date  = datetime.timestamp(datetime.strptime(start_date_string, "%m/%d/%Y %H:%M:%S"))*1000
     end_date = datetime.timestamp(datetime.strptime(end_date_string, "%m/%d/%Y %H:%M:%S"))*1000
