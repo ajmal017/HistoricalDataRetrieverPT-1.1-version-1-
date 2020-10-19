@@ -1,4 +1,727 @@
 text = '''
+Chat Log for 10/12/2020
+12:01 AM
+Edw1nso you guys recommend to take the challenge course ?
+12:01 AM
+ibufflike Sykes says its a marathon not a sprint
+12:01 AM
+Edw1nibuffyour damm right
+12:02 AM
+noshbariaEdw1nI would, will benefit in the long run...
+12:02 AM
+noshbariaibuffYep... perfectly mentioned
+12:04 AM
+ibuffafter pouring through all the dvd's and webinars i think a great idea is to find a trade buddy, someone you can bounce your picks off of
+12:07 AM
+noshbariaibuffI won't mind sharing my market list but please note I am on the learning curve myself so thread carefully please... Private messaging you...
+12:07 AM
+ibuffthats what is great about this portal, you are never alone, you can throw out your questions if you ever have a doubt
+12:08 AM
+Edw1nibuffyeah that's true
+12:09 AM
+ibuffi went from being an institutional investor to buying what is moving at that single minute, its a crazy game
+12:09 AM
+Edw1nhaving someone helping each other things will be less hard than they are when you trying to figure out something by ourselves
+12:11 AM
+noshbariaibuffSorry cannot private message due to restrictions... still learning as I mentioned
+12:12 AM
+ibuffthe challenge also lets you watch the most successful traders thought process
+12:14 AM
+ibuffnoshbariai think you have to go off topic
+12:15 AM
+noshbariaibuffok are you there as well?
+12:16 AM
+ibuffnoshbariayes
+12:16 AM
+noshbariaI am in (Off Topic)
+12:32 AM
+Watchmearn1TBLT bought two time on the dip made profit, looking for anotehr dip
+12:32 AM
+Watchmearn1$SOL looking for a dip
+12:35 AM
+Watchmearn1and ACRS
+12:37 AM
+Watchmearn1being watching $PEIX for a dip but is been trending up for the last 3 days hopefully tomorrow is the day
+12:57 AM
+AsimtradingWhy can’t I watch video lessons on iPhone
+01:05 AM
+chutit is expensive.. heaps of videos on youtube where you can learn because they show entry and exit points
+01:59 AM
+PatrickRobertsonIs STT working for everyone, today I opened it up and nothing comes up when I do a scan. I can only pull up a chart if I know the ticker
+02:24 AM
+BabsAlviePatrickRobertsonHi.. not sure, since yesterday was Saturday if anything normally shows on Sunday??
+04:33 AM
+Gerg40517GM all, lots of studying this weekend, lets see how much i screw up today lol
+04:33 AM
+thinkeGM, hopefully not too much
+04:34 AM
+Gerg40517its stubborn habits that get me and i know it, that's the rough part lol
+04:36 AM
+thinkeYeah me too, patience, chasing, fomoing
+04:39 AM
+Gerg40517your not alone!
+04:39 AM
+AleksanderJGM. Excactly the same happening here. Bad entries and exits on good potential trades. And I ALWAYS know what I did wrong after the fact
+04:40 AM
+JRodAR83Same! Why are we so stubborn.... LOL
+04:41 AM
+Gerg40517hindsight is 20/20, That's why i am committing to posting it all and hopefully learning from those mistakes
+04:41 AM
+IvanPGerg40517just trade very carefully :) I somehow managed not to blow up my account in the first months of trading, so I think anybody can manage, too. The key is to experiment with small amounts and not to rise your bets until you are certain of what you're doing and your profits are consistent :) I know, that's a nice theory. We just need to practice and watch
+04:42 AM
+Gerg40517increase the knowledge account, i have to look at that as a profit in itself.
+04:43 AM
+AleksanderJYeah, trading carefully is key. I personally trade with 1/6 of 1% on each trade. So it will take time to blow up :)
+04:44 AM
+IvanPas I watched other bleed because the were increasing their bets after losing couple of trades, I did the opposite: whenever I lost, I decreased the bets. After couple of wins, I increased them. The easy key is, never bet more than 5% of your account. If you're winning, account is growing, and 5% of your account is also growing - so you can bet more. And vice versa
+04:45 AM
+JRodAR83Down to 700 out of 5k and starting to finally understand and now its hard to make $$ with so little and the $10 fee for the trades..
+04:47 AM
+AleksanderJYeah, that's the problem for most. When you finally learn to trade, the account is almost gone. That's the problem with going in with size in the beginning
+04:49 AM
+Gerg40517Thankful for this chat and the lessons, it has me only going roughly .05% of my account on any trade, cutting my losses(most of the time, still have that "oh it will bounce mentality at times) and went from thinking i was a knowledgeable investor with stash to realizing i didn't know shit!!!
+04:50 AM
+IvanP$JE uptrending
+04:52 AM
+IvanPPSHG and $ADMP biggest spikes so far (about 30%), but otherwise, slow morning
+05:30 AM
+Gerg40517SLow morning indeed
+05:37 AM
+IvanPand all running on Friday's news
+06:38 AM
+Vttrade4lifegm all
+06:40 AM
+Cranero_be|-)
+06:40 AM
+Vttrade4lifeJRodAR83 why are your trades $10?
+06:40 AM
+Vttrade4lifeare you trading OTC?
+06:44 AM
+Kev79MDLY
+06:46 AM
+kobyoshiMDLY no news that I see
+06:47 AM
+tycoon448Good morning
+06:51 AM
+Vttrade4lifehttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8715612177216650
+06:51 AM
+tommy888gMDLY news
+06:51 AM
+tommy888ghttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8715612177216650
+06:54 AM
+tycoon448I didn't understand news of MDLY. They sold som stake or what
+06:56 AM
+Aj1978GM all
+06:57 AM
+Vttrade4lifeSALE OF THIER PORTFOLIO
+06:57 AM
+Vttrade4lifesorry for caps
+06:58 AM
+Vttrade4lifeinvestment portfolio
+07:06 AM
+OmeMDLY keeps goin
+07:08 AM
+kissumsLIZI news
+07:11 AM
+Syeda1821MDLY$ has an Active Form3 which is scary
+07:14 AM
+IvanPMDLY resistance at 1.94 (double top), let's watch for a break out
+07:16 AM
+Kooper59IvanPi've been eyeing that one but it's so choppy i'm skeered.
+07:17 AM
+Kooper59Good morning everyone!
+07:18 AM
+kissumsMDLY past $2
+07:18 AM
+IvanPit just broke 2
+07:19 AM
+kissumsLIZI also bouncing
+07:20 AM
+IvanPMDLY weak break out, choppy indeed
+07:22 AM
+mqhizarcan we trade pre market in IB?
+07:22 AM
+Sanchez8849MDLY would love for it to consolidate pre market and i wouldn't be chasing b/o on on such a low float
+07:23 AM
+Kooper59i was too slow getting ready this morning
+07:24 AM
+Kooper59LISI is the one to watch imo.
+07:24 AM
+kissumsLIZI back above $4
+07:25 AM
+Kooper59LIZI rather. sorry
+07:29 AM
+tycoon448Stupid news on LIZI
+07:31 AM
+kissumswent past that $4.5 like butter..
+07:33 AM
+NotaRussianSpy$SOL in 4.20 - out 4.31, missed 7:10 spike to sell into, but playing it overly safe as it is weak right now. may retest 5.00 highs
+07:33 AM
+chutonly LIZI moving today. guess no trade for me today
+07:34 AM
+Iceman29chutMDLY is up 240%...
+07:38 AM
+tycoon448chuthave a nice day off
+07:40 AM
+STOCK_HUSTLEtycoon448It's still early
+07:40 AM
+tycoon448STOCK_HUSTLEwhy u telling me that
+07:40 AM
+NotaRussianSpy$GNUS sold 1/2 position @ 1.44, locking in 0.04/share just incase it doesn't breakout. Possible monday morning short squeeze
+07:41 AM
+tycoon448NotaRussianSpyyou like this ticker do you
+07:42 AM
+NotaRussianSpytycoon448Ive only traded it personally 2 or 3 times, but the pattern itself is beautiful in my eyes
+07:42 AM
+tycoon448WKHS wants more
+07:42 AM
+NotaRussianSpyWKHS in @ 26.80, wish i added
+07:43 AM
+drkpleasuremorning all . damn missed those runs LIZI and MDLY ;(
+07:43 AM
+tycoon448NotaRussianSpyDo you short? In whole
+07:43 AM
+tycoon448drkpleasurecry me a river
+07:43 AM
+drkpleasure:D
+07:44 AM
+NotaRussianSpytycoon448I have tried some short orders, never filled for various reasons. But i have bought PUTs before on NKLA $TSLA. not great at it yet ;'D
+07:44 AM
+DirkjohnsonHUSN also top pregainer
+07:44 AM
+NotaRussianSpyWWR toxic but also up 5% PM
+07:46 AM
+tycoon448NotaRussianSpyu trading from States?
+07:47 AM
+NotaRussianSpySold my WKHS @ 29.25, fearing 30.00 rejection. Looking to dip buy into the 25 - 27 range.
+07:47 AM
+IvanPWWR could have a panic soon
+07:47 AM
+NotaRussianSpytycoon448Yup! Good 'ol Florida man
+07:51 AM
+tycoon448$GME trapped so many longs
+07:55 AM
+Bertiolo97good morning chat
+07:57 AM
+thinkegm
+07:57 AM
+jtornatoreGM, first day here,
+07:58 AM
+Kooper59wow that sucked. i bought 200 shares of LIZI at 3.80 and tried to sell at 4.80 and when i hit the sell button it just sat there and spun. i had to reboot and by the time i was able to make the trade it was at 4.40. i still profited $120 but that could have been ugly.
+07:58 AM
+Kooper59jtornatorewelcome to the fun factory!
+07:58 AM
+CherisblessedjtornatoreGood Morning. Welcome. Happy trading.
+07:59 AM
+Kev79CANCEL THE SALE AND RE-SALE WITH HOT KEYS..IT SPEEDS IT UP
+07:59 AM
+Kooper59kissumsthanks for the tip on LIZI
+07:59 AM
+OmeKBLMR nice spike
+08:01 AM
+NotaRussianSpy$SOL woooow...panic
+08:01 AM
+tommy888g5M offering
+08:01 AM
+NotaRussianSpyglad i sold for 2% gains :'D no greed for waiting
+08:02 AM
+RelentlesStormNotaRussianSpy$SOL offering
+08:02 AM
+NotaRussianSpyRelentlesStormYea, just saw. Sorry longs :(
+08:04 AM
+RickyWhitehusn
+08:05 AM
+tycoon448WKHS tanking
+08:05 AM
+CherisblessedWKHS bleeding lol Glad I'm not holding
+08:06 AM
+RickyWhitemy bad didn't mean that.. was trying to check hush.. not type it here
+08:07 AM
+Kooper59NotaRussianSpyLand O Lakes, FL here
+08:11 AM
+NotaRussianSpyKooper59Oh nice! Can I order my butter directly from you then? Running short here
+08:12 AM
+Kooper59NotaRussianSpythey don't make butter here. they make meth.
+08:12 AM
+NotaRussianSpyKooper59EVEN BETTER!
+08:12 AM
+NotaRussianSpyi mean, EVEN BUTTER!
+08:12 AM
+Kooper59lol
+08:12 AM
+hirsthollowayNotaRussianSpyhow did you all see they were doing an offering so quick?
+08:13 AM
+jtc1316$JE up 10% today may run a bit pre market
+08:13 AM
+NotaRussianSpyhirsthollowayTD ameritrade has news scanners that auto display news
+08:14 AM
+Kooper59LIZI curling up again.
+08:14 AM
+hirsthollowayNotaRussianSpyah, didn't know they auto display option. Thanks!
+08:14 AM
+Kooper59$JE is going nuts
+08:16 AM
+kissumsany news on $JE?
+08:16 AM
+Gedas2020hello traders, any one can share a good book about candle sticks
+08:16 AM
+Kooper59hirsthollowayi haven't figured that one out yet
+08:16 AM
+Lpena1214Gedas2020like technical analysis or just candlesticks
+08:16 AM
+NotaRussianSpyhirsthollowayYup! I honestly prefer STT news scans, as I find them to do better scans, but the platform still has other issues that TD usually doesn't (such as servers side)
+08:17 AM
+Ome$DPW mini spike and news 10 mins ago
+08:18 AM
+alexchangtwGedas2020I like the book trading price action trends by Al Brooks.
+08:19 AM
+alexchangtwGedas2020It's three books actually.
+08:19 AM
+hirsthollowayNotaRussianSpyYeah, my STT has been crashing lately... overall do you like TD? I haven't tried many other brokers so idk but i feel like my OTC executions at TD suck
+08:19 AM
+NotaRussianSpy$GNUS pushed the @sk above 1.45 resistance. This is the indicator which confirms likely morning spike.
+08:19 AM
+Kooper59NotaRussianSpywhere is this news scanner you speak of?
+08:19 AM
+Gedas2020Lpena1214Yes, Tim mention autos Steav Nielsen if I’m right, but I can’t find
+08:20 AM
+Gedas2020I think “How to read candle stick charting “
+08:21 AM
+NotaRussianSpyKooper59ON TD, IDK about custom scans yet, but each stock you add to your watch list has an auto generated news feed, from their own scanners. These news/earnings and such are displayed next to tickers as colored orbs, correlating to each news type.
+08:21 AM
+Kooper59NotaRussianSpygot ya
+08:22 AM
+Travis_Rios"Japanese Candlesticks" is the thing to look for. Steven Nison
+08:22 AM
+Gedas2020Thank you
+08:22 AM
+Travis_RiosMarket Wizards is great too. Interviews with top traders, very insightful to mindset.
+08:23 AM
+Travis_RiosJack D Schwager (probably butchered last name)
+08:23 AM
+NotaRussianSpyWKHS panic... phew, glad I also sold that position for $2.45/share gains :D
+08:24 AM
+NotaRussianSpystill looking to dip on signs of stength
+08:26 AM
+BeckdanNotaRussianSpyWKHS is one of my top shorts today.
+08:26 AM
+BeckdanNotaRussianSpyStarted in small at $28.
+08:26 AM
+AcetradeThe Oracle Daily alerts recommended WKHS as a buy. Weird.
+08:26 AM
+Travis_Rioslol
+08:26 AM
+Scrillawilltee4MDLY
+08:26 AM
+NotaRussianSpyBeckdanHaha, nice! Well when you are done with those shares, give em to me to ride them back up!
+08:26 AM
+ScrillawillteeMDLY
+08:27 AM
+tycoon448I'd rather long WKHS notwithstanding offering rather than short
+08:27 AM
+Travis_RiosHUSN and MDLY watching. Hard noob here. Just observing
+08:27 AM
+jamesriverajrWKHS isn't USPS news supposed to be this week?
+08:28 AM
+BeckdanNotaRussianSpyI think they are a scam and have a very slim chance of winning any contract. WKHS
+08:28 AM
+AcetradeBig $AAPL unveil tomorrow. Wonder how the stock will do today. Although, with a big stock, the news is usually already baked into the price.
+08:28 AM
+OmeENZC perking
+08:29 AM
+NotaRussianSpyBeckdanI can't be bothered to find out either way, as I don't plan to invest or short to 0. But I love slow, multi day breakouts on patterns that usually take minutes. Much safer especially when Ark Invest bought a good chunk of them.
+08:29 AM
+BeckdanNotaRussianSpyCan't disagree with that logic.
+08:32 AM
+danyamohrNotaRussianSpyWKHS panic seems to be due to the news on the $200M financing. Tomorrow is the USPS announcement. Should be an interesting day today...
+08:34 AM
+MichaelGoode7%+ pre gainers: MDLY LIZI PSHG HUSN $ATV LMPX DOYU $DDS $ALKS DPHC $GLBS $JE BRQS AKBA IMRN FINV EYEN
+08:34 AM
+MichaelGoodeBRQS add to pre gainers list, forgot to cash-tag it above
+08:35 AM
+Obankz17Morning Everyone
+08:36 AM
+NotaRussianSpydanyamohrYup, you can see it start to drop 2 minutes after the first press release
+08:36 AM
+Obankz17DSGT looking for a dip under 0.20 one more time today so i can load up
+08:36 AM
+costam911HUSN float 17 MM
+08:37 AM
+NotaRussianSpy$GNUS keeps pushing higher, 1 penny at a time. Each penny up scares shorts more, and each penny up scares more shorts...more.
+08:37 AM
+HafidR$PASO another little gap up lets see if it runs today
+08:37 AM
+kcron$DYAI got the Mice!!! :D https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8715612177216650
+08:37 AM
+costam911MDLY float 6MM
+08:38 AM
+kcronWrong article. My bad. Correct article here $DYAI https://finance.yahoo.com/news/dyadic-updates-market-covid-19-123000691.html
+08:38 AM
+costam911LIZI float 10MM
+08:38 AM
+aumphreyMDLY running back up again
+08:38 AM
+costam911MDLY my top watch this morning
+08:39 AM
+jamesriverajrATXI possible dead cat play
+08:40 AM
+MichaelGoodeMDLY +236% $2.00 $68m mkt cap https://finance.yahoo.com/news/medley-capital-corporation-sells-mcc-212500424.html Medley Capital Corporation Sells the MCC Senior Loan Strategy JV Portfolio to Fund Managed by Golub Capital LLC
+08:40 AM
+NotaRussianSpy$GNUS sold my other 1/2 @ 1.46. I would have been more patient on this slow B/O, but I have to go to a store in 30 minutes, and I didn't want to risk another financing, as 2 of my 3 overnight positions announced offerings. $SOL and WKHS
+08:41 AM
+NotaRussianSpyMDLY above 2 again
+08:41 AM
+MichaelGoodeMDLY a financial so tough to figure out -- a reason for me to avoid
+08:42 AM
+NotaRussianSpyMDLY P.M. HOD
+08:42 AM
+ScrillawillteeMDLY nhod
+08:42 AM
+NotaRussianSpyyup, NHOD, sorry
+08:42 AM
+MichaelGoodeLIZI +60% $4.24 $191m mkt cap https://finance.yahoo.com/news/lizhi-inc-among-first-selected-105700480.html LIZHI INC. Among the First to be Selected into Government-backed Pilot Program to Bolster Local Online Audiovisual Industry
+08:42 AM
+BeckdanMichaelGoodeI'm guessing the chatroom get on it. Then I will get short. MDLY
+08:43 AM
+ScrillawillteeMichaelGoode:D
+08:43 AM
+Travis_RiosMichaelGoodeSensei, do you use Yahoo premium to find these alerts? So often I'll search a gapper and not get these articles... Or is it just magic?
+08:43 AM
+ScrillawillteeMDLY got in at 1.66
+08:44 AM
+BeckdanWKHS new low.
+08:44 AM
+gio22BeckdanThat sounds like a good plan!
+08:44 AM
+costam911MDLY news at 8:34 "sale of a loan for net proceeds of $41 MM"
+08:45 AM
+MichaelGoodePSHG +45% $0.8449 $44m mkt cap -- had a form SC 13D filed after market close Friday: https://www.sec.gov/Archives/edgar/data/1481241/000091957420006289/d8627514_13-d.htm
+08:45 AM
+BeckdanThe $27 fail on $WKHs got bought up.
+08:45 AM
+costam911PSHG float 21MM
+08:46 AM
+MichaelGoodeHUSN +47% $0.638 $20m mkt cap -- no news or filings that I see
+08:46 AM
+BeckdanBig exchange on MDLY around 2.20
+08:47 AM
+costam911Beckdanbig short?
+08:47 AM
+abhishekmehra82costam911i see 50M in TOS
+08:47 AM
+Beckdancostam911I'm short from $28 on WKHS, will add at the open if it stays weak.
+08:47 AM
+MichaelGoode$ATV +34% $20.25 $51m mkt cap -- BUYOUT at $21.00 per share -- IGNORE -- https://finance.yahoo.com/news/acorn-international-enters-definitive-merger-103000793.html Acorn International Enters into Definitive Merger Agreement for Going Private Transaction
+08:48 AM
+costam911abhishekmehra82probably outstanding shares not float, TOS doesnt show float that i know of
+08:49 AM
+MichaelGoodeLMPX +15% $40.41 $400m mkt cap https://finance.yahoo.com/news/lmp-automotive-holdings-inc-announces-201700267.html LMP Automotive Holdings, Inc. Announces Entry Into a Definitive Agreement for the Acquisition of a 70% Interest in New York’s Largest Franchise Dealership Group - Atlantic Automotive Group - and New York Logistics and Vehicle Storage Company - Atlantic Central Storage - Together Valued at $608,000,000
+08:49 AM
+obizzyany thought on ADOM
+08:49 AM
+costam911$SPY and $QQQ look to open +
+08:50 AM
+BeckdanMDLY will likely be a halt fest for the first hours or so.
+08:50 AM
+MichaelGoodeDOYU +16% $16.20 $5 billion mkt cap -- merger, ignore -- https://finance.yahoo.com/news/huya-douyu-enter-merger-agreement-113000950.html Huya and DouYu Enter into Merger Agreement
+08:50 AM
+jackjackMDLY moving
+08:50 AM
+costam911Beckdanhope not... kills momentum
+08:50 AM
+Beckdancostam911Probably really tight limits on it at the open.
+08:51 AM
+costam911Beckdanprobably right
+08:51 AM
+MrDimBeckdanprobably, as far as my screeners tell me there's no other viable play for longs
+08:51 AM
+MichaelGoode$DDS +15% $48.5 $1.1 billion mkt cap -- SC 13G filed Friday after close by Ted Weschler (one of top honchos at Berkshire Hathaway) https://www.sec.gov/Archives/edgar/data/28917/000091957420006291/d8629158_13-g.htm
+08:51 AM
+NotaRussianSpyAlright, if I miss the market open, GL to all! Starting the day up on 2 failed , 1 successful B/O, but all green trades! WOO!
+08:51 AM
+Beckdancostam911Previous close was 60 cents, so it will be tight for a while.
+08:52 AM
+Beckdan6 million float also
+08:52 AM
+costam911Beckdanyea may just watch this one at opem
+08:52 AM
+costam911open
+08:54 AM
+MichaelGoode$ALKS +13% $19.1 $3.0 billion mkt cap https://www.sec.gov/Archives/edgar/data/1520262/000156459020046225/alks-ex991_15.htm FDA Advisory Committee Votes in Support of ALKS 3831 for the Treatment of Schizophrenia and Bipolar I Disorder
+08:54 AM
+jackjackMDLY almost NHOD
+08:55 AM
+MichaelGoodeadd MDLQ to pre gainers list +20% -- this looks like debt of MDLY (listed above)
+08:56 AM
+sergiomadrigal14I'm really curious how NSPX is going to do today. no news since Oct 8th but it was pretty nice
+08:56 AM
+MichaelGoodeTravis_RiosI scan for gappers, then look for news on Yahoo Finance (so that I can get a link to share here), then check my news program to see if Yahoo Finance missed something
+08:57 AM
+IvanPMDLY broke 2.2
+08:57 AM
+libzentMDLY nhod
+08:57 AM
+Beckdanchat on MDLY
+08:59 AM
+costam911MDLY wants to test $2.50
+08:59 AM
+Beckdanshort at 2.30
+08:59 AM
+profittradeI have too many stocks on my tabs on stt
+08:59 AM
+MrDimBeckdanone minute before RH opens the foold gates :)
+08:59 AM
+Travis_RiosLIZI daily looks like ass
+08:59 AM
+Kooper59Beckdanpulling for ya Beck
+08:59 AM
+Scrillawillteestill holding MDLY from 1.66 i think it can make it to 2.55
+09:00 AM
+jackjackMDLY running big
+09:00 AM
+Beckdancovered 2.20 MDLY.
+09:01 AM
+sergiomadrigal14just looked at DSGT it looks like it reached a high .275 and right now it's at .23 so if you plan on playing this one, be careful
+09:02 AM
+Heavyseas$glbs acquisition
+09:02 AM
+sergiomadrigal14DSGT .275 in aug*
+09:02 AM
+gio22BeckdanBut the fun is just beginning.
+09:03 AM
+TimLentoMarket opens in less than 30 minutes. Please abide by chat rules from now until 4:00 PM EST. Violators are being muted in private. http://bit.ly/NewChatRules
+09:03 AM
+Jason_PeacockIf you look at the 6 month, it's been to 1.34
+09:03 AM
+KBTr4d3rPSHG Seems to have resistance @ .91 tried it 3x now
+09:04 AM
+BeckdanNow you can see that 2.30 is the mark to watch on MDLS. Chatroom just showed everyone the top for now.
+09:04 AM
+jtornatorewould you wait for a morning panic on DSGT or enter at open
+09:04 AM
+costam911Beckdanyou were on the rigth track
+09:05 AM
+tommy888gIPOB strong
+09:05 AM
+CCarneyCan anyone confirm $GLBS float numbers? Says 1.6m and average daily volume is over 15m. This make any sense?
+09:06 AM
+costam911CCarney83 MM float
+09:06 AM
+ScrillawillteeMDLY nhod
+09:06 AM
+Bertiolo97CCarneyfloat 1.62 MM but volume 3.57 on STT
+09:06 AM
+Beckdanchat on MDLY again.
+09:07 AM
+Rafiki$OPTT dropping real good
+09:07 AM
+Beckdanshort at 2.38 small this time.
+09:07 AM
+kobyoshiBeckdanwhat chat?
+09:07 AM
+CCarneycostam911How did you get that float? On STT it has 1.6 quite odd
+09:07 AM
+CCarneyThanks though
+09:07 AM
+BeckdankobyoshiI call him the pony tail bandit.
+09:07 AM
+costam911yahoo finance
+09:08 AM
+costam911the 2.50 test is coming MDLY
+09:08 AM
+tycoon448MDLY consolidation resistance at 2.9 ish
+09:08 AM
+costam911every time i say that.... dump
+09:08 AM
+BeckdanCovered 2.25 MDLY
+09:12 AM
+BeckdanSNMP is still one of my top shorts today into any strength.
+09:12 AM
+Lpena1214MDLY is laughable at this point
+09:12 AM
+Jason_PeacockDSGT I"m in with 3k shares from .175 Is there any news with this or is it just 'hot sector'
+09:13 AM
+Travis_RiosMichaelGoodeThank you for response sensei. SEC dvd blowing my mind btw
+09:13 AM
+ecordle92$ENSV pewrk
+09:13 AM
+ScrillawillteeMDLY can go to 2.68 now or back to 2.01
+09:14 AM
+Rafiki$OPTT little bounce action
+09:14 AM
+Scrillawillteeim riding from 1.66 stop at 2.01 MDLY
+09:14 AM
+IvanPJason_PeacockThe news was from Friday morning (partnership with Skywell: https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=4673968270651384), it just keeps spiking on it later, as other traders notice the news
+09:15 AM
+goonegm
+09:15 AM
+Rafikidaddy Tim!
+09:15 AM
+thinkeGm
+09:15 AM
+FlowTradergm tim
+09:15 AM
+libzentGood morning
+09:15 AM
+Taj214Morning coach
+09:15 AM
+indawestgm
+09:15 AM
+StudyingUpSoSheCanStayHomeGood morning there Tim!
+09:15 AM
+KBTr4d3rGM TIM
+09:15 AM
+mkhl27Morning Tim!
+09:15 AM
+ScrillawillteeHEY TIM
+09:15 AM
+martiantradergood morning Tim
+09:15 AM
+JoeyDGM
+09:15 AM
+JRodAR83TIMBO Slice!!
+09:15 AM
+AndreasHarryPippyGood Morning Tim
+09:15 AM
+bhyde1989good morning
+09:15 AM
+Spudneck_DanTIMMMMMMMMMMM MORNING
+09:15 AM
+Ariacheers everyone
+09:15 AM
+ItsTimeTimmmmmmmmm! Let do it!
+09:15 AM
+PriceisRightGood morning
+09:15 AM
+ScipioGM
+09:15 AM
+aravind2106GM
+09:15 AM
+MountainTipTr8rMorning
+09:15 AM
+kdfiendgood morning!
+09:15 AM
+MrMierrorphant🙏🙏🙏
+09:15 AM
+ThompsonslakeMorning
+09:15 AM
+Spudneck_DanDSGT up .22 NOICE
+09:15 AM
+Bertiolo97GM sensei
+09:16 AM
+jamesriverajr(coffee)
+09:16 AM
+OmeWow look at MDLY go
+09:16 AM
+glekarkynfirst time here. GM.
+09:16 AM
+Duffel_DuffMDLY going for $2.50!!!
+09:16 AM
+Aj1978Gm boss
+09:16 AM
+costam911big level $2.50 MDLY
+09:16 AM
+Scrillawilltee2.50 MDLY
+09:16 AM
+AriaAny thoughts on SNMP ?!!
+09:16 AM
+ticoti(coffee)
+09:17 AM
+Kooper59Beckdanhi tim
+09:17 AM
+Kooper59glekarkynwelcome
+09:17 AM
+ecordle92gm boss
+09:17 AM
+KBTr4d3rMDLY Pushing into the open hit 2.50 w/ good volume
+09:18 AM
+Beckdanshort 2.52 MDLY still small though.
+09:18 AM
+jackjackMDLY blasting off
+09:18 AM
+costam911Beckdani lik ethat one
+09:19 AM
+Beckdanchatroom keeps adding to MDLY long
+09:20 AM
+Bertiolo97Beckdanit's already +320% what do you think?
+09:21 AM
+BeckdanBertiolo97I think it will halt up and down after the open.
+09:21 AM
+thinkeBertiolo97chasing MDLY is not a good idea
+09:21 AM
+Spudneck_DanDSGT https://insiderfinancial.com/dsg-global-an-ev-play-with-huge-upside
+09:21 AM
+ScrillawillteeMDLY 2.75 THATS WHAT ITS LOOKING LIKE NOW MY STOP AT 2.18 GOT IN 1.66
+09:21 AM
+Bertiolo97thinkeyeah i don't like chasing pre market
+09:21 AM
+Jason_PeacockI'm watching MDLY for a big crap. If it doesn't crap, not buying it.
+09:22 AM
+amsbeatsAlright baby Monday Morning let's DO it!!
+09:22 AM
+PatrickRobertsonlooking for a dipnrip on MDLY after it opens
+09:22 AM
+amsbeatsI got smoked last week on VVPR ready for a comeback today
+09:22 AM
+kdfiendScrillawillteeNice going, make sure to take profits along the way!
+09:23 AM
+Kylehornback77amsbeatsVVPR had an offering
+09:23 AM
+tommy888gVVPR holds Friday lows , intresting how it akt with SSR on
+09:23 AM
+jdukeGood Morning (sun)
+09:23 AM
+Lpena1214prints just keep comin with MDLY
+09:24 AM
+KennyBDef waiting for a dip and rip MDLY , only way Ill buy it
+09:24 AM
+MichaelGoodeLIZI full PR is here https://www.prnewswire.com/news-releases/lizhi-inc-among-the-first-to-be-selected-into-government-backed-pilot-program-to-bolster-local-online-audiovisual-industry-301150120.html LIZHI INC. Among the First to be Selected into Government-backed Pilot Program to Bolster Local Online Audiovisual Industry
+09:24 AM
+Beckdanadded 2.57 after missing my covered at 2.40. Chatroom keeps adding more and more. Will be a huge stuff if it happens
+09:24 AM
+tommy888gKylehornback77wher you see offering on VVPR , it didnt
+09:24 AM
+jamesriverajrJCPNQ https://ir.jcpenney.com/news-events/press-releases/detail/623/jcpenney-begins-holiday-deals-in-october-with-exciting-new
+09:25 AM
+Bertiolo97Beckdanlong position??
+09:25 AM
+KristianMDLY i was eyeing this up at 2.11 but don't like to trade pre-market
+09:25 AM
+BeckdanBertiolo97I'm short
+09:25 AM
+SpaceTraderBeckdanHi short, i'm dad
+09:26 AM
+ecordle92SpaceTraderNOTT
+09:26 AM
+mqhizarInteractive brokers shows 2.32$ for MDLY
+09:27 AM
+costam911i think MDLY will squeeze
+09:27 AM
+BlckfootJust out of curiosity why would you guys short this on the first green day? There’s no telling were this will end up
+09:27 AM
+costam911because Beck has huge cohones
+09:28 AM
+Blckfoot:D
+09:28 AM
+Kristianlol
+09:28 AM
+NotaRussianSpyMackay sighs, "Men go mad in crowds, and they come back to their senses slowly, and one by one" --- No FOMO today folks! Don't chase the crowd!
+09:28 AM
+MichaelGoode90 seconds until market open
+09:28 AM
+MichaelGoodeCarnival Cruise Line Cancels Miami And Port Canaveral Cruises For November 2020 $CCL
+09:29 AM
+TimLentoWelcome to ! Everything that is not an actionable stock alert or a brief discussion of a current or potential stock trade is off-topic during the trading day. Discussions may take place in the off topic room. Violators are being muted in private. See the rules and abbreviations here > http://bit.ly/NewChatRules
+09:29 AM
+JetLevantDSGT red
+09:29 AM
+AcetradeJetLevantIt's up off the close
+09:29 AM
+TimLentoPlease Read the Rules Before Posting in Chat => http://bit.ly/NewChatRules
+09:30 AM
+MichaelGoodeDING DING DING
+09:30 AM
+cb2883watching $JE for today's run
 
 
 
@@ -22,2815 +745,3233 @@ Commentary
 Chat Archive
 Watchlists
 Track Record
-Chat Log for 10/9/2020
-03:55 AM
-Gerg40517GM all, ready for this pre market!!!
-03:55 AM
-Knesevitchnice
-04:07 AM
-IvanPCEI cracking, nothing else there
-04:09 AM
-Gerg40517$JE up 42% already
-04:09 AM
-AleksanderJ$JE running. Looks like a pump, but I'm not sure
-04:15 AM
-IvanPCEI bounced from 1.07
-04:19 AM
-Knesevitchstil holdin that eod triple bottomn from where it squeezed
-04:20 AM
-Knesevitchwe'll see
-04:23 AM
-tycoon448$MVIS running
-04:29 AM
-IvanP$MVIS nice spike, indeed
-04:29 AM
-IvanP$JE still with biggest volume
-04:29 AM
-IvanP(total volume)
-04:36 AM
-IvanP$MVIS still going
-04:38 AM
-IvanP$OPTT trying too
-04:39 AM
-Gerg40517Volume seems to have moved to $MVIS and $OPTT
-04:50 AM
-tycoon448$MVIS consolidating
-05:30 AM
-cricket2020are you able to trade HYLN. It shows stopped on my webull app
-05:39 AM
-Gerg40517Webull desktop shows no premarket
-05:39 AM
-Gerg40517on HYLN
-05:45 AM
-cricket2020yes same here, weird
-05:57 AM
-Gerg40517Seeing it all over twitter, watch it jump at open
-06:21 AM
+Chat Log for 10/13/2020
+12:08 AM
+DibberOh my, what a beautiful day after I had to leave for the day job.. Definitely would've capitalized, but! These patterns happen AGAIN and AGAIN and AGAIN x 100 x 1,000 x 10,000s. No rush, no sweat. Just have to make it work for the time I'm available and so thankful they don't go away! 4 years from now, just wait
+12:15 AM
+Bryan22Dibberi feel the same way bud (y)
+04:34 AM
+IvanPEARS spike
+05:14 AM
+Cranero_beIvanPKeeps on going :)
+05:15 AM
+HooksLoving this trade EARS
+05:26 AM
 riverawgm
-06:25 AM
-Gerg40517GM
-06:32 AM
-Gerg40517$JE moving again.......maybe lol
-06:43 AM
-louiedecaro31$shmp moving pre market up 116%
-06:49 AM
-SergLNDany good catalyst on stocks guys ?
-06:59 AM
-AcetradeKind of a crappy looking pre-market
-06:59 AM
-Jputnam13Agreed
+05:34 AM
+IvanPEARS and NXTD only, this morning.
+05:40 AM
+SHAMILIvanPEARS was not bad +0.5k for me
+05:43 AM
+IvanPSHAMILnice!
+05:44 AM
+jseeroAny thoughts on CEI? Potential squeeze?
+05:59 AM
+chutany 200% gapper?
+06:07 AM
+IvanP$DVAX spike, covid news: https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=7300047298596929
+06:07 AM
+IvanPlow volume, though
+06:15 AM
+chutlet's hype it to increase volume
+06:15 AM
+mqhizarEARS has good volume and spiking pre market , think its gonna crash?
+06:16 AM
+thinkemqhizarYes, probably
+06:19 AM
+IvanPmqhizarprobably, no fresh catalyst. But there is nothing else to trade, currently, so it may still spike
+06:28 AM
+andyin250Literally nothing else worth trading atm. All eyes on EARS.
+06:28 AM
+Cranero_beIvanPThe only thing I see is that they need x-business days +$1 to stay on nasdaq and if I'm not mistaken this happend a few times already (with success)
+06:29 AM
+SykeimlongTSLA B/o
+06:31 AM
+Sykeimlongdam near
+06:36 AM
+rmarinGood morning
+06:36 AM
+andyin250CSCW perking
+06:40 AM
+tommy888ghttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8508217527524511
+06:40 AM
+tommy888gCSCW 6;30 PR
+06:52 AM
+NotaRussianSpy$ALT up 15% on light volume
+06:54 AM
+NotaRussianSpyw/ highs of 16.75
 07:00 AM
-kobyoshiIt's Friday. Friday's seem dead like this. Tim does not trade much o Friday's unless there is something seeminlg awesome
-07:00 AM
-STOCK_HUSTLElouiedecaro31it's SNMP
+Kooper59good morning everyone
 07:01 AM
-Chalet2021$MVIS
+Kooper59SHAMILwho's your broker?
 07:02 AM
-SergLNDAcetradetotally agree ! no huge percentage gainers either
-07:02 AM
-Chalet2021$MVIS moving on seeking Alpha article
-07:03 AM
-IvanPSNMP monster
-07:03 AM
-kobyoshiSNMP news?
-07:08 AM
-wagnermsj1977SNMP last news I see is from 06/09/2020. Anyone see recent news?
-07:09 AM
-drkpleasureE-Trade not excepting trades on SNMP
-07:09 AM
-louiedecaro31$wwr starting to move again watch this will pop and be a good DAY trade no swing for me if i do for sure but lots of movement pre market
-07:11 AM
-kobyoshiSNMP ETrade will not let me buy this stock til 9:30
-07:11 AM
-drkpleasureis SNMP no early hour trades on E-Trade
-07:11 AM
-kobyoshiSNMP I just tried an can't
-07:12 AM
-louiedecaro31$usws moving breaking out now
-07:13 AM
-IvanPMDGS spike
-07:14 AM
-IvanPyes, I got alerted: https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=4559026114453286
-07:14 AM
-louiedecaro31Tbone18form 6k for 4 MDGS
-07:15 AM
-louiedecaro31also branded some marketing on amazon
-07:15 AM
-kobyoshiMDGS low float 3.7 mil. It could fly today
-07:16 AM
-IvanPI missed the fill because of the stupid "Allow pre-market" checkbox in IB. For a hundredth time ... I wish there was a setup to have this checked by default, hm
-07:17 AM
-kcronUSWS +166%
-07:18 AM
-louiedecaro31really good news on MDGS could really move all day great play for friday lets go
-07:18 AM
-rcoburn6Sold all my USWS @ 7am :( i
-07:19 AM
-rcoburn6puke
-07:19 AM
-kobyoshiMDGS already traded 24% of its float. Could be HOT today
-07:19 AM
-louiedecaro31rcoburn6damn really moving nice pre market could be great play all day as well
-07:20 AM
-MagicbenMDGS. Have a lot of back holder’s.
-07:20 AM
-MagicbenOver 80M in volume. It will go up a bit imo and then fails
-07:22 AM
-luismill713kobyoshiyou have contact them
-07:22 AM
-luismill713drkpleasureyou have to contact them
-07:22 AM
-drkpleasureok thanks Luismill713
-07:24 AM
-kobyoshiMagicbencontact?
-07:24 AM
-Jputnam13In USWS at .61 out at .78
-07:26 AM
-kobyoshiMSGS in $2.10, out $2.31
-07:28 AM
-Dirkjohnson$JE shooting up I bought 6.40 opened at 6.80 and dipped so I got out at 6.58 now its 7.18🤦‍♂️🤦‍♂️🤦‍♂️ congrats to those who held it
-07:29 AM
-drkpleasureWhat brokers allow you to trade before 7 am
-07:30 AM
-Gringoguapo8) Buen dia
-07:30 AM
-Gerg40517Webull can at 4 but your limited to very few OTC even in reg hours.
-07:30 AM
-castlegio28TD Ameritrade
-07:31 AM
-vladvisan4what about IB??
-07:32 AM
-e_havinsUSWS in avg .448 out at .61 🤬 yes, I left the party too soon. It’s ok, I’ve been hoing and hoping with this for months so I’m glad to be rid of it! ...profit is always good though!
-07:32 AM
-drkpleasureok keep wondering why things are moving at 5 and 6 am thought I was over sleeping (yawn)
-07:34 AM
-e_havinsNot all tickets can trade pre/post market...I use ETrade and it’s unrestricted other than OTC’s
-07:35 AM
-jamesriverajrGood morning. I was hoping MDGS would run harder like alot of recent low floats. Ugh.
-07:39 AM
-SergLNDjamesriverajrthe news are wishy washy. general BS from the CEO. weak pump
-07:44 AM
-jamesriverajrSergLNDThis has been my issue the last month or so with trading. This type of news would have lasting power a month ago. FML
-07:44 AM
-RichardofyorkeSNMP 218%
-07:47 AM
-Bertiolo97good morning
-07:47 AM
-MagicbenSNMP. Will reach 1.7 easy in pre
-07:48 AM
-dino0301Good morning guys
-07:49 AM
-jamesriverajrMDGS curling on the one min chart
-07:49 AM
-Bertiolo97which is the news on SNMP?
-07:50 AM
-RichardofyorkeOCGN Spiking
-07:51 AM
-luismill713Bertiolo97i could not find any.. i think just because it is in a hot sector?..
-07:54 AM
-Bertiolo97wow is high a lot
-07:54 AM
-NotaRussianSpyCEI oof, didn't do what I thought it might, so Im ganna get out and take my small $ loss, but sadly an 11% loss is not my game plan
-07:55 AM
-NotaRussianSpy$GME but I also warned people from chasing $GME into the high 13's and 14's.
-07:56 AM
-MurdoMcGood morning all
-07:58 AM
-NotaRussianSpyMornin' Murdo
-08:00 AM
 Aj1978Gm all
-08:00 AM
-CuriosityTraderWWR news
-08:00 AM
-kuniokun$VTNR spiking
-08:02 AM
-NotaRussianSpyACB nice 10% gap up, shoulda got in on the $5 support A/H
+07:03 AM
+TripleTenacitySOS ripping
+07:05 AM
+Kooper59Aj1978hi AJ
+07:05 AM
+SHAMILKooper59et ibrk tos cobra
+07:06 AM
+Kooper59SHAMILwhich one you trading before 7 with?
+07:06 AM
+SHAMILKooper59any
+07:07 AM
+Kooper59SHAMILi guess i should fund my tos account then
+07:07 AM
+Kooper59SHAMILor my ibrk
+07:08 AM
+Kooper59anyone see a catalysts for SOS?
+07:08 AM
+SHAMILKooper59ib have better commisions and execution, but cobra is better
+07:09 AM
+Kooper59SHAMILi use fidelity ATP presently with ToS for my charts and scans. I'm new to day trading. I can't trade with Fidelity before 7
+07:09 AM
+Kooper59CEI has a little spike with some volume coming in
+07:09 AM
+rdentiTRXC Moving on news
+07:10 AM
+TripleTenacitySOS didn't see any catalyst at all...Yahoo showing 8 mil float
+07:10 AM
+SHAMILKooper59tos best for charting and otpions imho
+07:11 AM
+IvanPEARS spike
+07:11 AM
+Kooper59IvanPand rejected
+07:11 AM
+jseeroCEI near Day high at 1.15 and holding it's gains above 1.00
+07:11 AM
+dhudge39Why is WKHS moving pre-market?
+07:11 AM
+IvanPKooper59what do you mean? it's quite a big spike
+07:12 AM
+IvanPwith nhod
+07:12 AM
+Kooper59yep. it paused at the day high of 1.85
+07:12 AM
+Kooper59IvanPi feel like it's a chase at this point. i can't do it.
+07:13 AM
+SHAMILnice sqeeze
+07:13 AM
+IvanPKooper59sure, it's too late for long
+07:14 AM
+Kooper59IvanPif nothing else i'm learning patience and not to chase. normally i'd have been all over that
+07:15 AM
+Kooper59$CGC dropped .40 a share
+07:17 AM
+Kooper59SOS is calling my name
+07:18 AM
+SHAMILSOS loading
+07:19 AM
+Kooper59SHAMILrelatively high volume imo. maybe getting ready to fip
+07:19 AM
+Kooper59rip*
+07:20 AM
+IvanPKooper59me too, but I was considering to buy it in the morning for 1.15 and I didn't. And now it hit 1.95 :)
+07:21 AM
+IvanPand I also know, it could spike at 7am, but still didn't buy it. Maybe too cautious ...
+07:21 AM
+Kooper59i need more screen space
+07:21 AM
+Kooper59IvanPdo you trade before 7?
+07:22 AM
+Kooper59so many things spike at 7 i think you could get up early and end your trading day by 730 and go back to bed.
+07:23 AM
+BerryBearishKooper59im usually done trading by market open
+07:23 AM
+IvanPKooper59yes
+07:24 AM
+Kooper59IvanPand your broker?
+07:24 AM
+IvanPSOS looks interesting, a multiday runner from the chart history
+07:24 AM
+IvanPKooper59IB
+07:24 AM
+Kooper59NXTD slow climb
+07:25 AM
+IvanPTbone18yes, that's what my IB shows. STT always shows a different number, 1.18, in this case
+07:26 AM
+IvanPsorry, 1.18 is correct, both show 1.18 (finviz too)
+07:27 AM
+Kooper59Tbone18that's why i haven't gotten it. my current pc's won't support it
+07:27 AM
+IvanPTbone18I sent a question to STT support, and they only told me, that some sources calculate float and some use SEC fillings and that STT uses SEC fillings. But, I showed them an example, where STT showed a different number that IB, finviz, yahoo and marketwatch at the same time (and these 4 showed the same number). So ...
+07:28 AM
+IvanPKooper59they've improved performance, now it's doing OK, I can run both STT and IB (and other sw) at the same time on my laptop and it's not overheating
+07:29 AM
+Kooper59IvanPany idea what processor you're running?
+07:30 AM
+IvanPi9 8core
+07:30 AM
+IvanPbut previous version of STT was causing me troubles
+07:30 AM
+IvanPnow it's fine
+07:31 AM
+ScrillawillteeEARS
+07:32 AM
+reverselongIvanPdamn, thats hardcore. i just use a surface pro with 2 monitors attached. i think its i5?
+07:32 AM
+reverselongIvanPi run tos and IB and the web and all that... i love my setup.
+07:32 AM
+reverselonggot pics of it in one of my blogs
+07:33 AM
+IvanPreverselongyes, trading sw requires hardcore hw, my old 2013 MacPro couldn't run it, so I had to upgrade
+07:34 AM
+BigpigstockTRXC Volume up
+07:34 AM
+reverselongIvanPthats crazy.... when i was doing architecture design and animations i would need an i9 Lol....
+07:35 AM
+Kooper59both my machines have i3's
+07:35 AM
+Kooper59lol
+07:36 AM
+Kooper59Tbone18lol.
+07:37 AM
+Kooper59i need to build a new one soon.
+07:39 AM
+gpkendrickCSCW moving up
+07:40 AM
+IvanPSOS going, missed my dip buy
+07:41 AM
+IvanPreverselongyes, but bear in mind how many parallel feeds these tools need to handle - many many many running threads, so I understand it needs fast and multi-core cpu
+07:49 AM
+IvanPSOS spiking, big volume
+07:49 AM
+MongooseG morning! Is the chat working??? Test...
+07:51 AM
+MongooseTbone18Thanks! Happy hunting this morning!!!
+07:53 AM
+krulldaddySOS testing 3.00, i'm in at 2.82 looking for a single but giving it some time to marinate in case it runs back to 7 a.m. high (3.48)
+07:53 AM
+krulldaddy*3.48
+07:53 AM
+krulldaddyi like that emoji though lol :)
+07:54 AM
+krulldaddyif only i were cool enough to have sparkling sunglasses...
+07:56 AM
+kobrakaiPECK news
+07:57 AM
+NotaRussianSpySUNW perk
+07:59 AM
+Bertiolo97good morning
+08:01 AM
+krulldaddyout SOS for a scratch, i'm okay with $20 lunch money lol #greenisgreen
 08:03 AM
-NM91anyone else have issues with sell orders being delayed on etrade?
-08:03 AM
-Sanchez8849CuriosityTraderhas doubled its outstanding shares in the last month too much dilution taking place
-08:04 AM
-NotaRussianSpyWKHS might be getting ready to breakout from its bull flag consolidation today, with resistance @ 25.14 from previous day highs. Multi - month breakout, hovering above B/O level.
-08:06 AM
-IvanPMDGS weird misprints
+RaymondTicker48SOS hitting the $3 barrier
+08:05 AM
+NotaRussianSpy$CTIC up-ticks
+08:05 AM
+IvanPme too, tiny profit. but it can spike later. only EARS and SOS have volume, so I'm sure people are watching
 08:07 AM
-Oksit$FCEL news $8M gov contract
-08:07 AM
-jgarc908$VTNR pump
+Aj1978Why EARS has so much volume?
+08:08 AM
+CuriosityTraderMDGS news
+08:08 AM
+krejmentMDGS amazons approval to launch in the UK
 08:09 AM
-NotaRussianSpy$CGC looking weak on over extension
+tommy888gkobrakailink for PECK news?
+08:09 AM
+NotaRussianSpy$QQQ on my charts is facing the same support-turned-resistance line. If $AAPL disappoints, could see an overall market tank like on 9/15/20
+08:10 AM
+tommy888ghttps://www.businesswire.com/news/home/20201013005283/en/The-Peck-Company-Holdings-Announces-7.641-Million-in-Contracts-from-a-10.5MW-Portfolio-of-Solar-Projects-in-Vermont
+08:10 AM
+tommy888gI find it PECK
+08:11 AM
+colombo198522MDGS in at 2.48 out at 2.72
+08:11 AM
+Bertiolo97MDGS spiking on news
+08:11 AM
+CuriosityTraderMDGS geez
+08:11 AM
+NotaRussianSpyfor real.. wtf? any news
+08:11 AM
+MaerskPCK claims they have more "CONtracts" than youve had cans of coke.....
+08:11 AM
+Maersk*PECK
+08:12 AM
+NotaRussianSpyyep, I see for MDGS news - amazon approval
+08:13 AM
+CuriosityTraderMDGS float is low. Volume is already 2M
+08:13 AM
+NotaRussianSpyand nothing stopping it from reaching $4 PM
+08:13 AM
+IvanPlol, I missed the news on MDGS. Please tell me, why on earth someone implements a news scanner (STT) and does not implement alerts on it! I see it there, but I'm not watching that small window all the time ... why the hell there is no alerting there (a sound). There is only alert in Top% gainers, when there is a new headline on a ticker in the list, but MDGS wasn't in the list, yet, so no alert. omg
 08:14 AM
-NotaRussianSpy$GNUS is perking again. It's itching to pop, but still needs volume before any significant move. just eyeing it for now
+kobrakaiMDGS https://www.globenewswire.com/news-release/2020/10/13/2107530/0/en/Medigus-Smart-Repair-Pro-gains-Amazon-s-approval-for-launch-in-the-UK-and-4-top-EU-countries.html
+08:14 AM
+IvanPMDGS going higher
+08:14 AM
+DTS86having a sound on it would be annoying, it alerts tons of info, you need to decipher through it and watch it
+08:15 AM
+thinkeMDGS 3.40 $ resistance
+08:15 AM
+AntonioPShad an alert from 2 weeks ago for MDGS at $2 and it didn't go off. FML lol
+08:15 AM
+NotaRussianSpyIvanPWell you may have missed the initial spike, but if this is running today, its actually better to wait for a pull back and find some support
 08:16 AM
-castlegio28$TAT
+FlowTraderGM everyone, anyone know how to enable pm/af trading on e*trade so I may catch these plays next time? (wasntme)
+08:16 AM
+DTS86IvanPuse a 2nd screen with the STT news there. I blow it up to half the screen. I catch something on it every other day it seems
+08:16 AM
+AntonioPSnot 2 weeks ago my bad. was looking at wrong ticker. Friday I had it alerted for me for $2
 08:17 AM
-HendoNotaRussianSpyso glad we can mute people
-08:20 AM
-SparkTradezGood Morning@!
-08:20 AM
-SparkTradezWhoa fat fingered it. Good Morning**
+CuriosityTraderFlowTraderin the order box--under destination--put to ext hrs
+08:17 AM
+NotaRussianSpyI used to panic, and FOMO myself into 100% spikes, until I found out, that if a stock will run 500% in a day, it doesn't matter if you get in @ 75% or 50%, or wait for B/O's above 100% on SUPPORT
+08:17 AM
+BeckdanEARS is crazy. It was the wrong ticker mentioned in an article about a $JNJ lawsuit. Article was corrected and now there is zero reason for it to be up. I am short and trying to borrow even more shares.
+08:18 AM
+florianhillenAntonioPSJa, thats not optimal. What are you looking for? I am watching $NWBO, NNDM, RIOT, MARA
+08:18 AM
+cb2883MARA news
+08:18 AM
+Agraz23MDGS in 2.35 out 2.85 700 shares. Nice start to the morning with $350
+08:19 AM
+kobrakaiBeckdanwhere you short from
+08:19 AM
+kobyoshiMSGS low float. could run all day with Amazon news
+08:19 AM
+Beckdan1.60 and desperately looking for more shares. onoly 4K so far.
 08:21 AM
-louiedecaro31so many great plays today which too choose from lol
+IvanPDTS86thanks, I'm watching 3 windows there, already, luckily the breaking news has sound alerts. But I'm also working, so not watching trading screens all the time, hence I need alerts :)
 08:21 AM
-mitchelldWWR looking nice. #5 pattern, news about a big graphite yield, in at 8.5
-08:21 AM
-LucoMany tickers up high in % without any news. Surprising.
+FlowTraderCuriosityTraderin the order box under duration -> EXT, do you mean?
+08:22 AM
+NotaRussianSpyMDGS pulling back
+08:22 AM
+CuriosityTraderFlowTraderyes
+08:22 AM
+gio22BeckdanThats classic:)! Seriously, the wrong company mentioned?
+08:22 AM
+FlowTraderCuriosityTraderawesome, thank you! :)
 08:23 AM
-SparkTradezSeems like the oil sector is perking up, potentially over this hurricane activity in the gulf.
+Beckdangio22Yep. Aurora medical versus Aurora Holdings or something like that...
 08:23 AM
-gpkendrickmitchelldWWR if it can break out of this current level - yes
+AntonioPSflorianhillenWatching MDGS GMBL NXTD EARS for my penny stocks. and PTON $AAPL DKNG for my options account
 08:24 AM
-NotaRussianSpyHendoDidn't know that we could!
+kobrakaiAuris Health
 08:24 AM
-Bertiolo97SNMP is already 18.59MM
-08:24 AM
-Bertiolo97volume
+gio22Thanks man. appreciate it.
 08:26 AM
-IvanPMDGS gapping up again
-08:27 AM
-SykeimlongMDGS potential b/o
-08:27 AM
-rcoburn6$AXAS joining the oil names
-08:27 AM
-mitchelldgpkendrick:)
-08:28 AM
-mitchelldnew high!
+AntonioPSthought GMBL would pick up in volume from its Esports news. doesn't seem like it
+08:29 AM
+gpkendrickBeckdanLOL - it doesn't get much easier than that :D
+08:30 AM
+BeckdangpkendrickI woke up at 4 am eastern to get the 4000 shares borrowed that I have right now, but can't get more.
 08:31 AM
-kobrakaiCEI news
-08:32 AM
-Acetrade$GME showing life
-08:32 AM
-doby1765VVPR EV news
-08:32 AM
-RubendcorreaHPR
+gpkendrickBeckdanThat's not bad
+08:31 AM
+hirsthollowayDibberHidenburg released report on $LOOP
+08:31 AM
+kobrakai$LOOP expose by Hindenburg
+08:31 AM
+JasunYunehaha, i am short 80 shares on EARS, thanks for the tip Beck
+08:31 AM
+hirsthollowaydidn'tt mean to reply
 08:33 AM
-CuriosityTraderCEI no more shares to dilute unitl vote
+samxxHonestly I dont short but if i did it would be easy to short everything hindenburg talks about lol
 08:34 AM
-LucoMDGS reached resitance already. This may be a small dip and a continuation higher or a selloff at market open.
+NotaRussianSpy$NWBO bid/ask moved up a few pennies. possible gap up
+08:34 AM
+TunaTaco282twitter had me worried it was @SPAQ that hindenburg was targeting... damn twitter
+08:35 AM
+JasunYuneanyone know what it means for a stock to be under NYSE regulatory restriction? apparently I couldn't get shares of $GME yesterday due to that?
 08:36 AM
-jdevito18kobrakaiWhat news?
+Maerskinsane volume MDGS
+08:37 AM
+Maerskalmost a million shares a minute.....MDGS
+08:37 AM
+kobyoshiMaerskMDGS and super low float less than 4 mil. And I am out of trading $$ in my account. Cash account with 48 hour settlement. done trading til tomorrow
+08:38 AM
+Bertiolo97we have the news, low float ill see with MDGS.can go even higher
+08:38 AM
+NotaRussianSpyJasunYuneYea, it means you can't short it cuz NYSE says so - its in place for one reason or another, likely a compliance or possible SSR
+08:39 AM
+thinkeTbone18yes seems like a gap and crap stock ... but the catalyst as right, we ll see if this could run ...
+08:39 AM
+MichaelGoode$LOOP impressive gap down -33% on the Hindenburg short report (which does look damning)
 08:40 AM
-IvanPThis is a nice summary: https://www.benzinga.com/news/20/10/17849117/40-stocks-moving-in-fridays-pre-market-session
-08:42 AM
-Bigdaddydran$GME the squeeze hasn't even started
+BeckdanMichaelGoodeSuper thin trader. Will be fun to watch.
+08:40 AM
+MichaelGoode$LOOP https://hindenburgresearch.com/loop/
+08:40 AM
+JasunYunei got some shares, but it's down so much already $LOOP, i'm not sure if it's safe to short
+08:41 AM
+BeckdanReality setting in on EARS now.
+08:41 AM
+MichaelGoode9%+ pre gainers: MDGS EARS $PED CSCW NXTD SOS $INMD TRXC PECK ATHA RGLS $MEDS $ALT RETO $ALLT ENLV MFH $DRAD
 08:43 AM
-MichaelGoodeSNMP +205% $22m mkt cap -- no news
+Rafikiand doesnt seem to hold highs
 08:43 AM
-jamesriverajrMDGS 400 shares in @ 2.11, out @ 2.27. Tried to give it more time but my 9- 5 is distracting me. lol
+louiedecaro31MichaelGoodethank you michael for always answering our questions you freaking rock learn so much by just seeing what you say through out the day so thanks again.
+08:43 AM
+WantMore22$PED is out of control
 08:44 AM
-StubmtXSPA news opening at Boston Logan airport testing covid
+Abelloel1$PED IS ROCKETING !!!!!!!
 08:44 AM
-MichaelGoode10%+ pre gainers: SNMP USWS SDPI MDGS VVPR $MVIS $GPOR $PACD $JE OCGN $XLNX WWR $EXTR $RYCEY HPR $ENSV NCSM AMRH NCSM $GNMK AMRH $INUV IMRN DPHC ACB $SPTN
-08:44 AM
-ShawnVeriginGood morning
+Abelloel1NEW 52 WEEK HIGHS
 08:45 AM
-BigdaddydranSNMP looks like a gap and crap opportunity today
+BeckdanAbelloel1Some chatroom, not sure which bought it.
 08:45 AM
-tycoon448MDGS news looks fluffy
+Abelloel1I DONT SEE ANY NEWS
+08:45 AM
+PhillipHamptonI see the $PED News and apparently its great news, if anyone has time to explain the good news
+08:45 AM
+Topdawg5Abelloel1u didnt look..
+08:45 AM
+HendoAbelloel1the news is on STT
+08:45 AM
+IzriMoses$PED news?
 08:46 AM
-MichaelGoodeUSWS +71% $0.551 $40m mkt cap -- no news -- had run a bit yesterday
+AshTrades$PED PEDEVCO Commences Exchange Offer to Acquire All Outstanding Common Units of SandRidge Permian Trust
 08:46 AM
-MichaelGoodeSNMP USWS looks like low float oil companies are the hot thing today
+kobrakailol EARS
+08:46 AM
+NotaRussianSpyCEI perk
+08:46 AM
+kobrakaigot my short
 08:47 AM
-MichaelGoodeSDPI +50% $0.63 $15m mkt cap -- another no news low float oil co
+NotaRussianSpyCEI B/O over yesterdays HOD
+08:47 AM
+JasunYuneNotaRussianSpythanks for info
+08:47 AM
+jseeroCEI looking nice into market open
 08:48 AM
-MichaelGoodeMDGS +50% $18m mkt cap https://finance.yahoo.com/news/medigus-enters-e-commerce-brands-111000734.html Medigus Enters E-Commerce Brands Marketing on Amazon Marketplace
-08:48 AM
-MichaelGoodeVVPR +37% $13.78 $182m mkt cap https://finance.yahoo.com/news/vivopower-international-plc-executes-definitive-123000697.html VivoPower International PLC Executes Definitive Agreement to Acquire 51% of a Light Electric Vehicle Company, Tembo e-LV
+MichaelGoodeMDGS +60% $3.01 $21m mkt cap https://finance.yahoo.com/news/medigus-smart-repair-pro-gains-120600317.html Medigus: Smart Repair Pro gains Amazon's approval for launch in the UK and 4 top EU countries
+08:49 AM
+PhillipHampton$PED PEDEVCO Provides Second Status Update Regarding Open Letter Delivered to Avalon Energy, LLC https://finance.yahoo.com/news/pedevco-provides-second-status-regarding-100000118.html
+08:50 AM
+jjFloresCEI spike
+08:50 AM
+MichaelGoodeEARS +50% $1.28 $9m mkt cap wow so still up on false report by theflyonthewall.com "A report from Bloomberg that said Johnson & Johnson (JNJ) is being sued for falsely promising billions of dollars in future payments to shareholders of Auris Health was linked to shares of Auris Medical in error previously. The report from Bloomberg refers to Auris Health, not Auris Medical."
+08:50 AM
+ManFromShadowGLUC #Pink Current Glucose Health, Inc. (GLUC: Pink Current) | GlucoDown® Expanding To 2000 Walmart Pharmacies For 2021
 08:51 AM
-MichaelGoode$MVIS +22% $2.74 $393m mkt cap -- no news that I see
+MichaelGoodecongrats to anyone who woke up early and shorted EARS. Bad day for my wife to get her hair done and leave me to walk the dog and get the kid ready for virtual school
+08:51 AM
+BeckdanSomeone took all the EARS shares at Centerpoint pretty early today. I have been trying all morning with now luck after about 3:30 AM. I managed to get 4K, but didn't get short until 1.60 on the downside because it was crazy earlier. Trying to be patient with the short and ride it all the way down.
+08:51 AM
+costam911MichaelGoodehair cut cost you twice
+08:51 AM
+TimLentoMichaelGoodethats san espensive hairs cut
+08:52 AM
+NotaRussianSpy$PED cool that its up, but daily chart repels any interest from me. MDGS looking the same to me now as well. don't bag hold if you didn't plan to invest in the first place :)
+08:52 AM
+BeckdanTimLentoLento, I was wrong the other day. CP let me get borrow as soon as the markets opened today. It's not as late as I thought.
+08:52 AM
+blurcharisMichaelGoodeare you complaining? (giggle)
+08:53 AM
+WantMore22$VTNR spiking
+08:53 AM
+TimLentoBeckdan4 AM?
+08:53 AM
+BeckdanTimLentoYeah, 4AM eastern time
+08:53 AM
+Travis_RiosTimLentoWould it be fair to say that a midday gapper should be treated somewhat like a premarket gapper, and that golden hour is similar to market open in its behavior toward these gappers (Such as $SURF spiking at 11:30 and then running around 2pm yesterday)? Sorry for maybe a dumb question, but I tend to learn better through comparison/analogy....
+08:54 AM
+C_ShellThoughts on MDGS, good dip buy or waterfalling out? Been watching since below 3s
+08:54 AM
+TimLentoTravis_Riosno such thing as miday gappret unless its a vol halt or super illiquid
+08:54 AM
+kobyoshiMSGS so pissed that I put in my order so quickly at $2.25 on the way up and forgot to click after hours. Fuuuck! Not touching that shit now
+08:54 AM
+Travis_RiosTimLentoWrong term. Maybe I just meant a spike
 08:55 AM
-MichaelGoode$GPOR +20% $0.78 $127m mkt cap -- another no-news energy company
+Travis_Riosor "ramp"
 08:56 AM
-MichaelGoode$PACD +13% $0.305 $23m mkt cap -- another no-news low float oil co
+TimLentoTravis_Riosyes beautiful chart spike at 12, midday consol and intraday breakout late day
 08:56 AM
-ecordle92notifed all these yesterday at a cheaper price.. hope u got in ;)
-08:56 AM
-tommy888gMMEDF gaping down
+Travis_RiosThat answers my question, thank you sensei
 08:57 AM
-KennyBSeems like SNMP is holding up best atm
+NotaRussianSpykobyoshiI got into the habit of automatically selecting "Ext. Hours" option, even for midday trades, that way I don't have to think about it for PM/AH trades
+08:57 AM
+MichaelGoode$PED +127% $3.05 $200m mkt cap https://www.accesswire.com/610226/PEDEVCO-Commences-Exchange-Offer-to-Acquire-All-Outstanding-Common-Units-of-SandRidge-Permian-Trust PEDEVCO Commences Exchange Offer to Acquire All Outstanding Common Units of SandRidge Permian Trust
+08:57 AM
+andyin250kobyoshiYou mean MDGS?
+08:57 AM
+Kooper59another bipolar day
+08:57 AM
+doby1765MDGS gathering at multi-month support ahead of 9am RH
 08:58 AM
-MichaelGoode$JE +16% $6.48 $296m mkt cap Shares of Just Energy are up 11.8% at $6.25 per share after PIMCO disclosed a 28.9% activist stake in a 13D filing afterhours. PIMCO stated: "In connection with the closing of the Recapitalization, the PIMCO Entities entered into an investor rights agreement with the Issuer, Sagard Credit Partners. Pursuant to the Investor Rights Agreement, the PIMCO Entities and Sagard Entities will be entitled to designate one individual for election or appointment to the Issuer's
+MichaelGoode$PED silly for it to be up so much on this news of it buying another stock
 08:58 AM
-SpaceTraderWeed stocks might start coming into play again after Kamala Harris said Marijuana would be decriminalized at a Federal Level $CGC TLRY APHA ACB. would recommend setting up a weed watchlist as they are already showing signs of strength
+BeckdanMichaelGoodeSome chatroom ran it up along with the news.
 08:58 AM
-TunaTaco282let's see if CEI bounces off that vwap any
+MichaelGoodeCSCW +39% $0.75 $42m mkt cap https://finance.yahoo.com/news/color-star-technology-development-offline-103000817.html Color Star Technology in Development of Offline Music Festival Series
 08:58 AM
-MichaelGoodethat $JE filing is here: https://www.sec.gov/Archives/edgar/data/1163368/000119312520266388/d910836dsc13d.htm
-08:58 AM
-KennyBSpaceTraderLets hope she doesnt get in office:D
-08:58 AM
-jdukeGood Morning (sun)
-08:58 AM
-TunaTaco282in CEI at 1.145
+NotaRussianSpyAnyone able to find shares to short on $LOOP? if so, please share? :D but seriously, good for you if you did. zilch @ TD.
+08:59 AM
+AntonioPSDont recommend shorting LOOP while its already down so much
+08:59 AM
+IvanPlol, my GTC order on NWBO (OTC stock) from yesterday just got executed, pre-market
+08:59 AM
+BigBusinessNotaRussianSpyOnly a 1 million share float with a .40 / share upside. Short at your own risk.
+08:59 AM
+helixtrader36$CERS receives 11M contract from FDA. 10M shares short could have a nice morning spike. https://seekingalpha.com/news/3621668-cerus-bags-11m-fda-contract-to-treat-whole-blood-sharesplus-5?utm_source=quotemedia.com&utm_medium=referral
+08:59 AM
+mstonaNotaRussianSpyyeah its literally down over 30%.....
 09:00 AM
-Dirkjohnson$GE is up 5% on news, Goldman sachs says BUY
-09:01 AM
-Dirkjohnson$KMI Announces safe 8% dividend
-09:01 AM
-Vietl00pz$MVIS https://seekingalpha.com/article/4378207-microvision-lidar-is-worth-2-billion-according-to-valuation-of-velodyne-and-luminar-lidar
-09:02 AM
-dino0301SNMP looking good
-09:03 AM
-DirkjohnsonTunaTaco282I thought you said 11.45 I about spewed my coffee
-09:03 AM
-GGTrader89DirkjohnsonHAHAHAHAHA
-09:03 AM
-TunaTaco282hahaha... got them platinum shares
-09:03 AM
-BeckdanChat is on VVPR
-09:04 AM
-BeckdanUnlikely I short VVPR today. I think it has a lot of room to run for days still.
-09:04 AM
-_JJTHEBARBERSNMP big volume spike
-09:05 AM
-kcronBeckdanWhich chat are you referring to?
-09:06 AM
-ecordle92SNMP called it yesterday .39 cents . js
-09:06 AM
-BeckdanI call him the pony tail bandit. I won't post the name in here to advertise for the idiot, but I a quick google will make it obvious.
-09:06 AM
-Dirkjohnson$selb gapped down pretty hard o/n any life expected today?
-09:07 AM
-Gerg40517Im fairly new and i get that reference, lol
-09:08 AM
-Bertiolo97VVPR is spiking
-09:08 AM
-BeckdanGerg40517Don't get me wrong. The dude is absolutely banking. I just don't like the way his people get wrecked a lot, but it sure does make me a lot of money.
-09:08 AM
-kcronBeckdanI know exactly who you're talking about. Thanks :)
-09:09 AM
-Abhi_VVPR have been holding 30 shares since tuesday @11.27. Time to make some profit :)
-09:09 AM
-jackjackSNMP new higher low
-09:09 AM
-CosmicCornucopiaAbhi_congratz
-09:09 AM
-BeckdanStarting to think I may have lied. I might pay for the borrows now on VVPR.
-09:10 AM
-costam911Beckdanhe was my first "mentor" and it didnt last long. Then I found tim and havnet looked back
-09:10 AM
-BeckdanOuch! $127 to borrow 1000 shares VVPR
-09:10 AM
-SpaceTraderBeckdanCobra? IB?
-09:11 AM
-BeckdanCenterpoint
-09:12 AM
-_JJTHEBARBERim trynna figure who it is lol
-09:12 AM
-Beckdanshort 17.14
-09:13 AM
-Kylehornback77BeckdanGood short
-09:13 AM
-Kylehornback77Might fake out
-09:13 AM
-libzentGood morning
-09:13 AM
-riverawgm
-09:13 AM
-Aj1978Gm boss
-09:13 AM
-AhraghebGM
-09:13 AM
+MichaelGoodeNXTD +21% $0.4032 $14m mkt cap -- no news or filings that I see
+09:00 AM
 Gerg40517GM
-09:13 AM
-DPM1201gm
-09:13 AM
-JRodAR83MORNING!
-09:13 AM
-Isdatskittlesgm
-09:13 AM
-MadJ26gm
-09:13 AM
-ForgottenOneGM TIm
-09:13 AM
-Mark88gm
-09:13 AM
-ArysDanielgm
-09:13 AM
-KBTr4d3rGM TIM
-09:13 AM
-jstats12gm
-09:13 AM
-Ezmoney_21gm
-09:13 AM
-JaysmoneyGM
-09:13 AM
-gustavosiqueiragm
-09:13 AM
+09:00 AM
+MichaelGoodeTexMex @TraderTexMex 11s EARS Auris Medical Announces Initiation of Part B of TRAVERS Phase 2 Study with AM-125 in Vertigo Has a bunch of shorts in from last night and this morning. Should be interesting
+09:00 AM
+ecordle92gm boos
+09:00 AM
+libzentGM tim
+09:00 AM
+RickyWhitenow ears has a pr..lol
+09:00 AM
 DipNripgood morning
-09:13 AM
-omgjoereallymornin
-09:13 AM
-STOCK_HUSTLEgm
-09:13 AM
-PennywizerGm
-09:13 AM
-Scrillawillteegm
-09:13 AM
-Hmitchell7Good morning
-09:14 AM
-Watchmearn1goodmorning(dance)
-09:14 AM
+09:00 AM
 WantMore22Good morning Tim!
+09:00 AM
+Mark88GM
+09:00 AM
+thehighwaymorning!
+09:00 AM
+OCNYDayTradingmorning tim
+09:00 AM
+ScipioMG
+09:00 AM
+immywalkergm
+09:00 AM
+goonegm
+09:00 AM
+C_ShellGM Tim
+09:00 AM
+migarambulagoood morning
+09:00 AM
+AshTradesGood Morning Tim :)
+09:01 AM
+joxgm
+09:01 AM
+001CPmorning
+09:01 AM
+Sin_tradinggm
+09:01 AM
+ManFromShadowGood morning Tim
+09:01 AM
+MichaelGoodeAuris Medical Announces Initiation of Part B of TRAVERS Phase 2 Study with AM-125 in Vertigo GlobeNewswire - Oct 13 09:00 EDT EARS
+09:01 AM
+ThompsonslakeMorning
+09:01 AM
+FlowTradergood morning Tim!
+09:01 AM
+AM3GM TIM!
+09:01 AM
+DaddyKaiMorning boss, good morning everyone
+09:01 AM
+Kooper59hi Tim
+09:01 AM
+RickyWhitemdgs
+09:01 AM
+PennywizerBuenos dias to all
+09:01 AM
+AscendedMornign (afternoon in the UK) :-)
+09:01 AM
+TripleTenacityEARS climbing again
+09:01 AM
+PAPARobHey Coach!!
+09:01 AM
+Nguyenken6GM Tim
+09:01 AM
+stoneyardMorning
+09:01 AM
+geostudioGood morning
+09:01 AM
+BigBusinessEARS news just out. If anyone had shorts, beware. 1 million float and positive news released
+09:02 AM
+kermike33GM
+09:03 AM
+RickyWhiteears
+09:03 AM
+NotaRussianSpyBigBusinessI was trying some shorst in the 8.40's and would have covered in the 7.70's already, not trying a "TO ZERO" approach :D
+09:03 AM
+thinkepumping up that EARS momentum
+09:03 AM
+BeckdanBigBusiness4-6 million float on EARS. Well played on the BS press release on their part.
+09:03 AM
+RickyWhiteI will eventually figure out this new setup & stop posting random tickers..my bad
+09:04 AM
+kobrakaiwhat are the chances EARS release news after the mistake
+09:04 AM
+MichaelGoodeSOS +16% $2.46 $46m mkt cap -- no news or filings that I see
+09:04 AM
+RickyWhiteBeckdandid u cover from last night yet?
+09:05 AM
+ZubijavedGood Morning
+09:05 AM
+BigBusinessBeckdanMine says 1 million. Can you tell me how I get the right number?
+09:05 AM
+BigBusinessNotaRussianSpyNice
+09:05 AM
+RickyWhiteears is 1.56 mil float
+09:05 AM
+gpkendrickkobrakaiGive em credit for trying
+09:05 AM
+BeckdanI just covered EARS at 1.46. I had 4K avg from 1.60. Pretty pissed about not covering at 1.30 now. ugh... I hope it rips up to re-short later.
+09:05 AM
+MichaelGoode$INMD +19% $46.5 $1.5 billion mkt cap https://finance.yahoo.com/news/inmode-expects-record-third-quarter-120000774.html InMode Expects Record Third Quarter Results, Revenues Between $59.2-$59.5M, Non-GAAP Earnings per Diluted Share Between $0.60-$0.62; Increasing Full Year 2020 Revenue Guidance to $192-$195M
+09:05 AM
+costam911its never just an easy trade EARS
+09:06 AM
+AcetradeJILL
+09:06 AM
+BeckdanBigBusinessIt's hard to say what the best source is for float data, Yahoo and Finviz are the two I use most.
+09:07 AM
+Travis_RiosAcetradeJILL was one of my first trades before joining this challenge. Thing pops and fades every time it seems like. Just a heads up
+09:07 AM
+Shagadellicly_Noahcatalyst on JILL anyone?
+09:08 AM
+AntonioPSPTON $3 off its pre market high. gonna do a call after morning panic
+09:08 AM
+costam911investors disclose 70% active stake in JILL TOWERBROOK
+09:08 AM
+AcetradeNew investor bought a 74% stake in JILL. I was simply telling the chat room its on the move, per the Breaking News on STT
+09:08 AM
+HAWAII_Trader70.4% stake investor on JILL
+09:08 AM
+HAWAII_Traderto the moon with JILL
+09:08 AM
+costam911lol
+09:08 AM
+RickyWhitechat is on $jill
+09:09 AM
+MichaelGoodeTRXC +15% $0.465 $46m mkt cap https://finance.yahoo.com/news/transenterix-announces-first-pediatric-surgical-105500798.html TransEnterix Announces First Pediatric Surgical Cases with Senhance® Surgical System
+09:09 AM
+Shagadellicly_Noahthank you
+09:09 AM
+MichaelGoodelink to EARS pr: https://finance.yahoo.com/news/auris-medical-announces-initiation-part-130000930.html Auris Medical Announces Initiation of Part B of TRAVERS Phase 2 Study with AM-125 in Vertigo
+09:09 AM
+costam911$Jill long term chart gives all its gains up
+09:09 AM
+Chalet2021JILL
+09:11 AM
+AcetradeTravis_RiosAs people sit here and warn about JILL in a day-trading chat room, the thing is up over 50% over the last few minutes.
+09:11 AM
+AcetradeSorry, Travis, was meant for the group, not you specifically
+09:11 AM
+BeckdanDamn I got punked out on EARS!!!
+09:11 AM
+Beckdanshort JILL 1.51
+09:12 AM
+costam911guess the comment should have read dont expect it to be an all day gainer JILL
+09:12 AM
+Travis_RiosAcetradeI don't tell anyone not to trade, only give an opinion based on experience.
+09:12 AM
+Beckdanchatroom was buying a ton of it.
+09:12 AM
+Travis_Riosof that particular ticker*
+09:12 AM
+RafikiBeckdanlooks like youll be getting a new pair of shoes today
+09:12 AM
+doby1765MDGS spiking into open
+09:12 AM
+BeckdanCovered at 1.32 JILL
+09:12 AM
+AcetradeTravis_RiosAll good. Doesn't every penny stock pop and fade?
+09:13 AM
+Mehmoodquick question, does scaling in or out still count as 1 trade? eg. short 1000 shares, buy 500 and then buy 500 again all count as 1 trade?
+09:13 AM
+RafikiAcetradepop, lock, and drop
+09:13 AM
+NotaRussianSpyMehmooddepends on your broker. each one is different on how they count day trades
+09:13 AM
+costam911Beckdanlike a sniper
 09:14 AM
-dino0301Goood morningg
+Travis_RiosAcetradeOf course, but a quick glance at JILL daily looks like a pamphlet whereas others are 30 page short stories
 09:14 AM
-slasher04gm
+BeckdanJILL, MDGS, and EARS are all the borrows I have ready for the morning right now.
 09:14 AM
-graczyk189good morning
+BeckdanAlso will trade $AAPL short.
 09:14 AM
-ScipioGM
+Gerg40517Should not count as day trade until you sell, again check broker
 09:14 AM
-DNeshJanGM .. Friday already
-09:14 AM
-bhyde1989GM
-09:14 AM
-Beckdanadded once at 16.16 and covered all at 16. VVPR
+LaVeensBeckdanWhat broker(s)???
 09:15 AM
-DrewMattGood Morning
+AntonioPSBeckdanwondering what u think about PTON. had a 80% gain on my call yesterday
 09:15 AM
-quangdinhGood morning
+JetLevant$HALB covid news biiiiig gap up on level 2
 09:15 AM
-Aj1978It reminds me my scholl days in back home when our teacher comes to class room we all stud up and say good morning teacher lol
+AntonioPSI locked in ***
 09:15 AM
-MurdoMcmorning chief
-09:15 AM
-AM3GOOD MORNING
-09:15 AM
-Fill_TradesGooood Morning :)
-09:15 AM
-lennal3ngood morning :)
-09:15 AM
-OmeMorn
-09:15 AM
-bLIKEotterecordle92How'd you know?
-09:15 AM
-MyeonGood morning
-09:15 AM
-ecordle92I sold SNMP yesterday for a 200$ gain. could of been a lot more..
-09:15 AM
-DNeshJanAj1978very true 😆
-09:15 AM
-retiredtchr49(music)Good Morning!!
+BeckdanLaVeensCenterpoint, but it wasn't cheap for the borrows. I spent way too much today on borrows (~$500 so far).
 09:16 AM
-caydan19retiredtchr49good morning
+BeckdanAntonioPSPTON is always a watch, but not got to try to find the top. Who knows where it will be.
+09:16 AM
+cb2883CEI looking strong
+09:16 AM
+libzentBeckdanQuestion, what is "covered"?
+09:16 AM
+costam911JetLevantnice find
+09:16 AM
+BeckdanlibzentClosing a short position.
+09:16 AM
+AntonioPSYea /NQ just dropped so PTON went with it. Prob gonna call after the morning panic since its 3 bucks down from its highs which it always catches back up to
 09:17 AM
-GilbertRegaladoWatching for the break of 1.42 on SNMP to start a position
+Shagadellicly_NoahJILL fading
 09:17 AM
-BeckdanSNMP is my top short, but it will only interest me if it gets crazy high or shows some serious weakness. Halts are going to be a problem with it I think.
-09:17 AM
-MichaelGoodeLKNCY gapping up 12 cents or so
-09:17 AM
-Bertiolo97SNMP maybe dip and rip near market open
+thinkeJILL gap and crap history
 09:18 AM
-NotaRussianSpyahhhh f$*% me! sold CEI @ 1.03 for a small loss, just before it spiked to a profit level... sigh, not enough patience
+JetLevant$HALB more strength level 2
 09:18 AM
-lennal3nwhy is SNMP up? any news?
-09:18 AM
-ecordle92bLIKEottercant tell ya .. ;)
-09:18 AM
-dino0301SNMP is going over 2.. my thoughts
-09:18 AM
-GGTrader89Still holding CEI. my overnight swing. Lets see what this market wants to do.
+Rafikii like $NWBO chart, but I dont wanna touch it until i see how it acts at open
 09:19 AM
-ecordle92bLIKEotterjust watch for my name. n tickers. read the chart first! don't follow everything plz
+extrafiredmorning
 09:19 AM
-AshTradesdino0301Same
+JetLevant$HALB want to see how it reacts at open might be tough to buy after 50%+ gap up
+09:19 AM
+extrafiredlooking at GME, NWBO, LITB, SOL
+09:19 AM
+KennethLeeMDGS probably going to get a little run before I dip buy. Ill watch EARS and JILL to see what the price actions is.
+09:19 AM
+JetLevantRLFTF covid news also gapping up level 2
 09:20 AM
-bLIKEotterecordle92;)
+_JJTHEBARBER$HALB history of strong morning runs from news
 09:20 AM
-KennyBlennal3njunk oil and gas co all up, just sector momentum I believe
+sobbmx1983$HALB look at the orders 10k at .0079 is only $79 not much
 09:20 AM
-KennethLeeEveryone is pumping SNMP for whatever reason but ill wait to see if its a good dip buy comes in
+HendoKennethLeeWhy would you watch ears? -news was a mistake
 09:20 AM
-dino0301USWS nice dip lets see how its gonna ride the morning panic
+MongooseSub-penny talk is okay in here?
+09:20 AM
+sobbmx1983sorry 30k so still only $237 not much
+09:20 AM
+MichaelGoodeMongooseno
 09:21 AM
-lennal3nKennyBoh ok thanks
+Travis_Rioslol
 09:21 AM
-ecordle92$VTNR moving up
+AntonioPSlol
 09:21 AM
-jackjackSNMP about to test HOD
+MichaelGoodeSee chat abbreviations and rules here: http://tim.ly/sykeschatrules
+09:21 AM
+MichaelGoodesubpenny stocks are off-topic unless brought up by Sykes or a moderator
+09:21 AM
+AntonioPSLooking for that VWAP cross on MDGS
 09:22 AM
-ecordle92bLIKEotterI had 1000 sharers yesterday at. .42
-09:22 AM
-costam911some rumblings on twitter (face_vomiting) about BRTXQ plan for reoorg approved im long @ .0135
-09:22 AM
-FunkyTraderGBTC, RIOT continuation, nhod
+gpkendrickAntonioPSMe too but getting too close to open now
 09:23 AM
-drkpleasuregm
+MichaelGoode7 minutes until market open
 09:23 AM
-drkpleasureMorning Tim
+RafikiMDGS may be coming back
+09:23 AM
+_JJTHEBARBERMDGS above VWAP
+09:23 AM
+CrabbyEagle$NWBO gap up
+09:23 AM
+doby1765MDGS a lot of volatility in p/m....this is going to be a fun one
+09:23 AM
+cb2883watching LIZI for potential short squeeze
 09:24 AM
-Spartan1shotwaiting for the panic on $ENDP
-09:25 AM
-BeckdanWWR is loaded with shorts and had an offering, but it's holding up well after the offering announcement. Potential squeeze there.
-09:26 AM
-MichaelGoode4 minutes until market open
-09:26 AM
 TimLentoWelcome to ! Everything that is not an actionable stock alert or a brief discussion of a current or potential stock trade is off-topic during the trading day. Discussions may take place in the off topic room. Violators are being muted in private. See the rules and abbreviations here > http://bit.ly/NewChatRules
+09:25 AM
+JetLevant$HALB now gapping up over 60%
 09:26 AM
-amsbeatsAlright Friday morning baby let's get it!
+KennethLeeI feel like MDGS about to blow right pass that pre-market high but I hope not because I want the dip on it
 09:26 AM
-drkpleasureGM
-09:26 AM
-KAP705Would that be an #SNMP double top?
-09:26 AM
-TimLentoThe Best Pattern to Watch out for Every Friday Morning https://profit.ly/500HCF
+KennethLeesobbmx1983Just to see what the action is because of it
 09:27 AM
-amandasMichaelGoodeI get the horse race feeling when you do this count down..horns ringing...let the action begin lol happy friday
-09:27 AM
-TimLentoPlease Read the Rules Before Posting in Chat => http://bit.ly/NewChatRules
+gpkendrickI think MDGS is gonna fly at open
 09:28 AM
-HafidR$PASO gapping up 8% lets see if it holds
+ham159$AAPL insane move in two days. upcoming presentation
+09:28 AM
+mqhizar$HALB stopped at .0063? or is my internet bad?
+09:28 AM
+BeckdanWKHS smacked on downgrade
 09:29 AM
-plumes1Good Morning from the windy city.
+jerasylmqhizar.0092
 09:29 AM
-NotaRussianSpySNMP possible market open dip to 1.10 ish support.
+DylanmoranmqhizarNiw@ 0.0095
+09:29 AM
+ecordle92GL (y)
 09:30 AM
-MichaelGoodeDING DING DING DING
+MichaelGoodeDING DING DING DING DING
 09:30 AM
-ksat88USWS news?
-09:31 AM
-RubendcorreaUSWS, dropping
-09:31 AM
-MrDimksat88no USWS seems to be sympathy to SNMP
-09:31 AM
-FunkyTrader$GME pop and drop
-09:31 AM
-RubendcorreaGAXY, waking up
+mqhizarDylanmoranim watching on IB and marketwatch, where you watching bro?
+09:30 AM
+jdukeGood Morning (sun)
 09:32 AM
-MichaelGoodeLKNCY g/r
-09:33 AM
-BrettMSNMP
-09:33 AM
-FunkyTrader$SELB hod
-09:34 AM
-libzentSNMP halt
-09:34 AM
-FunkyTraderTLRY bounce
-09:34 AM
-aumphreySNMP halt up
-09:34 AM
-costam911damn
-09:34 AM
-KennethLeeSNMP halt smh
-09:34 AM
-JRodAR83MDGS gaining strength
-09:34 AM
-NotaRussianSpySNMP hault
-09:34 AM
-AcetradeSNMP in at 1.28, out at 1.42 right before halt. Nice single to start the day!
-09:34 AM
-jackjackSNMP halting gonna gap up
-09:34 AM
-jmantradingseems like $gpor is in morning panic
-09:34 AM
-DipNripSHMP got 1000share at 1.42 before halt
-09:35 AM
-MichaelGoodeTim is a little late on that dip buy LKNCY -- I got in at 4.65
-09:35 AM
-AcetradeHere comes $GME
-09:35 AM
-costam911.20 halt on SNMP? must be pending news
-09:35 AM
-MichaelGoodeall out LKNCY
-09:35 AM
-BrettMUSWS
-09:36 AM
-IvanPLKNCY in @4.65, nice panic
-09:36 AM
-MichaelGoodeLKNCY so far failing at r/g
-09:36 AM
-BrettM$MMLP
-09:36 AM
-closeu4sure$ABIO panic
-09:36 AM
-Duffel_DuffMichaelGoodewhere should SNMP open?
-09:37 AM
-Mikeyrocks93$GME r/g
-09:37 AM
-Duffel_Duffindicating price?
-09:37 AM
-libzentVVPR dropping
-09:37 AM
-Bryanxwe won't know since SNMP is not on nasdaq
-09:37 AM
-Travis_RiosType M halt, volatility on SNMP
-09:37 AM
-sat_stocks2what is r/g ?
-09:37 AM
-MichaelGoodeDuffel_DuffSNMP is NYSE American and I don't get indicative resumption prices on those :(
-09:37 AM
-BrettM$MMLP spiking
-09:37 AM
-Duffel_Duffdam
-09:37 AM
-DipNripDuffel_Duff9:38:55
-09:37 AM
-dkv242608Rubendcorreado you think it will?
-09:37 AM
-ecordle92ENZC running
-09:37 AM
-MichaelGoodeLKNCY hey I got out at right time for once, close to lod test
-09:38 AM
-ecordle92BO
-09:38 AM
-TimLentoPlease don't ask random questions that no one can answer, aka magic 8 ball questions, it just clutters chat. Thanks for your cooperation! http://bit.ly/NewChatRules
-09:38 AM
-gizmofabany idea what $snmp is indicating?
-09:38 AM
-AbeeeeENZC spiking
-09:38 AM
-DibberNSPX is running
-09:38 AM
-MichaelGoodeLKNCY nlod
-09:38 AM
-costam911USWS may be the play while SNMP is halted
-09:38 AM
-Watchmearn1miss dip buy $GME
-09:38 AM
-MLima_15Yes c'mon LKNCY bigger panic!
-09:38 AM
-IvanPMichaelGoodeI was also in @4.65, there was a wall of buyers at this price, but only a partial fill as it was fast
-09:39 AM
-MichaelGoodeSNMP resume
-09:39 AM
-Rubendcorreadkv242608which one?
-09:39 AM
-dino0301USWS riding the wawe nicely
-09:39 AM
-MATW23$PPSI spike
-09:39 AM
-colombo198522$RYCEY Panic
-09:39 AM
-charveyCOTY Big Drop
-09:39 AM
-mexmillionaireSNMP NHOD
-09:39 AM
-ecordle92|( sold me SNMP last night..
-09:39 AM
-BrettM$INTZ mvoing
-09:40 AM
-DipNripSHMP in 1.42 out 1.58 I will not greedy
-09:40 AM
-jjFloresSNMP in 1.28 out 1.56
-09:40 AM
-IzriMoses$OPTT r/g looking for a panic
-09:41 AM
-AshTrades$snmp in at $1.24 out at $1.52
-09:41 AM
-Dragaeran$GE?? Dip bounce play? What's up with that?
-09:41 AM
-amandas$OPTT i need it to spike lol
-09:41 AM
-JetLevantTLSS panic
-09:41 AM
-JetLevantTLSS
-09:41 AM
-costam911SNMP is tough to get a readf on
-09:42 AM
-Skuchy26In SNMP 1.33 out at 1.50, scary after that halt up
-09:42 AM
-Mikeyrocks93$MVIS bo
-09:42 AM
-HafidR$PASO holding and going up
-09:42 AM
-KristianSkuchy26nice trade
-09:42 AM
-MichaelGoodeLKNCY about to test lod again
-09:42 AM
-JetLevantTLSS bouncing slowly
-09:42 AM
-Asd169490sdpi
-09:42 AM
-SharkEsqVVPR wow!
-09:42 AM
-BrettMUSWS possible dip buy
-09:42 AM
-Watchmearn1$MVIS is up 23
-09:42 AM
-Watchmearn1%
-09:43 AM
-TimLentoSharkEsqwow is not an actionable alert.
-09:43 AM
-MichaelGoodenlod LKNCY
-09:43 AM
-jjFlores$SOL moving
-09:43 AM
-ksat88MrDimIn USWS at .53, out at .565, for a small profit of $104. Was trying to sell at .63 but I just missed it and it started falling super fast
-09:43 AM
-RelentlesStormSNMP halt downside
-09:43 AM
-ksat88Oops, didn't mean to reply to MrDim
-09:43 AM
-amsbeatsah great 15 minutes in already stuck in a down halt wonderful SNMP
-09:44 AM
-costam911SNMP halt?
-09:44 AM
-NotaRussianSpyyup
-09:44 AM
-amsbeatsonly a 1600 dollar position at least.
-09:44 AM
-Spartan1shotamsbeatsI got caught also. 1st time on down halt lol
-09:44 AM
-amsbeatsthese downside halts make dip buying really diffictult.
-09:44 AM
-NotaRussianSpy$CGC hard reversal, R/G move
-09:44 AM
-Travis_Rioshttp://www.nasdaqtrader.com/trader.aspx?id=tradehalts# from sensei Lento
-09:44 AM
-FunkyTraderCEI bouncing on support
-09:44 AM
-jackjackSNMP halted on way down
-09:44 AM
-kobyoshi$RYCEY nice dip and recover
-09:44 AM
-Watchmearn1$GME soon in dip buy area is down 5%
-09:44 AM
-amsbeatsSpartan1shotwelcome to the low cap market!
-09:45 AM
-amsbeatsSNMP not indicating a gap down at least.
-09:45 AM
-TimLentoNo public questions during market hours. If you have questions during market hours, please pm a moderator by right-clicking their name and selecting “private message”. Violators are being muted in private. See the rules and abbreviations here > http://bit.ly/NewChatRules
-09:45 AM
-SharkEsqVVPR over $19
-09:45 AM
-MichaelGoodeLKNCY nlod 4.38
-09:45 AM
-Dragaeranfinally $GME doing what it's told.....
-09:46 AM
-aumphreyTLRY recovering from morning dip still riding the Biden/Harris decriminalizing wave
-09:47 AM
-MrMierrorphant$SELB panic
-09:47 AM
-BkedelisARTL climbing up after a morning drop
-09:47 AM
-MATW23$ATEC long term b/o
-09:48 AM
-RickyWhite$chat keep going at vvpr
-09:48 AM
-RickyWhitekeeps
-09:48 AM
-Lpena1214$RYCEY on 6th green day😳
-09:48 AM
-JetLevant$PASO approaching zest highs
-09:48 AM
-MichaelGoodeSNMP resume
-09:48 AM
-Bosscabar$PASO
-09:48 AM
-JetLevantyesterday
-09:50 AM
-ecordle92$PACD looks good
-09:50 AM
-FunkyTraderSNMP bounce, short cover
-09:50 AM
-girlfromTXwatching CEI
-09:50 AM
-MichaelGoodeVVPR halted down
-09:51 AM
-Dibber$AXAS nhod
-09:51 AM
-libzentVVPR halt down
-09:51 AM
-BrettM$INTZ moving
-09:51 AM
-thinkeVVPR listen to tim ... stuck
-09:51 AM
-cb2883SUNW spiking
-09:51 AM
-NotaRussianSpySNMP so glad i didn't chase the 1.45 B/O
-09:51 AM
-MATW23SUNW moving. watching PECK
-09:52 AM
-NotaRussianSpythinkeYou're only stuck if you think you are :) selling will unstick you, albeit at a loss
-09:52 AM
-BrettM$EGY will fly with more volume
-09:52 AM
-KennyBNotaRussianSpynah bruh he means in that down halt
-09:52 AM
-Sanchez8849SNMP bag a ton of longs chasing strength
-09:53 AM
-blater54NotaRussianSpyi.. was not so fortunate lol. got out at 1.22
-09:53 AM
-JauneBiDip buying LKNCY
-09:54 AM
-MichaelGoodeVVPR indicating 15.80
-09:54 AM
-SharkEsq$GME dropping, looking for a possible panic.
-09:54 AM
-DibberDoes seem a little slower today. Don't know much of this one, but waiting to see what NSPX can do
-09:54 AM
-NotaRussianSpySNMP tanking
-09:55 AM
-Spartan1shotCut losses loss $300 today. big hit on my small account
-09:55 AM
-MrDim$JE doing somthing
-09:55 AM
-amsbeatsSNMP fuckin red on the day. Absolutely pathetic bounce attempt and instant slam to NLOD I'm not going to go on this ride and average down.
-09:55 AM
-MichaelGoodeVVPR indicating 16.00
-09:55 AM
-SergLNDAGE is dipping
-09:55 AM
-MichaelGoodeLKNCY bounce looks a little weak, just a little below 4.61 vwap
-09:55 AM
-NotaRussianSpyamsbeatsSmart :)
-09:55 AM
-amsbeatsGod this fucking week in the market SUCKS just absolutely pathetic action failures on everything with no bounces.
-09:55 AM
-MichaelGoodeVVPR resume
-09:55 AM
-Bertiolo97SNMP possible dip
-09:55 AM
-ecordle92MMEDF looks good
-09:55 AM
-DDolanUSWS dropping
-09:56 AM
-KenjutsuSPCB up 26%
-09:57 AM
-KennethLeeSNMP took my biggest loss -$373.30 trying the breakout and holding way longer then I normally do. I a dip trader but was trying something new.
-09:57 AM
-RubendcorreaGAXY, 20%
-09:57 AM
-PennywizerSNMP in @ 1.17
-09:58 AM
-BrettMSPCB resistance at 1.10
-09:58 AM
-dkv242608Rubendcorreagaxy?
-09:58 AM
-NotaRussianSpyKennethLeeThat is why paper trading is good for backtesting :) that or SMALL positions, like 1 share.
-09:58 AM
-cb2883$MVIS going
-09:58 AM
-ItsTimeSNMP What is the news??? Why did it spike over 200%?
-09:58 AM
-AntonioPSWatch for bounce off 1.08 support SNMP if it can hold that support
-09:59 AM
-Travis_RiosUSWS testing daily support. Sympathy play to SNMP, no? if so.. no bueno imo
-09:59 AM
-Acetrade$JE on a roll
-09:59 AM
-AshTradesKennethLeeI was hoping SNMP to go pass $2 but as @TimSykes say not to get greedy, I sold it at $1.52 with $700 profit. I hope it does bounce back though
-09:59 AM
-Asd169490Vvpr
-09:59 AM
-KennethLeeNotaRussianSpyIts on me. I don't really make a trade without good news behind it but your right. Ill stick to being a dip trader. Im better at it.
-09:59 AM
-amsbeatsSNMP stairway to hell. I have seen nothing but this on practically everything this week I might have to stop dip buying all together until the conditions change.
-09:59 AM
-tommy888gItsTimelook up in chat
-10:00 AM
-LRBTraderamsbeatsSame, bought on the first big dip at 1.2 hoping at least a 10 or 20 cent hop.. SNMP.
-10:00 AM
-amsbeatsthese grind downs can go on literally forever if the selling is gradual and step by step it can just go on and on and on and I'm tired of getting caught in em.
-10:00 AM
-Soheiltab$JE going
-10:00 AM
-NotaRussianSpyItsTime$JE above 7
-10:00 AM
-soniaRAshTradesAwesome!
-10:01 AM
-ecordle92SDPI over vwap
-10:01 AM
-ksat88In $JE at 6.41, out at 6.95 with 500 shares for a profit of $267. Taking small wins as I learn!
-10:01 AM
-ecordle92ENZC double bottom. it looks
-10:01 AM
-momo_khan18$MVIS previous resistance around 3. let's see how it goes
-10:01 AM
-amsbeatsLRBTraderI think the market conditions are the main factor it's just an incredibly weak market for low caps right now. So I try to be short biased but then have either no locates or .50c a share locates to the point where shorting is barely viable.
-10:01 AM
-Chalet2021$AXAS ???
-10:01 AM
-SharkEsq$GME bouncing
-10:01 AM
-JoshboggessAXAS SYMP PLAY?
-10:01 AM
-jjFloresAGE up ticking
-10:01 AM
-FunkyTraderSNMP change direction bounce
-10:02 AM
-stefano321NSPX nhod on high volume and news
-10:02 AM
-13reigh$OPTT pulling thru a few lines of resistance EMA/SMA/VWAP
-10:02 AM
-soniaRksat88Small wins add up!
-10:02 AM
-Sanchez8849SNMP we have ton of bag holders waiting to sell into any pop high chance of another dip
-10:02 AM
-Scipio$AXAS nhod
-10:03 AM
-SpaceTraderAGE could have another good run today
-10:03 AM
-ksat88soniaRYes! My goal right now is $700 a day which I have done for the past several days and on my way there for today too!
-10:03 AM
-amsbeatsSNMP trying to bottom let's see what it can do.
-10:03 AM
-Edw1nMDGS
-10:03 AM
-Bertiolo97in SNPN in 1.15
-10:03 AM
-amsbeatsAfter such weakness it's gonna be a really uphill battle.
-10:03 AM
-NotaRussianSpy$GME careful if you're buying the bounce, possible rejection in the 13.50's
-10:03 AM
-soniaRksat88That's a good goal!! $700 a day keeps the real job away. Lol
-10:03 AM
-KBTr4d3rOil & Gas sector seems to be pulling back from premarket highs
-10:03 AM
-IvanPSanchez8849exactly, 1.09 is a strong support, it need to drop to 0.92 or below for a another dip buy opportunity, I think. I will be choppy arount 1.1 now
-10:04 AM
-ecordle92hope someone got in on that MMEDF call..
-10:04 AM
-ecordle92.79
-10:05 AM
-MichaelGoodeSNMP lod 1.04
-10:05 AM
-IvanPSNMP now dropping more, finally
-10:05 AM
-NotaRussianSpyksat88Please be careful about setting $$ goals. Setting daily dollar goals can lead to over trading to reach that goal, which translates to losses and a snowball effect.
-10:05 AM
-KBTr4d3rSNMP Just cracked support @ 1.10 falling
-10:05 AM
-ecordle92N $PACD
-10:06 AM
-Soheiltab$JE at previous day's highs
-10:06 AM
-Bertiolo97i failed the bounce on SNMP -90$ loss
-10:06 AM
-ksat88NotaRussianSpyI guess I should say my goal is to average around $700 a day. Kinda like Tim's saying about 2k a day keeps the real job away. I am still very new though and working full time. I have to set some sort of goal if I want to become a full time trader and quit my job.
-10:07 AM
-ecordle92$AG HOD
-10:07 AM
-SpaceTraderksat88thats not the right mind set
-10:07 AM
-libzentNotaRussianSpyDon't limit your profit or losses
-10:07 AM
-ksat88SpaceTraderWhy is that?
-10:08 AM
-Dibberksat88It all starts with finding something that is consistent and familiar with higher odds
-10:08 AM
-samxxPossible panic on $snmp
-10:08 AM
-NotaRussianSpySpaceTraderThank you, I agree. But Ksat, if you want to know why its a bad mind set, we can discuss it in off topic
-10:08 AM
-KenjutsuSPCB at 1.02 for dip buy
-10:09 AM
-tommy888gR chat bandit may attack $JE
-10:09 AM
-Lpena1214$AXAS panic sell
-10:09 AM
-NotaRussianSpy$GNUS finally, a break of 1.34 resistance. slowly picking up steam, looking for possible squeeze into market close/overweekend
-10:09 AM
-ShawnVeriginOne should be thinking about the building the skillset not the $
-10:09 AM
-DNeshJanSNMP in at $.99
-10:09 AM
-BrettMICD big spike low volume
-10:09 AM
-Dibber$OIIM is pretty high up there. I don't know what to expect, but just for those that recognize it as something familiar. Could be an opportunity
-10:10 AM
-cb2883waiting for dip on $JE
-10:10 AM
-Christopherfanext stimulus not until first quarter per boston FED
-10:10 AM
-JetLevantLKNCY more lows
-10:10 AM
-JetLevantlets see if it breaks 4 maybe it will actually drop
-10:10 AM
-ksat88NotaRussianSpyheading over to off topic to discuss
-10:10 AM
-KennyBLKNCY nlod, but keeps catching on the way down smh, need a solid panic
-10:11 AM
-Sanchez8849SNMP still having weak bounces
-10:11 AM
-Dibber$IGC seems to keep forming a bigger picture daily cup and handle
-10:11 AM
-JetLevantLKNCY down more 4.20
-10:11 AM
-libzentSNMP falling more
-10:11 AM
-Travis_RiosCEI looking like a failed twitter pump right about meow
-10:11 AM
-DNeshJanlooks like its only downside for SNMP
-10:12 AM
-libzentAll is weak now
-10:13 AM
-ChristopherfaJMIA moving
-10:13 AM
-jamesriverajrCEI back over $1
-10:13 AM
-momo_khan18small loss on $MVIS didn't do what I wanted it to but will keep an eye on it
-10:13 AM
-KBTr4d3rDNeshJanI think it closed yesterday @ .38 so a lot of profit taking on overnights
-10:13 AM
-DibberACRS is a pretty overextended looking chart on the daily. Can be a good future panic opportunity.
-10:13 AM
-jmvaughn6USWS dip
-10:14 AM
-SpaceTraderAGE perfect dip and rip pattern. could get back to the $3's today
-10:14 AM
-PrepareToTrade$JE back above 7 after dip
-10:14 AM
-JetLevantLKNCY looks weak
-10:14 AM
-JetLevantnew low
-10:14 AM
-MichaelGoodeLNKCY nlod 4.17
-10:14 AM
-KennyBblew past my 4.25, not chasing LKNCY and good call on my part lol
-10:15 AM
-PrepareToTrade$JE may test hod
-10:15 AM
-momo_khan18I really gave back all my gains from this morning hahahha got too greedy and didn't follow the rules
-10:15 AM
-MATW23i think $OPTT can run on a friday if it gets above $2.10 area
-10:15 AM
-KBTr4d3rSNMP Seems to have found a bottom @ 1
-10:15 AM
-cb2883$JE looking to b/o
-10:15 AM
-Asd169490Bought into vvpr dip
-10:15 AM
-ChristopherfaJMIA _ Citron story out positive catalyst
-10:16 AM
-MichaelGoodeLNKCY nlod 4.07
-10:16 AM
-KennyBLol keep seeing some fools flashing what looks like big fake bids LKNCY, prob stay away unless max panic
-10:17 AM
-Asd169490Jmia good dip buy tho
-10:17 AM
-DibberSpaceTraderAGE It's possible, but it still seems to be a pretty strong downside continuing from yesterday. I'd probably wait for an evident trend change, but from experience, I'm not good at knowing that transition from the downside.
-10:18 AM
-stefano321NSPX breakout
-10:19 AM
-SpaceTraderDibberdefinitely keeping a close eye on it either way. already up 88% since the morning panic. looks strong so far but I will be ready to sell if it starts to down trend
-10:19 AM
-MichaelGoodeLNKCY nlod 3.96
-10:19 AM
-DibberSpaceTraderNice man!
-10:20 AM
-KennyBLKNCY I just dont see the appeal for people throwing out these random bids just under 4, maybe they know better than me.
-10:21 AM
-JetLevantLKNCY trying at 4
-10:21 AM
-MichaelGoodeLNKCY just so choppy now
-10:22 AM
-MichaelGoodelol now it bounces LKNCY
-10:22 AM
-krulldaddyi'm in AGE at 2.30 looking for a breakout from intraday resistance toward yesterday's high. risking 2.25 in case it's a fakeout (it's still down 8% today)
-10:23 AM
-cb2883$JE new highs
-10:23 AM
-davelevGAXY up since morning, basically on news stating the obvious "shareholder update"
-10:23 AM
-SpaceTraderAll out AGE for a few hundred bucks
-10:24 AM
-RubendcorreaHPR...
-10:24 AM
-davelevSpaceTradercongrats
-10:25 AM
-DibberSpaceTraderVery nice!
-10:25 AM
-GGTrader89CEI broke vwap
-10:25 AM
-jamesriverajrCEI seems to wanna rip
-10:26 AM
-007USMCCEI spiking
-10:27 AM
-girlfromTXCEI just needs a little more vol
-10:27 AM
-Christopherfabougth JMIA at 10.91 300 shares
-10:27 AM
-SharkEsq$GME starting to run
-10:28 AM
-NYCityStocksCEI is battling VWAP
-10:28 AM
-MichaelGoode$GME if it goes r/g and breaks hod could squeeze
-10:28 AM
-JoshTraderSupernovas of 200% or more really help if under pdt
-10:28 AM
-tommy888g$JKS may go over yesterday hight
-10:29 AM
-SpaceTrader$GME about to rip if it breaks 13.5
-10:29 AM
-SpaceTraderyup there it goes
-10:30 AM
-ecordle92(coffee)
-10:30 AM
-MichaelGoode$GME nhods
-10:30 AM
-libzentI'll see you guys on Monday, nice weekend for everyone!
-10:32 AM
-MichaelGoode*TWO MORE WHITE HOUSE RESIDENCE STAFF MEMBERS TEST POSITIVE: NYT
-10:32 AM
-blastoreMichaelGoode$GME beauty
-10:33 AM
-SpaceTrader$GME bought the 13.5 breakout and just sold for another $200. Up $500 on the day so far between AGE and $GME
-10:34 AM
-cb2883$JE new highs
-10:34 AM
-lennal3nSpaceTradercongrats!
-10:35 AM
-tycoon448$JE market cap 128k?
-10:35 AM
-DibberSpaceTraderdoing great man!
-10:35 AM
-Bertiolo97SpaceTraderwell done
-10:35 AM
-SpaceTraderThanks this is my best day ever so far. after a very bad losing streak. might have to walk away from my computer to avoid overtrading the rest of the day
-10:36 AM
-cb2883$JE needs to break 8 then will fly
-10:36 AM
-jamesriverajr@TraderTexMex CEI per press release just now, has maxed out share count at 25m share authorized share count. Can not offer at all until a shareholder vote happens. How do shorts cover? >>>interesting
-10:37 AM
-cb2883$JE 8
-10:38 AM
-DibberSpaceTraderimo, that's a really great way to begin enjoying the weekend.
-10:38 AM
-ShipBuildercb2883like you said.. hits 8 then flying!
-10:40 AM
-JetLevantpretty choppy slow friday. i aint forcing anything, time to take the day off!(poolparty)
-10:41 AM
-JumpmasterSpaceTraderHighly recommend it man! I've given away a bunch on very good days because I overtraded
-10:41 AM
-dbarbacciaJetLevantmarket kinda sucks today!
-10:41 AM
-Edw1nred day for me on LKNCY
-10:42 AM
-JumpmasterSpaceTraderCongrats too on a great day!
-10:42 AM
-Edw1nnever follow alerts
-10:42 AM
-cb2883$JE can run more, pretty strong
-10:42 AM
-PrepareToTrade$JE I need my 7.31 entry back. But did get a 21% gain off a 5.82 entry a/h. too bad gave 2/3 of gain back on USWS
-10:42 AM
-SpaceTraderJumpmasterthanks man!
-10:42 AM
-NotaRussianSpy$GNUS busying in OffTopic chat, but keeps gaining momentum
-10:42 AM
-Travis_RiosJetLevantFor real. Thank you sensei Crook for the lesson of patience :)
-10:43 AM
-DibberCBBT looked great on the daily for this breakout today
-10:43 AM
-ChristopherfaFEAC spike
-10:44 AM
-Edw1nSpaceTradercongrants you doing nice profits
-10:45 AM
-KennyB$JE maybe wedging up for a break over .50
-10:45 AM
-amsbeats$JE took a loss and got squeezed.. made most of it back when I covered the dip and flipped long
-10:46 AM
-save369amsbeatscurious why ud short a big green day?
-10:47 AM
-Christopherfain 300 FEAC @ 13.15
-10:48 AM
-NotaRussianSpy$GNUS pop
-10:48 AM
-PrepareToTrade$JE first stock dream last night, this went to $16, just fyi
-10:48 AM
-lennal3nNotaRussianSpy$GNUS has that annoying consolidation to multiple levels of resistance pattern, huge sellers every cent up
-10:49 AM
-NapsterPrepareToTradeDammit, you talked me into it. Im all in!!
-10:49 AM
-NotaRussianSpylennal3nYes, and usually I ignore them. But I also predicted the 9/18 spike at 10 am, and it squeezed overnight, and Im seeing the same setup again, only now above previous resistance of 1.35
-10:50 AM
-RadmacherPrepareToTradeAre you prophetic by chance?
-10:52 AM
-NYCityStocks$JE Bull flag on the 5 min chart
-10:52 AM
-NotaRussianSpylennal3n$GNUS is a buy and hold play for a few hours +, Not an in and out in 15 minutes or else yea, those few pennies that it pulls back on , will stop you out
-10:52 AM
-ShipBuilder$JE cracked
-10:52 AM
-PhillipHampton$VYST news and spike
-10:53 AM
-PhillipHamptonWell that was short lived
-10:53 AM
-NYCityStocksPhillipHamptonUsually is
-10:53 AM
-DrManhatten$JE ran out of steam
-10:54 AM
-Fill_TradesSNMP ... Bouncing
-10:54 AM
-lennal3nNotaRussianSpyoh ok its more for pro traders not a newbie me lol it literally drops fast $GNUS and I don't have the patience to wait patterns like this I had losses before
-10:54 AM
-NYCityStocksShipBuilderMaybe support at VWAP
-10:55 AM
-lennal3nNotaRussianSpynewbie like me** typo
-10:56 AM
-GrtWhtBfflo$JE does anyone know the catalyst for its run to $26 on 9/24 ?
-10:57 AM
-andymezquita79Is anyone here having problems with STT??
-10:57 AM
-jtc1316$JE bouncing nice
-10:57 AM
-sergiomadrigal14SNMP i think is going to swing back up. I've seen this pattern before
-10:57 AM
-PeterValenciaandymezquita79yes
-10:58 AM
-Travis_RiosGrtWhtBffloYou can modify google search time frames. Useful for finding old triggers for events. In "Tools" under search bar
-10:58 AM
-dbarbacciaandymezquita79STTseems to always hav problems
-10:58 AM
-PennywizerYES..... STT keeps dying
-10:58 AM
-cricket2020andymezquita79STT yes a lot, not working for me, crashing too often
-10:58 AM
-srod87DTII making some moves here today. up 18% on the day. and lots big buys coming in.
-10:58 AM
-cb2883GrtWhtBffloI think just restructuring
-10:59 AM
-andymezquita79cricket2020Thanks same here just wanted to know if I was the only one with this problem.
-10:59 AM
-andymezquita79PeterValenciaThanks same here just wanted to know if I was the only one with this problem.
-11:00 AM
-NotaRussianSpylennal3nPretty much, but I can't recommend patience enough. Lost On CEI this morning because I wasn't patient enough, although DEAD on with my entries and risk/levels
-11:00 AM
-cb2883$GNUS steady up trend the last few weeks
-11:00 AM
-Jorjandymezquita79today is the first time when it craked for me,, hopefully wouldn't be too often
-11:00 AM
-jamesriverajrCEI seems to have found support at .99ish
-11:00 AM
-andymezquita79JorjSame here I have never had this problem. Hopefully it gets taken care of.
-11:01 AM
-Kristianandymezquita79yeah,3 timesits shut down on me
-11:02 AM
-momo_khan18MDGS wouldve been nice but like no volume lol
-11:02 AM
-NotaRussianSpy$GNUS in @ 1.44 with room to add into any dips below 1.40, with risk off 1.34
-11:02 AM
-JorjGNUS BREAK OUT
-11:02 AM
-NotaRussianSpyShoulda really been in at 1.36 on B/O but was busying chatting in Offtopic
-11:03 AM
-NotaRussianSpyJorj? don't see one yet
-11:04 AM
-ecordle92$AXAS moving'
-11:05 AM
-Sloth269EVLO maybe waking up
-11:07 AM
-C_ShellJE just below vwap
-11:07 AM
-tycoon448sold EVLO before drop for 6 bucks profit
-11:07 AM
-KennyBLKNCY some huge hidden buyer racking up shares. First at 4.17 and I shoulda bought with him, then more big buys coming on tape at 4.25. First time really seeing that so stayed away but nice spike with his buys
-11:07 AM
-andymezquita79Kristianseems like many of us are having the same problem. Thanks to that I made a small profit on EVLO lol
-11:08 AM
-HendoJorj??? $GNUS
-11:08 AM
-nickmac09damn thats a massive seller at 1.44 for GNUS
-11:08 AM
-andymezquita79%EVLO STT news went down and now it's up
-11:09 AM
-caydan19KennyBi got in at 4.165
-11:09 AM
-Dibber$GNUS may be topping
-11:09 AM
-Dragaerannickmac09I think his name is Tim.....
-11:09 AM
-KennyBcaydan19See the same thing I was seeing to make you hop in?
-11:09 AM
-momo_khan18I have a small position in MDGS. probably not the best setup as volume is low but it's setting higher lows so let's see where it goes. Will break at even if it starts failing
-11:10 AM
-andymezquita79STT is breaking to much today. WTF??
-11:10 AM
-KBTr4d3rya mine keeps crashing aswell
-11:11 AM
-nickmac09holy cow the sellers just keep coming for GNUS at 1.44
-11:11 AM
-andymezquita79it has done it about 5 times on me.
-11:11 AM
-eastcoastDido
-11:11 AM
-andymezquita79GNUS needs to break 1.70 to play it right. My opinion.
-11:11 AM
-ecordle92KODK HOD
-11:11 AM
-PennywizerSAME HEAR
-11:12 AM
-cb2883$JE hoping for consolidations and more upside
-11:13 AM
-andymezquita79cb2883Seems to weak to come back
-11:13 AM
-ecordle92$IGC moving
-11:13 AM
-ecordle92recent spiker
-11:13 AM
-andymezquita79GNUS afternoon play maybe.
-11:13 AM
-NotaRussianSpy$GNUS plenty of ask size @ 1.44. if this level pops, it could easily jump to 1.50 in a heart beat.
-11:14 AM
-NotaRussianSpyecordle92WOW, what a move on KODK
-11:15 AM
-cb2883is there news on KODK?
-11:16 AM
-ecordle92NotaRussianSpysideways for a day or so
-11:16 AM
-tommy888gcb2883yeah "go to 0" have a Friday fun
-11:16 AM
-MATW23$OPTT perk
-11:17 AM
-andymezquita79If sykes was having a webinar and someone came with KODK man he'll be swearing like a maniac. lol there's nothing there.
-11:18 AM
-lennal3ncb2883it has legal issues careful https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8143449118706185
-11:18 AM
-andymezquita79EVLO was the play sykes even alerted it.
-11:18 AM
-NYCityStocks$GNUS Cracking as usual
-11:18 AM
-NYCityStocksMaybe a little support at VWAP
-11:19 AM
-NotaRussianSpyNYCityStocksDifference between 'cracking' and pull back consolidation
-11:19 AM
-Dhiraj6810NNDM spiking
-11:19 AM
-Chevonbe warned $gnus is the play you take when you are bored and ready to overtrade
-11:19 AM
-NotaRussianSpy$GNUS added more @ 1.38
-11:19 AM
-NYCityStocksNotaRussianSpyCorrect, first it consolidated, then it cracked
-11:20 AM
-NotaRussianSpyChevonI disagree :) I have been patiently waiting for this exact move for days now
-11:20 AM
-HendoChevon$GNUS I'd rather stick an ice pick in my retina
-11:20 AM
-marco1$VYST pop
-11:21 AM
-cb2883tommy888gI know- wondering why it's spiking...
-11:21 AM
-ChevonNotaRussianSpyI hope it goes well for you man
-11:21 AM
-KristianSTT GONE AGAIN i'm off for a bit. f*** sake
-11:22 AM
-immywalkerHendoagreed rather stand on lego in the middle of the night than trade $GNUS
-11:22 AM
-RadmacherKristianMy STT keeps crashing today as well
-11:22 AM
-PBradMo$OPTT now near 2.10
-11:22 AM
-JustCuz$OPTT trying to go a bit
-11:22 AM
-andymezquita79KristianSame here. It's getting stupid with STT today
-11:22 AM
-JumpmasterDKNG drop getting wild
-11:23 AM
-bralphs10idk why anyone would buy $GNUS right before the 150 mil resistance near 1.50
-11:23 AM
-KBTr4d3rSTT Crashed again. Anyone else.
-11:23 AM
-Jumpmaster6 days straight
-11:23 AM
-NotaRussianSpyNYCityStocksI think we have two different ideas as to what consolidation means.
-11:23 AM
-JumpmasterKBTr4d3rYeah man, not working for anyone
-11:23 AM
-kramz_01ACRS Panic
-11:23 AM
-DipNrip$VYST going up on the news https://finance.yahoo.com/news/vystar-pays-down-2-million-144800037.html?.tsrc=fin-srch
-11:23 AM
-HendoKBTr4d3rYep4th time in last hour
-11:23 AM
-TunaTaco282Jumpmasterdang, TOS has borrows too
-11:23 AM
-tommy888gcb2883I all ready said shorts swings holding short positions for weeks/days get sgueeze
-11:23 AM
-RickyWhitemine crashes and I just open it back up
-11:23 AM
-vampire_rocketsWORK on fire
-11:23 AM
-JayT48Why clutter this page with bs.
-11:23 AM
-JasunYuneKODK has a seller at 9.30 and a buyer at 8.70, and they've been playing pingpong for nearly 2 weeks now. I guess the buyer is winning maybe, if it holds above 9.30.
-11:24 AM
-IvanPKBTr4d3rsame here. Btw, SNMP below strong support level 0.92, cracking more
-11:24 AM
-KBTr4d3rthx Just making sure it wasn't my Cox internet
-11:24 AM
-BrettM$MN spike low volume
-11:24 AM
-JumpmasterTunaTaco282I'm long call options. Not too happy right now
-11:24 AM
-andymezquita79STT gone again F******&&&*&*k
-11:24 AM
-AshTrades$OPTT nhod
-11:24 AM
-JumpmasterGot in yesterday, still dropping
-11:24 AM
-SparkTradezLittle perk NSPX
-11:24 AM
-SparkTradezNSPX cross VWAP
-11:25 AM
-IzriMoses$OPTT needs to break $2.20
-11:26 AM
-TunaTaco282Jumpmasterah man.. sorry. dkng has a way of making come back
-11:26 AM
-AshTradesIzriMosesThere you go
-11:26 AM
-ChristopherfaDKNG dropping
-11:27 AM
-IzriMosesAshTradeslol (convincingly)
-11:27 AM
-AshTradesKBTr4d3rThird time now
-11:27 AM
-JumpmasterTunaTaco282Yup, that's what I'm waiting on
-11:27 AM
-PoohACRS panic testing G/R now....
-11:27 AM
-JumpmasterThought that 50 would hold, but will add if it hits 48, don't want to see much below that
-11:28 AM
-NotaRussianSpyF*$*.... missed 1.36 add on $GNUS
-11:28 AM
-JayT48$Gnus isn’t holding well gonna sell with small gain. Didn’t break the 1.44 level it needed to so I’m out for now
-11:28 AM
-closeu4sure$ABIO spiking volume picking up
-11:28 AM
-NYCityStocksACRS selling off pretty harrd
-11:28 AM
-JustCuzWhew! Made $1039 on $OPTT...6700s in at 1.97 out at 2.13. Could have just a couple minutes longer for 2.2 but trying to get the meat and not be greedy
-11:28 AM
-tommy888gVVPR holds braekout may squeeze today /masive volume today
-11:28 AM
-kramz_01ACRS big panic
-11:29 AM
-NotaRussianSpyJayT48as I told someone in chat before, $GNUS is a buy and hold, not an in and out play. Each pullback would stop most people out
-11:29 AM
-AshTradesJustCuzThat is amaziiiiing. Congrats!!
-11:29 AM
-jamesriverajrCEI is due for a bounce with $OPTT spiking
-11:29 AM
-JustCuzthanks...my first day back into trading in a few weeks...I'm stoked
-11:30 AM
-ItsTimeThat great!!!!
-11:30 AM
-JayT48NotaRussianSpyGot for sure I bought a few days ago and held. Did ok just wanna rotate elsewhere until I see a better buy in. I agree with you 100%
-11:30 AM
-KBTr4d3rJustCuz$1K / DAY is great. Nice trade
-11:30 AM
-PoohACRS trying to bounce
-11:30 AM
-JustCuzKBTr4d3rThanks!
-11:30 AM
-NotaRussianSpyJayT48Great for you! :)
-11:31 AM
-AshTrades1k a day is 1 step closer to becoming a millionaire. hahaha
-11:31 AM
-JustCuzAshTradeshaha
-11:31 AM
-DibberDSGT , anyone have thoughts on the 30-min chart from 8/20 to now? I like how the two cups form a good uptrend support line. (The first cup on 10/2 , the second cup 10/8 and 10/9.)
-11:31 AM
-SparkTradezNSPX moving.
-11:31 AM
-DibberJustCuzGet some! Nice!
-11:31 AM
-KennyBAh panics are scary to buy for me without the nice lvl 2 OTCs have
-11:31 AM
-jamesriverajrCEI volume pickin up a little
-11:32 AM
-NotaRussianSpyCEI holding its previous resistance turned support, trend line @ .95 BUT it is under $1.00, which is such KEY psychological level
-11:33 AM
-KBTr4d3rDAMN u STT %%%*
-11:33 AM
-MichaelGoodenlod SNMP
-11:33 AM
-jamesriverajrCEI VWAP and 200 SMA crossover
-11:33 AM
-MichaelGoodeI guess buying shitty oil companies up 200% on no news isn't a good strategy?
-11:34 AM
-ShawnVeriginwhy has stt been crashing today its so frustrating
-11:34 AM
-IzriMoseslol
-11:34 AM
-MichaelGoode🤦
-11:34 AM
-KBTr4d3rHAHA
-11:34 AM
-BeckdanMichaelGoodeShorting it sure has paid the bills today. :-)
-11:34 AM
-NotaRussianSpyKODK NHOD
-11:34 AM
-AbeeeeMichaelGoodebeating myself right now, loose so much on nasty oil companies
-11:34 AM
-MichaelGoodeBeckdanbut shorting is evil
-11:34 AM
-jamesriverajrCEI touching 20 SMA
-11:35 AM
-BeckdanMichaelGoodeI'm a very bad person the. :D
-11:35 AM
-Leify907Beckdanyou hate the US of America???
-11:35 AM
-BeckdanMichaelGoodeI am long VVPR though.
-11:35 AM
-MountainTipTr8rMichaelGoode It was in pre market
-11:35 AM
-TimLentoMichaelGoodedirty sanchez
-11:35 AM
-Poohkramz_01Thanks for that notification on ACRS - caught it right at 3.85 for a quick 7% profit. Probably goes more, but took my single. Surprised no-one else seems interested - it's a decent classic panic dip buy pattern....
-11:36 AM
-ChristopherfaPoohme too thanks Kramz
-11:36 AM
-DibberVCNX is at 1.90 resistance
-11:37 AM
-JumpmasterCut losses on the DKNG long calls for-25%. So frustrating
-11:37 AM
-jamesriverajrHuge bids coming in CEI
-11:37 AM
-KBTr4d3rJumpmasterOUCH. Thats so frustrating.
-11:37 AM
-NotaRussianSpy$GNUS reversing, missed chance to add @ 1.36
-11:37 AM
-traderAshShawnVeriginSTT has "server issues"
-11:38 AM
-Napster$GME finally on a steady grind
-11:38 AM
-PrepareToTradeKODK another spike today
-11:39 AM
-Joe2019KODK news on this fine play today.
-11:39 AM
-Christopherfaspruce shares trading open for trading SPRB
-11:39 AM
-PrepareToTradePEGN about to hit nhod b/o
-11:39 AM
-amsbeatsKODK big squeeeeze
-11:40 AM
-AntonioPSPrepareToTradeWhats the correct ticker?
-11:40 AM
-PrepareToTradePGEN
-11:41 AM
-JRodAR83VCNX testing hod
-11:41 AM
-SparkTradezNSPX eating up wall of sellers at .0089
-11:41 AM
-NotaRussianSpytraderAshKODK above 10
-11:42 AM
-DipNripanyone had same issue today with STT it just 3rd time disconnected without reason?
-11:42 AM
-Christopherfaim picking up half position in DKNG at 48.36 150 shares
-11:42 AM
-Bertiolo97cracked STT . 3rd time lol
-11:42 AM
-GrumpyOldManTimLentoIs dirty sanchez actionable?
-11:42 AM
-SparkTradezNSPX breakout
-11:42 AM
-jamesriverajrCEI either I take a small loss or a big win. No in between! Lol Working on my patience.
-11:43 AM
-DipNripBertiolo97oh I thought it only my issue
-11:43 AM
-RelentlesStormNSPX going for hod
-11:43 AM
-DibberKODK is a beast..
-11:43 AM
-ShawnVerigintraderAshfor the cost of STT,,,, there shouldn't be any or at least WAY less than there's been, and there's been plenty, its frustrating
-11:43 AM
-tommy888gIH 7M IPO
-11:44 AM
-NotaRussianSpyKODK Ladies and Gentlemen, this is your Captain speaking. If you look out to the right, you will see what we in the industry call: A short squeeze
-11:45 AM
-Christopherfabuying 150 more DKNG @48.6 looking for squeeze here
-11:45 AM
-DragaeranKODK sold my calls at $9 and ran away cuz didn't have patience....ughhh
-11:45 AM
-Fill_Trades$OPTT ... Grinding Back Up
-11:45 AM
-RelentlesStormNSPX nhod
-11:45 AM
-stefano321NSPX breakout
-11:46 AM
-Lpena1214PGEN new HOD
-11:46 AM
-RelentlesStormNSPX watching for it to break .01
-11:47 AM
-ecordle92VTRN perk
-11:47 AM
-RelentlesStormNSPX broke .01
-11:47 AM
-Sloth269News from Kudlow about "stimulus" breaking
-11:47 AM
-Abeeee$OPTT hod
-11:47 AM
-SergLNDKODK not much meat on the bone yet
-11:47 AM
-Chadb9$GME is really taking off
-11:48 AM
-JasunYuneI don't understand why the market is so optimistic a stimulus is coming. Pelosi is NEVER going to make a deal unless GOP caves completely. McConnell sure makes it sound like 2.2 trillion is going to be impossible.
-11:48 AM
-RickyWhiteevery1 gonna get a Check.. Holla $$$$
-11:49 AM
-indawestWe will owe more to China (swear)
-11:50 AM
-PrepareToTradeLIVX not a huge mover, but does appear to have nice contract news. Has a history of multi day runs (like our new puppy)
-11:50 AM
-S_Sully$OPTT almost at premarket hod
-11:50 AM
-Jebus1998Looks like DKNG might have bottomed
-11:51 AM
-ecordle92ENZC crack
-11:51 AM
-NotaRussianSpyCEI if you're long still, please tell me what you see thats worth the risk. looking very weak
-11:51 AM
-nwin1First trade in 2 months. $GME in 13.86 out 14.64 only 500 shares but feels good to come back with a winner!
-11:52 AM
-NotaRussianSpyVVPR running
-11:52 AM
-BeckdanSweet VVPR!
-11:53 AM
-jamesriverajrNotaRussianSpyFor me it's just momentum. Energy can get a boost off stimulus news.
-11:53 AM
-JasunYuneNotaRussianSpyTexmex was bullish on CEI on thesis that it's one of the few trash companies out there that won't tank gains with a dilutive offering because they can't do any offerings right now. But yeah it looks weak and I bailed.
-11:54 AM
-NotaRussianSpyAh, well best of luck to you, I only regret selling too early premarket for a loss :(
-11:54 AM
-Scrillawillteemade 1200 on VVPR 400 on KODK 550 on GME thanks chat room
-11:54 AM
-NotaRussianSpy$GME cracked under heavy volume and also looking weak
-11:55 AM
-andymezquita79VVPR Bohen predict it in the morning.
-11:55 AM
-DragaeranNotaRussianSpyweak? seems to be running well
-11:55 AM
-Christopherfain zone today. rebuying DKNG @48.77 400
-11:56 AM
-RelentlesStormNSPX breakout
-11:56 AM
-SparkTradezNSPX moving up NHOD
-11:57 AM
-NotaRussianSpyDragaeranYup, just dropped hard twice
-11:57 AM
-vampire_rockets$GME panic
-11:57 AM
-BeckdanStill long VVPR :-)
-11:57 AM
-HammsKCVVPR halted
-11:57 AM
-KBTr4d3rVVPR Squeezing a bit
-11:57 AM
-NYCityStocksvampire_rocketsIt dropped like 3%
-11:57 AM
-NotaRussianSpyDragaeran14 could be support, but I am not comfortable with it, but GL to ya :)
-11:58 AM
-KennyBjust kept missing entries was too scared for some reason VVPR
-11:58 AM
-Asd169490Who caught the dip buy on vvpr
-11:58 AM
-BrettMVVPR in 17.99 lets see how this goes
-11:58 AM
-Asd169490i bought at 14.5
-11:58 AM
-BeckdanI'm in VVPR at 15.02 . :-)
-11:59 AM
-tphong77in at 18
-11:59 AM
-NotaRussianSpyGood job to longs on VVPR! what a squeeze
-11:59 AM
-RelentlesStormBeckdancongrats on VVPR
-11:59 AM
-tphong77straigt from Tim's Friday squeeze video
-11:59 AM
-Kylehornback77BeckdanEshhhhketit I see you 8)
-11:59 AM
-BeckdanRelentlesStormFinally a long worked for me.
-11:59 AM
-Scrillawillteewow left 11000 on the table VVPR
-11:59 AM
-Asd169490Wow what
-12:00 PM
-ecordle92USWS going volume
-12:00 PM
-RelentlesStormBeckdanGetting a taste of the light side lol if I read right, you made a nice play on the dark side of VVPR too. Great job!
-12:00 PM
-davelevthank god it's not NYSE that halt
-12:00 PM
-DibberBeckdanGreat read! awesome bullish patterns for continuation confirmation too
-12:01 PM
-BeckdanVVPR could get crazy. No limits from here. I'll be watching to buy more on a dip if I can hold out and not sell.
-12:01 PM
-RelentlesStormNSPX bull flag, breakout out with some nice strength, former supernova, resistance from August around the .014 area so some upside potential left
-12:01 PM
-Kylehornback77BeckdanVVPR got clear skies
-12:02 PM
-BeckdanI am still short SNMP,so I haven't completely gone to the dark side of being a long. :-)
-12:02 PM
-Asd169490Let’s see hue
-12:02 PM
-SparkTradezNSPX still looking strong plenty of buyers
-12:02 PM
-PrepareToTradeBeckdanNice. seems like it should run some more before another halt. I'd be interested to see your updated profits, if you are still doing that. I need to enter all my losses.
-12:02 PM
-Abhi444999Asd169490Cold you please update, By which strategy you have entered VVPR at 14.5?
-12:03 PM
-AM3$vvpr is on steroids
-12:03 PM
-tphong77out @ 220.50
-12:03 PM
-tphong7720.50 sorry
-12:03 PM
-Beckdanall out 21.90s
-12:03 PM
-cb2883SUNW spike
-12:04 PM
-ecordle92USWS taking off
-12:04 PM
-tphong77too soon lol
-12:05 PM
-BrettMout 23
-12:05 PM
-RelentlesStormNSPX in 37500 shares at .0087 out at .0112. Still strong but hit my goals so I'm out with safe profits. Will watch for afternoon strength for a possible overnight play
-12:05 PM
-rickycas6VVPR benefits from stimulus?
-12:05 PM
-Bertiolo97why VVPR is going to the moon ?
-12:05 PM
-BeckdanLooking to get short on VVPR when it gets tupid.
-12:05 PM
-lennal3nRelentlesStormawesome!!
-12:05 PM
-SparkTradez300,000 NSPX in at .0091 holding
-12:05 PM
-Patrickisapersonwas thinking about getting in VVPR after the halt. i think 6/10 times its a good idea not to. but man it woulda been nice
-12:06 PM
-NotaRussianSpy$GME under 14
-12:07 PM
-Abeeeeok so when WWR to the moon like VVPR (thinking_hand)
-12:07 PM
-C4ChristianPOLA perk
-12:07 PM
-Beckdanlong again 21.70s
-12:07 PM
-NotaRussianSpyAbeeeeWho knows? no reason WWR has to follow VVPR
-12:08 PM
-ChristopherfaYeah DKNG getting a squeeze here. 3 for 3
-12:08 PM
-stallion_tradeanybody having issues w STT? login out ?
-12:08 PM
-Beckdanout at 22 VVPR
-12:09 PM
-Patrickisapersonstallion_tradeyeah we all are
-12:09 PM
-Jason_Peacockstallion_tradeIt crashes every couple minutes.
-12:09 PM
-tphong77TimLentoThanks @TimLento for posting the Friday squeeze video lesson earlier
-12:10 PM
-stallion_tradeJason_Peacockthank you ! i thought it was just me '
-12:11 PM
-sergiomadrigal14NSPX looking good
-12:11 PM
-sergiomadrigal14news yesterday at 3pm. seems like it's slowly catching on
-12:11 PM
-RelentlesStormNSPX just jumped huge. Almost at that .014 resistance though. I'd be selling here if I was still holding
-12:11 PM
-DibberNSPX is such a beauty today. Great run
-12:13 PM
-SparkTradezNSPX!
-12:14 PM
-indawestyep yep
-12:14 PM
-Fill_Trades$OPTT ... Grinding Back Up
-12:14 PM
-RelentlesStormNSPX at that August resistance
-12:15 PM
-indawestNSPX off of yesterdays news?
-12:15 PM
-nickmac09was Tims logic to buy at VWAP on that SUNW play?
-12:16 PM
-RelentlesStormNSPX amazing strength, just watching for me now, no chasing
-12:16 PM
-Christopherfa$GEVO spiking
-12:16 PM
-sergiomadrigal14damn, don't chase NSPX, i would buy, but i feel like it's too late. sell into strength guys
-12:17 PM
-KBTr4d3rnickmac09SUNW is a VVPR Sympathy place
-12:17 PM
-Christopherfabuying 1500 $GEVO @1.10
-12:17 PM
-CrabbyEagleNSPX still zero revenues $2M net loss and no cash with 3x r/s last 4 years... don't be a bag holder. Sell into strength.
-12:18 PM
-AM3NSPX made some money good call!
-12:19 PM
-C4Christianwas in and out of POLA thought it would spike with VVPR
-12:19 PM
-Christopherfa$GEVO really trading well but looks like only a penny at a time
-12:19 PM
-IvanPlol, what a drop SUNW
-12:19 PM
-nickmac09KBTr4d3rI understand the sympathy play. i was just wondering on that specific point to enter versus a different spot.
-12:20 PM
-RelentlesStormNSPX hard dip. That is why we sell into strength and don't get greedy!
-12:21 PM
-RadmacherNSPX Dip
-12:21 PM
-Vttrade4lifelets see what after 2pm brings
-12:21 PM
-KennyBVVPR no top on it, could squueze again over hod imo
-12:21 PM
-luckyman37$FCEL pounding on recent multi day highs. Lets see if it can break thru.
-12:21 PM
-KBTr4d3rnickmac09Gotcha. Im thinking he jumped in on that HUGE green candle
-12:22 PM
-jamesriverajrCEI is testing my patience
-12:22 PM
-kcloganTook VVPR long from 21.89 to 22.53, not my best trade chasing it up that high glad to get out with profits. Need to remember to just stick with the sympathy plays
-12:22 PM
-Christopherfanobody likes the $GEVO? looking very strong now
-12:23 PM
-PeterValenciaIf Stocks to Trade was a stock, I'd short the fk out of it because of its total FAIL
-12:24 PM
-ecordle92IH came out todaY
-12:24 PM
-BeckdanI traded VVPR smaller long with only a couple of hundred shares again, made about $100. Really wanted to see it rip. I'll post my trades in a few.
-12:25 PM
-JumpmasterKBTr4d3rThrew away 75% of my profit today with undisciplined trading. Infuriating stuff
-12:25 PM
-HendoChristopherfa$GEVO up 7 cents
-12:25 PM
-KennyBVVPR wouldnt mind it to bounce around near highs, wait for PH for another squeeze maybe
-12:26 PM
-kcloganto the moon $GEVO :D
-12:26 PM
-DibberAlrighty guys, gotta go to work. Have a good weekend!
-12:26 PM
-KBTr4d3rJumpmasterIm bag holding AGE as we speak hoping for a spike this afternoon its holding VWAP nicely
-12:27 PM
-luckyman37$FCEL nhod
-12:27 PM
-JumpmasterKBTr4d3rSorry, didn't mean to send that to you haha. I feel you man
-12:27 PM
-Christopherfakcloganhaha. get your 3 cent profit if you act now lol
-12:27 PM
-JumpmasterI don't often trade the penny's so haven't looked into that one
-12:28 PM
-DragaeranSTT...............................................................................................................
-12:29 PM
-DNeshJanKBTr4d3r🤞
-12:29 PM
-ecordle92$IGC moving
-12:29 PM
-RelentlesStormNSPX trade https://profit.ly/1N1Nqy
-12:29 PM
-Jaykian720$IGC pushing through 1.50s daily level, cleanest intraday chart I see, but 3rd green day + lots of weak moves today
-12:29 PM
-SergLNDKBTr4d3r"Bag holding" ? where did you find this lesson in Tim's library ? lol(clap)
-12:30 PM
-HendoJaykian720IGC Needs volume
-12:31 PM
-KBTr4d3rDNeshJanIts a bad trade NO question. "Hoping " for a lil help this afternoon
-12:31 PM
-Dragaeran$GME not being a proper b!tch today....die!!
-12:31 PM
-AshTradesSTT is really causing troubles. Argghhhhh
-12:31 PM
-rickycas6NSPX going
-12:31 PM
-PhillipHamptonDSGT Spike but not sure why. Yet
-12:32 PM
-stefano321DSGT breaking out
-12:32 PM
-Jaykian720$IGC & YCBD both cannabis plays moving higher, former sector leaders ACB & TLRY still very weak
-12:32 PM
-Lpena1214PGEN next leg up....if it can break $6 resistance, watch for a run
-12:32 PM
-BeckdanVVPR trades +$4K https://profit.ly/user/Beckdan/blog/vvpr-long-payed-out-nicely--4k
-12:32 PM
-RickyWhite$dsgt going bannzzsss
-12:33 PM
-HammsKCMDGS might trying to curl up
-12:33 PM
-NickV77DKMR which is Xtreme Fighting Championships(MMA) up 19% today after a solid yesterday, could be ready for a big run after some good news the passed few days
-12:35 PM
-Bertiolo97have a nice weekend everyone !!!!!
-12:36 PM
-Jayinternational$nspx in at 0.0135 out at 0.0109
-12:36 PM
-ecordle92$IGC BO
-12:36 PM
-ecordle92close!
-12:36 PM
-EyesWO2020sold out of DSGT in the Meat of the move... too early tho, Entry .1359 Exit .160 used my small cash act with think or swim here, more so my training/testing account
-12:36 PM
-spacefaceDSGT my gtc sell filled might buy back I think this one could be good long term
-12:36 PM
-RomanIceGevo breaking out right now I have 10 k ah from yesterday @ $1.31 but believe it will go possible $2 today..?
-12:37 PM
-EyesWO2020DSGT Holding above .165 wonder if it'll hit .2
-12:37 PM
-ecordle92huge wall 1.65
-12:39 PM
-ecordle92$IGC BO
-12:39 PM
-rickycas6NSPX NHOD
-12:39 PM
-rickycas6NSPX extremely low float and market cap
-12:39 PM
-spacefaceKODK calls with expiry today could pay big on any further squeeze
-12:41 PM
-AbeeeePTON break 120 incredible
-12:41 PM
-Jebus1998Looks like you can take fuzzy panda off the reliable list haha
-12:44 PM
-ScrillawillteeMDGS
-12:45 PM
-traderhomeboyNSPX crazy mover today
-12:45 PM
-AntonioPSAbeeeeYea im in PTON from a 117 call
-12:47 PM
-AbeeeeAntonioPS(clap) Time to cash out soon
-12:48 PM
-hogfarmMDGS increase volume
-12:49 PM
-AshTrades$FCEL
-12:49 PM
-AntonioPSAbeeeeNah its for next Friday so I'm prob gonna cash out Monday morning
-12:52 PM
-rickycas6NSPX going parabolic
-12:54 PM
-JScott$gaxy wanting to break day high
-12:54 PM
-JScottshareholder update
-12:54 PM
-Lpena1214PGEN spike
-12:55 PM
-RelentlesStormNSPX almost up 100% from my sell, incredible strength!
-12:57 PM
-ScrillawillteePGEN how does it look
-12:57 PM
-SharkEsqLooking for a possible $GME panic
-01:00 PM
-Howe2NSPX need a big drop
-01:01 PM
-JRodAR83NSPX bought at .0098 but I only has $5 left..... UGH doubling 5 is great but wish it was 500..
-01:02 PM
-AshTrades$MARPS
-01:04 PM
-Scrillawillteeyall like $FCEL
-01:05 PM
-tommy888gVVPR holds morning hight
-01:05 PM
-sergiomadrigal14hhmmm not sure if NSPX has more
-01:06 PM
-spaceface$HUSA slide down to 1.85 hit 2.70 yesterday
-01:06 PM
-jjFlores$MARPS hault
-01:06 PM
-Scrillawilltee$MARPS halt
-01:07 PM
-AnabolicTraderWKHS short squeeze
-01:08 PM
-MichaelGoode$MARPS no news or filings recently
-01:09 PM
-Jebus1998Now you know why I said fuzzy panda off the reliable list lol WKHS
-01:09 PM
-tycoon448Fuzzy panda sucks
-01:10 PM
-RickyWhitebunch of Micro oilers going $marps $icd $rcon
-01:10 PM
-bralphs10$SOL looking for it to break 3.64 for multiday b/o. very low float could move quick if it breaks
-01:10 PM
-Vttrade4lifesorry to bother you guys about this. But I just added STT breaking news last night. And I'm trying to figure out how to use it. I'm pretty computer savvy but STT looks no different that I can see. Does it just pop up when the news comes in?
-01:10 PM
-MichaelGoode$MARPS indicating 4.80
-01:10 PM
-AM3ICD HUGE SPIKE
-01:10 PM
-DragaeranVttrade4lifeemail support
-01:10 PM
-PhillipHamptonICD Spike
-01:11 PM
-MichaelGoode$MARPS resume
-01:12 PM
-MichaelGoode$MARPS big selloff
-01:13 PM
-plumes1Gittyup WKHS
-01:13 PM
-mcutler14$FLUX near HOD
-01:13 PM
-RickyWhiteEverything is pumpy & dumpy & I like it...lol
-01:14 PM
-SharkEsq$GME dropping hard, this might be the p[anic
-01:14 PM
-Jebus1998$GME barely g/r
-01:15 PM
-SharkEsqJebus1998True, good point.
-01:15 PM
-CrownV_16There was a negative PR on $GME so be careful if u buy this dip/panic
-01:15 PM
-plumes1Sold $FCEL
-01:16 PM
-rickycas6NSPX NHOD
-01:16 PM
-spaceface$SPY in a few 245 puts .19. Small lotto play. Market has had some unexpected dumps recently
-01:16 PM
-nghiBB$JKS about to squeeze
-01:16 PM
-Jaykian720$IGC testing today's uptrend at 1.55
-01:16 PM
-CrownV_16$JKS is a monster
-01:17 PM
-SCMitchNSPX makin it easy for fomo chasers lmao
-01:17 PM
-SharkEsqCrownV_16ty
-01:17 PM
-indawestSCMitchyep haha
-01:17 PM
-SparkTradezSold 2/3 position in NSPX for a little over $2k still sitting on 75000 shares from .00091
-01:19 PM
-sergiomadrigal14ok i was wrong. NSPX keeps going
-01:19 PM
-RickyWhite$prt
-01:19 PM
-RickyWhitenow going also
-01:20 PM
-SCMitchhow does one hold from .00091? i must learn to do this lol
-01:20 PM
-Scrillawilltee$OPTT
-01:20 PM
-Ezmoney_21SCMitchclassic FGD otc
-01:20 PM
-Scrillawilltee$OPTT if it can break above 2.30
-01:20 PM
-AshTradesSTT is really annoying today
-01:21 PM
-hmorseyAshTradesIt is. It keeps deleting my trading accounts and loses connection consistently.
-01:21 PM
-caydan19$dsgt coming back
-01:22 PM
-KennyBNSPX just crazy
-01:26 PM
-PhillipHamptonI'm looking for NSPX to dip around .02
-01:27 PM
-PhillipHamptonor it may reach new highs from here
-01:28 PM
-Ezmoney_21SCMitchi just realized he said .00091 .. not .0091
-01:30 PM
-StockHaulerICD
-01:30 PM
-SCMitchyeah whatever i know what he meant
-01:30 PM
-PrepareToTrade$JE another little run up
-01:31 PM
-plumes1SCMitchuuummMMM what symbol please?
-01:31 PM
-StockHaulerICD sympathy play off $MARPS
-01:32 PM
-indawestbye bye NSPX
-01:32 PM
-AntonioPSICD Blew past my order at 3.54
-01:32 PM
-Scrillawilltee$OPTT fighting
-01:33 PM
-Jpineda154ICD breakout
-01:34 PM
-noshbariaWatching $OPTT
-01:34 PM
-JumpmasterWKHS breakout
-01:37 PM
-SCMitchummmm NSPX there ya go plumes take a chill pill
-01:37 PM
-CrownV_16Wow... Breaking News on STT just reported that Robinhood user had their acts looted
-01:37 PM
-MartinHSTT keep crashing on me, complete outages after a few minutes operation, even with only two tabs open and no watchlists showing!
-01:38 PM
-CrownV_16MartinHThey r working on the issue
-01:38 PM
-Ezmoney_21STT said they having server issues today
-01:38 PM
-stevetraderlong small DSGT position
-01:38 PM
-KBTr4d3rAGE Running higher
-01:39 PM
-MartinHCrownV_16Okay thanks, shows how much we rely on a good tool!
-01:39 PM
-BigrmoraleVVPR perk
-01:39 PM
-KBTr4d3rAGE Needs more volume
-01:39 PM
-MichaelGoode$MARPS all the chasers got bagged
-01:40 PM
-Mikeyrocks93Pumpppp and dumppppp
-01:40 PM
-SCMitch(poop)
-01:41 PM
-PhillipHamptonDSGT Respike with VOL
-01:41 PM
-StockHauler$MARPs bounce
-01:42 PM
-ThirdROCVVPR splie
-01:42 PM
-ThirdROCspike
-01:43 PM
-Scrillawilltee$OPTT volume coming in
-01:43 PM
-aumphreyMichaelGoodeIt's my one stupid trade today and then i tried avg down - ended up cutting losses at $1,600 - why do i keep making stupid mistakes!
-01:44 PM
-rnail02aumphreyexpensive lesson indeed
-01:44 PM
-StockHaulerICD squeezing
-01:44 PM
-PoohWWR red to green
-01:47 PM
-Scrillawillteelol $MARPS
-01:47 PM
-dongingersKRON keeps going sold way to soon
-01:48 PM
-tphong77nice $MARPS
-01:49 PM
-Rogue_BanjoWWR hit VWAP
-01:50 PM
-Rogue_BanjoWWR hit VWAP..and failed
-01:51 PM
-PoohVVPR halted down
-01:51 PM
-MATW23$SOL trying for multi-day b/o
-01:51 PM
-S_SullyVVPR huge drop
-01:52 PM
-bralphs10here goes SOL pretty soon
-01:52 PM
-ScrillawillteeWWR
-01:52 PM
-PhillipHamptonDSGT 3rd try coming
-01:53 PM
-BeckdanVVPR may not gap down on the halt.
-01:53 PM
-BeckdanKeeps flashing right at the halt price so far.
-01:54 PM
-BigrmoraleKODK perk
-01:54 PM
-krulldaddyDSGT breaking past the 0.19 spot, room to run here, let's see what it does!
-01:55 PM
-Howe2does anyone know what VVPR is indicating
-01:55 PM
-SHAMILHowe219.08
-01:55 PM
-PhillipHamptonNSPX Crack
-01:56 PM
-Asd169490marps
-01:56 PM
-SHAMIL19.05
-01:56 PM
-SHAMIL19
-01:57 PM
-TongAESE Its on the way up. No news
-01:58 PM
-SHAMILall the way to zero please VVPR
-01:58 PM
-PhillipHamptonVVPR is in the $17.s
-01:58 PM
-ScrillawillteeMade 900 on WWR
-02:00 PM
-RickyWhite$jks lol
-02:00 PM
-danadankoScrillawillteenice
-02:01 PM
-RickyWhite$jks goes up every day that ends in day..lol
-02:01 PM
-Asd169490Anyone in $MARPS ?
-02:02 PM
-SHAMILVVPR LMAO
-02:04 PM
-Asd169490Vvpr wow glad I took my profits
-02:05 PM
-S_Sullyafter being in and out of VVPR 22 times today, and was up $650...knew I shouldn't have bought in after the halt. Lost over $450 going against my better judgement. Ugh.
-02:05 PM
-S_Sullystill up $190 on the day on it.
-02:05 PM
-JumpmasterS_SullyAw man....I'm sorry dude. I feel your pain on plays like that
-02:06 PM
-JumpmasterS_SullyWas up a ton on gamestop options this morning, locked in profits. Came back later and lost almost all of it buying back in when it broke out for the second time but then failed massively
-02:06 PM
-007USMCI would like to see a video lesson from Tim on VVPR for today
-02:07 PM
-letapatrickS_Sullybeen there too, just not today...hate it when that happens
-02:08 PM
-S_SullyJumpmasterThanks, and Ouch. When did you buy the options on $GME? Wish I still had it from when I sold it a while back at about $5.
-02:08 PM
-PhillipHamptonDSGT may be trying it again
-02:12 PM
-JoshTraderAGE down $1.10 from yesterday (3.54) currently 2.44 and down $3.00. from its previous highs
-02:13 PM
-PhillipHamptonNSPX could be basing
-02:14 PM
-NotaRussianSpy$GME oooof, hope no one is still holding above 14. Probably not coming back for a few days at least
-02:15 PM
-TimLentoBeware the Friday Afternoon Short Squeeze http://profit.ly/5002tA & http://profit.ly/5003B7
-02:16 PM
-JoshTraderWith small account best to focus on huge breakouts and promising overnight plays
-02:16 PM
-Fill_Trades$OPTT ... Bouncing back up near high of day
-02:18 PM
-Fill_Trades$OPTT ... NHOD
-02:20 PM
-nkutschergot in optt at 2.36 then etrade chart froze. had to sell at 2.39 to restart etrade pro smh
-02:23 PM
-Fill_Trades$RETO ... Up on the day
-02:23 PM
-Fill_TradesOoops ... RETO ... Up on the day
-02:25 PM
-Asd169490$marps
-02:26 PM
-jgarc908boring friday afternoon
-02:26 PM
-ScrillawillteeRETO
-02:27 PM
-DNeshJanDSGT consolidating
-02:28 PM
-tycoon448$OPTT not squeezing. Glad did not pull the trigger
-02:28 PM
-JRodAR83VCNX testing hod
-02:28 PM
-JRodAR83Broke it!
-02:29 PM
-closeu4surein VVPR risking low of day
-02:29 PM
-mayramar$OPTT Choppy choppy choppy stuff
-02:29 PM
-SharkEsq$GME down to $12.75
-02:29 PM
-HammsKCVVPR trying to squeeze
-02:29 PM
-krulldaddyDSGT panic
-02:30 PM
-tycoon448VCNX pushing
-02:30 PM
-SpaceTrader$GME stop losses getting taken out
-02:31 PM
-HammsKCVVPR back over 17
-02:31 PM
-Asd169490Strong
-02:31 PM
-aumphreyHammsKCNot for long
-02:31 PM
-TongNVCN Making upward moving for two days.
-02:33 PM
-Minus273kelvinTims ZZZZ on DSGT should be coming out soon
-02:35 PM
-SCMitchaumphreyNSPX reversed a bit consolidating at .02
-02:36 PM
-Fill_Trades$OPTT ... Ruuuuuuuuning
-02:38 PM
-Abeeeein $OPTT 2.2 out 2.55 first win of the day after many loss. Feel so happy even though it's a small gain.
-02:39 PM
-SCMitchNSPX running again lol
-02:39 PM
-SpaceTraderWWR setting up for a squeeze if it can break $8.50
-02:39 PM
-Fill_Trades$OPTT .... B/O
-02:39 PM
-Mikeyrocks93$MARPS perk
-02:40 PM
-fyjDip buying NSPX OTC first green day
-02:40 PM
-closeu4sureLets see the Squeeze VVPR
-02:41 PM
-AbeeeeWWR is raising
-02:41 PM
-PhillipHamptonNSPX riding up
-02:44 PM
-Fill_Trades$OPTT ... NHOD
-02:47 PM
-noshbaria$OPTT small gains but happy!
-02:48 PM
-krulldaddynoshbaria#greenisgreen :)
-02:48 PM
-traderhomeboywatching CBBT
-02:49 PM
-FunkyTrader$SMTP crap stock bouncing with volume
-02:49 PM
-FunkyTraderoops SNMP
-02:49 PM
-PhillipHamptonNSPX Crack
-02:51 PM
-Mike1SOLO on the move
-02:52 PM
-RickyWhite$solo trades to damn heavy
-02:52 PM
-SniperJake_possible squeeze coming for $lkncy
-02:52 PM
-Mike1good to know
-02:52 PM
-Joe2019$OPTT trying to run again.
-02:53 PM
-Fill_Trades$OPTT .... NHOD
-02:54 PM
-MichaelGoodeSOLO hod
-02:55 PM
-PBradMoLKNCY broke VWAP of 4.26, now at 4.28
-02:56 PM
-Asd169490zzzz
-02:57 PM
-Minus273kelvinDSGT and thats why Tim is the fucking man
-02:57 PM
-RickyWhite$dsgt going for nhod
-02:57 PM
-MichaelGoodeLKNCY nicely over vwap now 4.36
-02:58 PM
-immywalker$lkncy can it squeeze...
-02:58 PM
-RickyWhite$dsgt holding up well after Tim sold.. could close strong
-02:58 PM
-ThirdROCif NSPX breaks 0.022 might run back to HOD
-02:58 PM
-chielitoweed talk on CNBC up next
-02:59 PM
-jsgoff11$FET approaching HOD
-02:59 PM
-mcutler14$OPTT on the move
-03:00 PM
-MichaelGoodejsgoff11$FET soooooo boring
-03:01 PM
-jsgoff11Thank you sir, just saw low volume having to check off the phone hand cuffs me. My bad for chat clogging
-03:01 PM
-Gusn82NSPX could run to hod imo
-03:01 PM
-jjFloresAGE about to go r/g
-03:02 PM
-jmvaughn6CEI moving
-03:02 PM
-Fill_Trades$OPTT .... Squeeeeezing
-03:03 PM
-ecordle92USWS moving a little
-03:03 PM
-Jaykian720WWR holding over vwap, potential squeeze into eod
-03:04 PM
-DipNripWWR triangle if it goes up can squeeze
-03:04 PM
-Gusn82NSPX in at 0.0225
-03:04 PM
-traderhomeboyNSPX interesting here
-03:04 PM
-KennyBIf ill start trusting myself a little more and have some conviction Ill start making money smh... Almost took $OPTT on dip at .50
-03:05 PM
-Jaykian720WWR 4th consecutive green days, tough to think shorts wanna hold this o/n – watching push to $9
-03:05 PM
-Jaykian720day*
-03:06 PM
-nickmac09could OPTT be a potential overnight play?
-03:07 PM
-DipNripJaykian720right but sector hot so lets see chart action :)
-03:07 PM
-immywalker$lkncy picking up volume
-03:07 PM
-ksat88In $OPTT at 2.58, out at 2.701 with 450 shares. Was trying to make it to $2.84 for a 10% gain, but the big red candle scared me.
-03:08 PM
-jjFlores$SOL going for Daily high
-03:08 PM
-KennyBSOLO coming all the way back down
-03:09 PM
-traderhomeboyNSPX looking stronger
-03:09 PM
-ThirdROCNSPX running NHOD
-03:10 PM
-bralphs10ThirdROCno its not
-03:10 PM
-Liveandlearn$OPTT possible dip
-03:10 PM
-ThirdROCbralphs10oops you're right, chart was zoomed in too much!
-03:14 PM
-JRodAR83$MVIS running
-03:14 PM
-Oksit$JE momentum
-03:14 PM
-traderhomeboythis is why i wait closer to the close to not get faked out
-03:15 PM
-doby1765$TOPS nhod
-03:16 PM
-carlosperezabreuHigh everyone! New here. Super cool!
-03:17 PM
-marco1$PASO perky
-03:19 PM
-traderhomeboy$PASO over .04 seems nice
-03:19 PM
-Fill_Trades$OPTT .... Grinding back up looking good for a PH run
-03:20 PM
-mayramarXELA nhod b/o
-03:20 PM
-BeckdanVVPR nice short trap there on the flush.
-03:21 PM
-JetLevant$BMGP spike ugly spread
-03:21 PM
-traderhomeboyCBBT little pop
-03:21 PM
-Beckdan16.50 is key for breakout on VVPR
-03:22 PM
-danyamohrWKHS still rising. Good news today wiping out the fuzzy panda hit piece
-03:22 PM
-NotaRussianSpyWKHS missed the B/O over the consolidation range.
-03:22 PM
-pushpasCongratulations Jack, Kyle, and Matt.. awesome (party)
-03:23 PM
-Dragaeran$GME thank you for playing....time to pay up
-03:23 PM
-KBTr4d3rCONGRATS GUYS!!
-03:23 PM
-NotaRussianSpyDragaeranHa, been telling people since yesterday not to chase, as it would likely be under 12 by today.
-03:24 PM
-traderhomeboyDSGT still on watch
-03:24 PM
-danyamohrCongrats guys. I want to be the next! Need to study harder...
-03:24 PM
-Nguyenken6$ADMP spikes
-03:25 PM
-NotaRussianSpyWKHS in only 5 shares to start @ 26.94. Looking for 50 shares total before it retests 30.00's
-03:26 PM
-BigrmoraleKODK for a perk
-03:26 PM
-ScipioWell done Gentlemen!!
-03:26 PM
-ecordle92USWS moving
-03:27 PM
-stark0001$SOL spike
-03:28 PM
-RickyWhite$dsgt taking off
-03:29 PM
-noshbariaCongrats Gentlemen, wish you success and happiness !
-03:29 PM
-JetLevantonly got 5000 out 0f 50k filled DSGT
-03:30 PM
-NotaRussianSpy$GME lol Wedbush analyst keeps neutral rating on Microsoft news. Could be enough to snuff its momentum
-03:30 PM
-_JJTHEBARBERDGST didn't get filled , geez
-03:31 PM
-Jbfernandez9DSGT is a multi month breakout
-03:31 PM
-NotaRussianSpy$GNUS perking!!!!
-03:31 PM
-SpaceTraderJbfernandez9nice find
-03:32 PM
-tdan219$always hated DSGT. had an order sitting for a full minute and didn't execute
-03:33 PM
-Jbfernandez9tdan219thas OTC stocks for you lol
-03:34 PM
-kermike33tdan219I cant get filled on OTC stocks.... I wonder if Tim is able to place such large orders directly with the market makers??
-03:34 PM
-AbeeeeSUNW r/g
-03:35 PM
-immywalker$sol going crazy
-03:35 PM
-SpaceTraderkermike33nope he just uses Etrade I believe
-03:35 PM
-KimoIf you have the money, $U is doing really well to hold. 45 shares yielded $400 in a week...paper trading
-03:35 PM
-ecordle92SDPI spike
-03:35 PM
-Vttrade4lifeMARPS
-03:35 PM
-Carlosog85DSGT 0.1871
-03:35 PM
-Carlosog85in again
-03:36 PM
-Carlosog85to hold the weekend
-03:36 PM
-KimoCarlosog85Take the money and run
-03:37 PM
-KimoDon't listen to me idkwtf I'm talking about
-03:37 PM
-Tonestockpix$ADMP moving
-03:38 PM
-Carlosog85support 0.1870
-03:38 PM
-mayramarWhy hold DSGT? because it's a first Green Day OTC runner? Is that the catalyst that warrants an overnight/weekend hold?
-03:38 PM
-tphong77$MARPS really?
-03:40 PM
-TradingMyLifestyleDGST also good #2/3 setup, chk 15d/15min
-03:40 PM
-SpaceTradermayramarits also consolidating near a multi month breakout which is a bullish signal for a hold. a little speculative though so I wouldnt have a big position
-03:41 PM
-JetLevantATDS spike
-03:41 PM
-TradingMyLifestyle*DSGT
-03:42 PM
-PfssmalleyCBAT near Day Low @3.23
-03:43 PM
-MValliancourtVVPR
-03:44 PM
-Carlosog85MULTIDAY BRAKEOUT I GUESS
-03:44 PM
-SpaceTraderDSGT NHOD
-03:45 PM
-IzriMosesMarket closed Monday?
-03:45 PM
-JetLevantthat's a dump
-03:45 PM
-Jbfernandez9IzriMosesno
-03:45 PM
-IzriMosesThanks
-03:45 PM
-Nguyenken6$NBY SPIKE
-03:46 PM
-_JJTHEBARBERDSGT ouch
-03:47 PM
-RickyWhiteTim u should have added on that dip.. I would have lost it...lol
-03:47 PM
-IzriMosesDSGT no news so no buy for me
-03:47 PM
-danyamohr$DDD dip buy at 6.7, looking to get back up near 7
-03:47 PM
-KBTr4d3rAGE Just made NHOD
-03:48 PM
-Jbfernandez9DSGT good gap history after green days
-03:48 PM
-MichaelGoode12 minutes until market close
-03:49 PM
-Dragaeranthis is where the magic happens!
-03:49 PM
-Spudneck_DanDSGT a blow to the stomach on choppiness
-03:50 PM
-Gusn82DSGT in for th wkend...
-03:51 PM
-CosmicCornucopiaIzriMosesnews was a few days ago
-03:51 PM
-Dragaeran$GME being stubborn!!!
-03:51 PM
-PhillipHamptonThe way I have seen stocks gap down and panic. I'm not holding anything
-03:52 PM
-hjh6722030DSGT holding the breakout well, let the weekend profit taker run, good history of gap up
-03:52 PM
-SpaceTraderDSGT one final push
-03:54 PM
-bralphs10yeah i think thats the choppiest OTC with volume i've ever seen
-03:54 PM
-TongAESE itching for a bounce next week.
-03:54 PM
-Spudneck_DanIt would actually be better if DSGT doesnt breakout today, on monday, thisll make the stock explode and give a much higher probability of getting to .27
-03:55 PM
-cb2883ADOM strong close
-03:56 PM
-Mike1anyone playing $MARPS
-03:56 PM
-JetLevantin OZSC like the daily chart
-03:56 PM
-_JJTHEBARBERDSGT NHOD
-03:56 PM
-ecordle92USWS moving up
-03:57 PM
-MichaelGoode$dSGT closing right at hods
-03:57 PM
-JetLevanti sold NSPX at .0077 after a buy at .0078 if that makes anyone feel better....literally right before that meteoric rise
-03:58 PM
-Gusn82DSGT had to sell into strength with no risk over night...in at 0.195 out at 0.21...have a great wkend everyone
-03:59 PM
-Jbfernandez9JetLevantbut meteors crash tho lol
-03:59 PM
-007USMCWell at least you follow rule#1 Tim will be more opportunities next play : )
-03:59 PM
-tommy888gVVPR imo fun afret close
-03:59 PM
-_JJTHEBARBERTwitter talking about DGST , pushing up good
-03:59 PM
-SpaceTraderDSGT first green day otc, multi month breakout, and closing at its highs. also has a history of gap-ups
-04:00 PM
-SpaceTradernice setup if you ask me
-04:00 PM
-CosmicCornucopiagoing to wait for a dip on tuesday DSGT
-04:00 PM
-MichaelGoodeDING DING
-04:00 PM
-BeckdanCovered SNMP at the bell.
-04:00 PM
-MichaelGoodehave a good weekend, everyone
-04:00 PM
-MichaelGoodeBeckdangood job
-04:00 PM
-TimLentoIt’s Friday! http://profit.ly/5005UE
-04:00 PM
-BeckdanMichaelGoodethanks, was a nice trade all day
-04:01 PM
-Dragaeranlol.....$OSTK decides to rally and $GME desides to tank at the close.....bastards
-04:01 PM
-AshTradesIs market closed on Monday?
-04:02 PM
-Dragaerangood thing I traded within my limits and managed the risk......happy Friday and enjoy the weekend. Time to work on the new Franchise!!
-04:02 PM
-indaweststock market is open on Monday
-04:02 PM
-ChevonBeckdanwhat were you short from?
-04:02 PM
-AshTradesChevonThank you!! :)
-04:02 PM
-holtcrawfordHolding NSPX over the weekend on strong news with a huge breakout today. Not a perfect close but to finish within 30% of 600% runup is still strong. Has history of gapping up even when closing a bit below high of day.
-04:03 PM
-BeckdanChevonhttps://profit.ly/user/Beckdan/blog/snmp-short
-04:03 PM
-AshTradesindawestThank you!! :)
-04:03 PM
-Spudneck_Dangg
-04:03 PM
-Dragaeran$GE anyone know what the deal was with the slow rot down today?
-04:03 PM
-indawestAshTradesno problem
-04:03 PM
-ChevonBeckdanshoooooooooot. thats a jiggy trade
-04:03 PM
-BeckdanChevonI think my last avg was 1.10 or so
-04:04 PM
-JetLevant$HIHO former ah runner running
-04:04 PM
-CosmicCornucopiaBeckdanwhen did you go about selling/finding your shares to short?
-04:04 PM
-CosmicCornucopiaabout what time
-04:04 PM
-BeckdanCosmicCornucopiaI borrow shares early on almost all the biggest movers each day. 0700 central time
-04:05 PM
-CosmicCornucopiaBeckdanive only done one short sale but ive been starting to get the short mindset rolling.
-04:05 PM
-ChevonAlso its almost Earnings Season everyone! Merry Christmas!
-04:06 PM
-BeckdanCosmicCornucopiaIt works well, but you can't get stubborn. you will be broke very fast if you get stubborn
-04:06 PM
-axcrwl21One of my first trades on DSGT. In at 0.196, out at 0.21. Up $21! lol took my small gains!
-04:07 PM
-CosmicCornucopiaBeckdanpersonally ive only seen the ability to "sell" shares that i dont have on IBR, but you would recommend preemptively buying them around 7am central?
-04:08 PM
-BeckdanI'm holding 100 shares VVPR at 15.80 just for fun in case of after hours madness.
-04:08 PM
-Praveencn$HIHO low float moving, investor news. if it breaks above this first high it might spike hard.
-04:08 PM
-JustinAgentsDSGT -- holding over the weekend for that Monday gap up!
-04:08 PM
-BeckdanCosmicCornucopiaI have to pay to reserve shares every morning at Centerpoint, than I can use them any time during the day.
-04:09 PM
-NotaRussianSpy$GME hope no one is holding this over the weekend. been saying it was headed below 12, and itll likely stay below for a week. Don't bag hold if you didn't intend to hold it in the beginning
-04:10 PM
-traderhomeboyholding 30k DSGT over the weekend
-04:10 PM
-aumphreyJustinAgentsI'm holding 10,000 share os DSGT too over the weekend but don't forget about the holiday on Monday...we'll have to wait until Tuesday for the gap up!
-04:11 PM
-JejlopezWhat you guys think of $solo to hold over the weekend?
-04:11 PM
-CosmicCornucopiaBeckdancan u buy or sell those shares? sorry for the 21 questions
-04:12 PM
-BeckdanCosmicCornucopiaOnce I have paid to borrow them, I can use them to short any time during the day.
-04:12 PM
-JustinAgentsaumphreyMy brokers show : "U.S. stock exchanges will be open for trading Columbus Day, Monday, October 12: However, Federal Reserve Banks, bond markets, and most of the nation's banking institutions will be closed. Learn more about how this affects account activities."
-04:12 PM
-davelevBeckdan you're an mvp for the answers you're giving here
-04:12 PM
-NotaRussianSpyDragaeranDid you mean $GME? Cuz $GE likely faded all day because institutional traders / larger successful traders likely shorted into the gap up, which is why pressure all day.
-04:13 PM
-BeckdandavelevThanks. I was new once before also. It is a lot to learn and I like to see people do well.
-04:13 PM
-DragaeranNotaRussianSpyI was looking at $GE . I don't typically trade it, but watched the very large volume and just wondered because I
-04:14 PM
-tommy888gBeckdanman I learn a lot from you to
-04:14 PM
-Dragaeran'I'm lazy and don't want to read up on it :-)
-04:14 PM
-Beckdantommy888gGlad to hear I can help.
-04:15 PM
-DragaeranNotaRussianSpyI told $GME earlier to shit the bed and it didn't listen at all....
-04:17 PM
-krulldaddy$6265 week. Broke even and this was my best week ever, by far. I'm speechless. Thank you all for the alerts, the insights, the encouragement. Time to rest and study hard for Monday. Have a great weekend everyone!!!
-04:17 PM
-AcetradekrulldaddyGreat job! Great week!
-04:17 PM
-BeckdanAdded another 100 shares VVPR 15.54
-04:17 PM
-abhishekmehra82PSHG spiking
-04:18 PM
-SharkEsqNotaRussianSpyI bought $GME puts at the close. We'll see what happens.
-04:20 PM
-omgjoereallyBest week ever so far, I’m up 1100+ also my first green week gaha
-04:23 PM
-tommy888gBeckdanyou said today in PM VVPR is $120$ for 1000 shares borrowing cost do you know is this was more during the day?
-04:23 PM
-pushpasMarket is closed on Monday for Columbus day?
-04:24 PM
-NotaRussianSpySharkEsqOi! Well, I wish you luck then. A little too iffy either way for me :)
-04:24 PM
-j_machpushpasgoogle says they are open ;)
-04:24 PM
-NotaRussianSpyDragaeranHaha, $GME has its own mind, it won't listen to anyone
-04:24 PM
-davelevkrulldaddythat's awesome man, congrats
-04:25 PM
-Beckdantommy888gIt almost certainly went up during the day. I can't get them for any price right now.
-04:25 PM
-pushpasj_machTY :) Have a great weekend!
-04:28 PM
-traderhomeboythe market is not closed monday stop spreading misinformation
-04:28 PM
-tommy888gBeckdanthanks , intresting how many shorts still trap
-04:30 PM
-StudyingUpSoSheCanStayHomeanyone know why PSHG spiked?
-04:31 PM
-Bryan22traderhomeboyHe asked a question buddy, no one is spreading misinformation.
-04:31 PM
-BeckdanStudyingUpSoSheCanStayHome13D filing
-04:34 PM
-BeckdanHidden buyer 15.55 on VVPR
-04:35 PM
-traderhomeboyBryan22this is what he wrote but don't forget about the holiday on Monday...we'll have to wait until Tuesday for the gap up!
-04:35 PM
-BeckdanI was buying at the lows just then and dumped some on him. Didn't budge.
-04:35 PM
-traderhomeboyBryan22not a question to me
-04:37 PM
-BeckdanSold all VVPR 15.75 just now.
-04:37 PM
-BeckdanHave a great long weekend all.
-04:41 PM
-aumphreyHelp give me some words of wisdom to keep at this after my worst week of trading yet (today contributing to nearly half of my losses on the week). I'm over trading and when I get down I can't help but feel like I kind grind it out to get back what was lost. I lost $6,713.83 this week (over $3,000+ lost today mostly from two stupid trades MARP and VVPR on those massive drops). Actually it feels better just to type out this reflection and admit that I sucked this week. However, my wins to lo
-04:42 PM
-aumphreyBeckdanAny advice you always have good advice...
-04:44 PM
-JoshTraderaumphreyMarkets will be open Monday. Learn from your trades this week .
-04:44 PM
-traderhomeboywords of wisdom wont help your trading. learn what you did wrong and fix it
-04:44 PM
-BeckdanaumphreyVVPR was a good trade on the big run up. Kind of gambling on it other than that. Buy it when the squeeze is starting and ride it for a while. Don't get greedy on those run ups. MARP was just BS. Probably a chatroom running it up. Don't trade things without news and a reason to either be long or short.
-04:45 PM
-Abeeeeaumphreyim there with you. I dont have a massive loss but i just can't let myself go for being stubborn and can't control my emotion
-04:46 PM
-PoohaumphreyI've been/am in in the exact same boat. I had enough of losing - so i'm sticking to small size and 3 specific patterns that I know well. It's making a huge difference, i'm not revenge trading, or trading to make up my losses. I capture everything I did wrong, analysed, and have made corrections as best I could. Still early days, but suddenly making 5/10%+ gains now and focussing on that - also cutting losses much quicker.
-04:48 PM
-AbeeeePoohim thinking just use my cash account instead of margin so i can cut loss quicker and don't feel like i waste a day trade. Hopefully it will help me to make my decision better
-04:51 PM
-AcetradeaumphreyWhen you trade, what is your goal? A certain dollar amount? A big win? I'm really close to getting over the PDT amount on my account, with a 78% win rate in September. What helped me was deciding that all I wanted to do was win the trade. I don't care how small...just win the trade. I had a great week on day trades and swing trades, with a couple OTC overnight wins. My point is this: when we focus on winning the trade (regardless of money made), we release ourselves from FOMO and broken tr
-04:51 PM
-PoohaumphreyGood idea. When I got over PDT - I made 90% of my losses as I could suddenly short, and trade as much as I want. Lesson learnt. I now plan out what I am doing, set risk, set goal, and only enter according to my plan otherwise i rather miss out on the play. I've set my mind to only trade if absolutely needed, and not because i'm bored / make my self believe there is a play.
-04:52 PM
-aumphreyThanks all! Of course, I am certainly learning from all these trades wins and losses. Just needed a little encouragement. I should have stayed out of VVPR after the big run up. I timed the first and second trades perfectly getting out just before the halts and was up $230 but then just had to get back in thinking it would run up more and BOOM found myself averaging down because I erased all earlier profits and more...eventually found myself down $1,600 on that trade. 6 months ago me would
-04:52 PM
-Acetrade...broken trading habits. Just win, baby, just win. Obsess over small wins. It may help adjust your mindest.
-04:57 PM
-aumphreyAcetradeGod points! I have found myself thinking that way on some day when trading especially after a really bad day (like this upcoming Monday for instance...I will be trading that way LOL). I am currently winning at a rate of around 70% but those losses for me are just bigger than the small gains. However, I have gotten better at taking smaller losses and being ok with losing. Every once in awhile like maybe less than 5% of the time I lose BIG just because I believe the stock will keep going or th
-04:57 PM
-aumphreyThanks for all the responses guys!
-04:58 PM
-aumphreyI'm going to head out and forget about trading for the weekend! Normally I do a little studying but this weekend I think I just need a mental break from it all
-05:02 PM
-tommy888gaumphreyI use Twitter only for trading I follow some traders and lern a lot strategys / mindsets / who is under water / volume increse - decrese ... chasers to the moon and go to zero
-05:04 PM
-tommy888ghave a gooode weekend all
-05:11 PM
-JRodAR83aumphreyDo you use TOS by chance?
-05:15 PM
-kermike33aumphreyI lost 6K in one day, which put me back into the PDT rule. I learned many things in the past few months by slowing down, and not overtrading. Picking the best trades has helped my discipline, and I find I'm happier then when I could trade as much as I wanted. I get Frustrated at the things I don't know, but So far, as I have humbled myself and applied what Tim says...it's working. I have enough money to overcome the PDT rule, but choose to limit myself till I see more consistent behavior/wins
-05:18 PM
-krejmentPSHG might b/o
-05:22 PM
-spacefaceaumphreyDon't let the mistakes get you down. Pretty much every successful trader has bad weeks from time to time, and lots of them at first. Sucks losing money but there are endless opportunities ahead so think of it as paying for an education that will pay you back multiples over time. Maybe size down next week until you get things dialed in. Also be careful with averaging down. Know when to cut yourself off
-05:26 PM
-kobyoshiaumphreyI agree. I lost a couple and then sized down and really was picky about what I bought this week and I won 3 in a row with smaller positions just to get back into the groove
-05:34 PM
-Jpineda154Anyone here use E-Trade pro? I have been using Thinkorswim but downloaded E-Trade pro but not familiar with how to set up the screeners on there
-05:36 PM
-GGTrader89OK BE HONEST...now that ive emotionally recovered from my major loss today (swing CEI overnight) unrealistic hopes on a bounce from todays opening dip...how many of you guys had at least ONE bagholder trade when you were new at trading.
-05:36 PM
-GGTrader89lost 18% on trade. not end of world but, god damn did it sting. major lessons learned today.
-05:47 PM
-DRayTradingGGTrader89ive had huge losses for me. $5k loss, multiple $2k losses. swinging to big before i had any idea what worked for me.
-05:47 PM
-IvanPGGTrader89Don't worry, it happens to everyone. When a stock drops 5% after you buy it, it's time to cut losses and sell. But we all learn it the hard way, don't we...
-05:52 PM
-DRayTradingGGTrader89i can not hold overnight currently. its to stressful. if its down i wont be able to sleep. if its up im worried its going to drop and cant get out. ill stare at the chart at the whole time its trading AH and PM. its not worth it to me right now. maybe ill find a pattern i get comfortable with to do so someday.
-06:03 PM
-drkpleasurewhat
-06:04 PM
-drkpleasureevening
-06:06 PM
-tphong77should have made $250 but ended up w/a loss at the end of the day for violating rule#1 :(
-06:07 PM
-tphong77k now it is off my chest lol
-06:41 PM
-Jebus1998Just opened a rh account lol. Going to see where $100 will end up only trading options
-07:23 PM
-closeu4sureVVPR The information in this preliminary prospectus is not complete and may be changed. These securities may not be sold until the registration statement filed with the Securities and Exchange Commission is effective. This preliminary prospectus is not an offer to sell nor does it seek an offer to buy these securities in any jurisdiction where the offer or sale is not permitted.
-07:29 PM
-closeu4sureVVPR Shorts going to get crushed Monday
-07:34 PM
-BigpigstockSFET o/h swing
-07:55 PM
-AcetradeAnyone trade the AH progress of PSHG?
-08:10 PM
-zzaznhan626zzAcetradeya shorting it, couldn't catch the ride up
-08:20 PM
-Vttrade4lifeIm just catching all this now. I cante get on here a lot durring the day but what you guys are saying is very helpful
-08:20 PM
-Vttrade4lifeit gets discouraging when you dont really have anyone to talk to about this because nobody is on the same page as you are
-08:40 PM
-joxVttrade4lifekeep at it. when tim first started, it seemed very much like what you're feeling but the point is to not give up. with this chat, we already have the advantage w/ a community base that share a common goal. and yes you're correct with everyone being on different levels and experiences. per tim, study your @SS off and you'll begin to notice who is below/same/above your level. i feel the same w/ not having many to talk to about stocks but you'll find someone eventually. in some of tim's videos, he
-Pricing
-Our Story
-Support
-FAQ
-Affiliate
-Log Out
-Follow Us
-© Profit.ly® by TLC Media LLC. All Rights Reserved. (205) 851-0506
-Terms of Service.  Privacy Statement.  Code of Conduct.
-Get it on Google Play
-
-
-
-
-
-
-
-
+MichaelGoode$NWBo offeringChat Log for 10/14/2020
+12:01 AM
+Gerg40517i can be added to that lost lol
+12:01 AM
+Gerg40517list
+01:51 AM
+HAWAII_TraderWassup
+02:00 AM
+jgarc908damn sykes you need to get a bit of sleep this is unhealthy lol
+02:03 AM
+wallride5194jgarc908lol - delayed post. Created earlier and set to publish at a later time ;)
+02:04 AM
+wallride5194jgarc908That damn alert gets me every time I have my sound turned up too much. All quiet around here then BAM! lmao
+02:07 AM
+jgarc908wallride5194I am up cause I have a midterm tmmorow no trading for me
+02:07 AM
+jgarc908sad part-time trading life
+02:26 AM
+wallride5194jgarc908good luck on it. there will be many more trading days
+03:57 AM
+andyin250gm
+03:59 AM
+AleksanderJgm :)
+04:03 AM
+Knesevitchmorning
+04:06 AM
+IvanPmorning
+04:11 AM
+thinkegm
+04:12 AM
+IvanPMDRR bounced a little, but still low volume
+04:14 AM
+IvanPCDEV spiked
+04:16 AM
+IvanP$GPOR spiking
+04:24 AM
+thinkeIvanPnice call!
+04:27 AM
+IvanP$GPOR cracking, doesn't look like as a bounce yet
+04:28 AM
+IvanPand bounced from 0.45
+04:40 AM
+IvanP$GPOR and $GEN have highest volume, but not much to play for now
+05:56 AM
+extrafiredgood mornign
+06:25 AM
+drkpleasuremorning all
+06:29 AM
+Jputnam13Good morning
+06:33 AM
+JoeyDGM!
+06:34 AM
+tommy888gMDRR start
+06:35 AM
+CubanguyMDRR is moving with a high volume and low float
+06:38 AM
+thinkeMDRR little perk fading away ...
+06:47 AM
+PatrickRobertsonwhats the catalyst thats moving MDDR it just seems fluff about dividends on shares in october. SEC filing said few board members resigned cause of management and financial conflicts am I missing something?
+06:55 AM
+PatrickRobertsoncorrections MDRR
+07:02 AM
+kissumsNOVN news
+07:03 AM
+IvanP$GPOR a wall of sellers at 0.42
+07:05 AM
+thehighwaymorning
+07:05 AM
+IvanPNOVN covid news, it can run today
+07:05 AM
+Kooper59morning folks
+07:05 AM
+PennywizerBuenos dias to all
+07:07 AM
+louiedecaro31SFET q earning report record earning for them and its movin g pre market could be good play today
+07:09 AM
+SergLNDMorning Morning chaps !!
+07:09 AM
+SergLNDNOVN broke VWAP
+07:10 AM
+Kooper59anyone get in on $HALB?
+07:11 AM
+SergLND$HALB sold mine onto the close. 10% up. taking safe singles as I am learning
+07:11 AM
+Kooper59SergLNDi was FOMOing at the mouth and didn't buy because I didn't want to chase. I had to leave the house and I get the alert that Tim bought at .34
+07:12 AM
+Kooper59lol
+07:12 AM
+C_ShellGood Morning people
+07:12 AM
+jdlizzie$XELB up
+07:12 AM
+Kooper59the owls are going bonkers this morning. must be horny owls. ;)
+07:13 AM
+Pennywizer$HALB, Wish I bought at the close. Fomo might make me buy at the open...... 😬
+07:13 AM
+Aj1978Gm all
+07:14 AM
+IvanPNOVN bouncing
+07:14 AM
+Kooper59i was in and out a few times yesterday. by the time i noticed $HALB it was pushing up from .28
+07:16 AM
+SergLNDNOVN could be good for Dip&Rip at the open
+07:16 AM
+Kooper59$VOXX earnings winner may be worth a look today
+07:17 AM
+Kooper59CEI spiking
+07:21 AM
+PennywizerTim did mention VOXX to watch today.
+07:23 AM
+C_ShellYes
+07:24 AM
+Kooper59if i had a ton of money i'd just buy peloton. its been going up steady since september 24th. 6 bucks a share swing yesterday.
+07:26 AM
+Kooper59i think that would have been a good one for @evolvedtrader and his techniques
+07:26 AM
+kissumsNOVN holding up pretty well
+07:26 AM
+Kooper59NOVN can't decide what it wants to do. i have my finger on the trigger at .64 limit
+07:27 AM
+Kooper59i think the company is strapped for cash
+07:27 AM
+thehighwayKooper59ty for that info
+07:30 AM
+Kooper59thehighwayactually i just found where they disclosed a stock purchase agreement in july for up to $30 million in stock.
+07:30 AM
+Kooper59private sale
+07:30 AM
+kissumsat $1.23 per share lol
+07:31 AM
+Kooper5927% discount at the time
+07:31 AM
+Kooper59i don't think i'm touching this. it'll probably go supernova
+07:31 AM
+Kooper59:|
+07:32 AM
+kissumsNOVN has better news than $XELB yet $XELB running better haha
+07:33 AM
+Kooper59PTON up over a buck already. what a bunch of dumb bells. (rofl)
+07:34 AM
+kissumsNOVN vol
+07:34 AM
+pfelix09Good morning brother klk
+07:35 AM
+MaerskKooper59PTON bike company and ZM skype software $ 5 1 9.........
+07:35 AM
+CubanguykissumsNOVN float is a mosnter...
+07:35 AM
+Maerskno relation to real value....all hype
+07:36 AM
+Kooper59my two biggest fails were selling $NVDA at $140 and PAYC at $200. I made a money on both but look at them now.
+07:36 AM
+kissumsI sold PTON At $49 lol
+07:36 AM
+kissumsNOVN new highs
+07:36 AM
+Kooper59missed my entry on NOVN. stopped watching it
+07:36 AM
+kissumshow did you decide on 0.64?
+07:37 AM
+immywalker$nonv could run big today
+07:37 AM
+immywalkerimo
+07:37 AM
+Kooper59kissumsit looked like it was consolodating right below that
+07:37 AM
+kissumsyeah think so too - former runner, covid news, small cap, penny stock
+07:37 AM
+kissumsnothing else sounding good so far
+07:38 AM
+Kooper59RDHL had great news yesterday and dropped 30 cents a share late after hours it appears. may be ready to pop up again.
+07:42 AM
+tommy888gNOVN covid isnt hot lately / small volume to float / to much over head res to run imo
+07:43 AM
+MaerskNOVN covid news.......just gets boring.....this POS has the cure.......ye right....w t f
+07:44 AM
+immywalkerMaersk99.9 percent of them are all bull shit
+07:44 AM
+Maerskprobably received a delisting notice......NOVN
+07:44 AM
+Maerskimmywalkertrue.same shit.different toilet.........
+07:44 AM
+kissumsIDXG running
+07:46 AM
+kissumsflagging quite well tho NOVN
+07:46 AM
+immywalkerMaersklook at $spi junk ran to $40 a share mad
+07:46 AM
+immywalkeri might be wrong and yes novn is a junk company i think it goes crazy
+07:46 AM
+immywalkerby the way im not pumping or in the trade either just covid news and everyone will jump on it
+07:47 AM
+kissumscovid + small cap + penny + former runner + nothing else really going right now
+07:47 AM
+kissumsthe daily is junk tho
+07:47 AM
+immywalkeranything with covid news will most the time run for a while
+07:47 AM
+kissumsbut I wouldn't underestimate a good pump lol
+07:48 AM
+kissumsinteresting to see if it will go past a dollar
+07:49 AM
+Gringoguapo8) Buen dia $OAS now OASPQ. Filed for bankruptcy
+07:50 AM
+kissums$BDR moving
+07:50 AM
+immywalkerkissumsyea if it does fuck me squeeze time big ask thow a $1
+07:51 AM
+MaerskMDRX
+07:52 AM
+kissumsbig spike on IDXG hmm
+07:52 AM
+kissumswell and $BDR too
+07:54 AM
+Mikeyrocks93Pumpers are back 🥳
+07:55 AM
+kissumsI guess IDXG has been way beaten up
+07:55 AM
+Kooper59IDXG i'm not seeing that news being worth 2 plus dollars a share but what do i know?
+07:56 AM
+TripleTenacityIDXG...Looks like a bagholder bounce
+07:56 AM
+kissumsI thought so too - but I guess cuz it fell alot from the original accusations?
+07:57 AM
+kissumsso maybe shorts covering as well
+07:57 AM
+kissumsits been keeping the 8EMA
+07:57 AM
+kissumsNOVN also..
+07:58 AM
+Bertiolo97good morning
+07:58 AM
+Kooper59Bertiolo97gm!
+08:00 AM
+kissumsWWR moving
+08:00 AM
+BakeAndTradeKooper59This are the IDXG news: probe found no evidence of illegal acts http://newsfile.refinitiv.com/getnewsfile/v1/story?guid=urn:newsml:reuters.com:20201014:nGNX1Jmtqy
+08:01 AM
+TripleTenacityIDXG looks heavy here...back under $5
+08:01 AM
+Kooper59yeah i saw that. still. 2 bucks a share?
+08:01 AM
+costam911$HALB some prints this morning already
+08:01 AM
+Kooper59there was the RDHL pop
+08:02 AM
+AidenWas hoping WWR would do that at market open :)
+08:02 AM
+kissumsVXRT news
+08:03 AM
+Mikeyrocks93Don’t underestimate the power of a shitty press release and good pumpers
+08:03 AM
+Kooper59kissumsi refuse to buy a stock whose news is "hamster challenge"
+08:03 AM
+Kooper59lol
+08:04 AM
+gpkendrickAt least the world's hamster population has hope
+08:04 AM
+Mikeyrocks93😂😂
+08:04 AM
+Kooper59catalyst for WWR
+08:04 AM
+Kooper59??
+08:04 AM
+jamesriverajrATXI back over $4
+08:05 AM
+AidenKooper59It's due a bounce. Don't know if there's anything else to it.
+08:05 AM
+Mikeyrocks93No news
+08:06 AM
+tommy888gWWR I call it "go to 0" bounce
+08:10 AM
+Mikeyrocks93If you ever want to find out news and don’t have STT just go on stocktwits and search up the ticker you’re looking for. the bag holders think they’re holding a gold mine.
+08:11 AM
+kissumsIDXG curling
+08:11 AM
+BrianKuostill holding 2000 shares $BDR at $1.97, looking to it bounce back
+08:12 AM
+louiedecaro31IDXG nice mover pre market up 63% nice volume beat their court hearing could be good play today
+08:12 AM
+tommy888gBrianKuocut a loss faster man
+08:13 AM
+BrianKuoI was supposed to cut loss yesterday but I didn't
+08:13 AM
+Jputnam13Agreed
+08:13 AM
+kissumsBrianKuoyeah I had that same issue
+08:14 AM
+JRodAR83NOVN Covid news up 50%
+08:14 AM
+kissums$BDR did have a spike earlier.. to 1.73..
+08:15 AM
+kissumsOCX running
+08:16 AM
+Gerg40517W/ news
+08:16 AM
+Gerg40517GM all
+08:18 AM
+caydan19$HALB bid is over 0.4$ key level
+08:19 AM
+Mikeyrocks93OCX news: Ocx Oncocyte Announces New Prospective Data Demonstrating That Treatment Informed by DetermaRx™ Significantly Improves Lung Cancer Patient Survival
+08:23 AM
+Obankz17Thinking about taking a small position on NOVN in this premarket to hold for the Open
+08:24 AM
+immywalkerObankz17same....risky but could ruin some shorts if the volume goes crazy
+08:25 AM
+SergLNDObankz17bad idea, it can sell off at the open. The press release is not great
+08:26 AM
+Obankz17Yea i just read the ENTIRE PR its just plans for 2021, just adding to watchlist for now NOVN
+08:27 AM
+Obankz17Held $HALB overnight lets see what it does this morning
+08:29 AM
+caydan19Obankz17you got ballz lol
+08:29 AM
+001CPgm
+08:30 AM
+OCNYDayTrading$VOXX at 52 week highs on earnings win
+08:30 AM
+ChiitownMDGS
+08:31 AM
+Bertiolo97OCNYDayTradingyess only need volume
+08:31 AM
+Chiitownwhat just happened to MDGS
+08:31 AM
+immywalker$mdgs wtf is going on there?
+08:31 AM
+OCNYDayTradingnice stair stepping pattern since the low in march on the daily chart, too. maybe a nice long-term or swing position
+08:32 AM
+Gerg40517crazy volume spike on no news for MDGS
+08:32 AM
+CuriosityTraderMDGS Medigus to Take a Controlling Interest in Leading Internet Company Gix
+08:33 AM
+INFINITY$SGLB active
+08:34 AM
+LegalPimplong WWR at 6.30....1st green day after low volume sell off........#5 dip buy set up from framework
+08:35 AM
+AidenLegalPimpLike this. Waiting for mkt open i think
+08:36 AM
+OCNYDayTradingINFINITYSLGB got rejected by the $3 key resistance level. will need to break through convincingly for it to be a good breakout opportunity
+08:36 AM
+LegalPimpAideni am already long.....i am actually adding to my position......i bought some yesterday into the close at 6......should bounce for a couple days at least.
+08:36 AM
+costam911news is so so $SGLB
+08:37 AM
+INFINITYOCNYDayTradingSigma Labs and IN4.OS Announce Strategic Alliance for Factories of the Future: - https://www.marketwatch.com/press-release/sigma-labs-and-in4os-announce-strategic-alliance-for-factories-of-the-future-2020-10-14?mod=mw_quote_news_seemore
+08:37 AM
+Travis_Rioshttps://finance.yahoo.com/news/novan-nitricil-technology-shows-vitro-110000370.html
+08:37 AM
+Travis_RiosNOVN
+08:37 AM
+INFINITYOCNYDayTradingFound catalyst, but failing now.
+08:38 AM
+OCNYDayTradingTimLentodo you know how to set up a multi-factor alert in ToS, or if it is even possible? e.g. price > x and volume index > y
+08:39 AM
+OCNYDayTradingINFINITYyeah, it hit $3.05'ish then retraced back down to $2.5-$2.6 in the next 3-5 minutes. will need to break through $3 more convincingly if it is going to have a chance to breakout
+08:41 AM
+OCNYDayTradingINFINITYat $2.4-$2.5, it may be a decent entry. but it is still risky given it's half way between the 52 week low and key resistance level
+08:41 AM
+Mikeyrocks93HSDT moving
+08:42 AM
+costam911split in February killed $SGLB
+08:42 AM
+rcoburn6$EFOI news
+08:42 AM
+Bertiolo97VXRT has coronavirus news , possible breakout
+08:42 AM
+MichaelGoodeTexMex @TraderTexMex 1m $BIOL Maxim initiates with Buy and $1 PT. Also guides up for Q3 revenues to $6.4-6.6m vs $5.6m est
+08:43 AM
+TimLentoOCNYDayTradingno, haven't tried that
+08:44 AM
+INFINITYOCNYDayTradingI dip bought it, small position since the news hasn't really come out yet to etrade, finfiz, etc. In @ 2.45. We'll see.
+08:44 AM
+OCNYDayTradingTimLentoi only see single factor alerts, but don't want one to go off and clear if the other isn't true as well. thank you
+08:45 AM
+TimLentoOCNYDayTradingask support, top right
+08:46 AM
+BeckdanI am feeling so freaking lost this morning. DAS Trader short locates are down at Centerpoint. I may have to long something today. (puke)
+08:47 AM
+TimLentoBeckdanew.
+08:47 AM
+rcoburn6$EFOI a leader in sustainable LED lighting and human-centric lighting (“HCL”) technologies, today launches a portfolio of germicidal UV-C Disinfection (“UVCD”) products, with advanced, patent-pending technologies designed to destroy 99.9+ percent* of various pathogens, including influenza and coronaviruses such as SARS and SARS-CoV-2, in the air or on surfaces to improve indoor hygiene and sanitation
+08:47 AM
+costam911lol
+08:49 AM
+MichaelGoode9%+ pre gainers: MDRR IDXG NOVN OCX $MDRX $GEN $XELB $EFOI $VOXX $GPOR HSDT $NIO CDEV SCYX $CXO
+08:49 AM
+DipNrip$EFOI 2.7m float and almost 14% short could squeeze
+08:50 AM
+BeckdanTimLentoNo kidding. I can't just sit here all day and not trade, but dang. I may not make it through the day. Shorting with my E-trade and TD accounts is useless...
+08:51 AM
+IvanPBeckdanwhat about getting an IB account, it usually does have some shares for shorting...
+08:51 AM
+MichaelGoodeMDRR +81% $2.11 $9m mkt cap https://finance.yahoo.com/news/medalist-diversified-reit-announces-series-202000503.html Medalist Diversified REIT Announces Series A Preferred Stock Cash Dividend
+08:52 AM
+MichaelGoodeMDRR do traders buying this realize that the dividend is for the preferred NOT the common stock they are buying?
+08:52 AM
+BeckdanMichaelGoodeMDRR is kind of correct. the MDRRP shares are the only ones that get a dividend. Probably fails
+08:52 AM
+BeckdanMichaelGoodeyou already knew. :-)
+08:53 AM
+MichaelGoodeIDXG +51% $4.50 $18m mkt cap https://finance.yahoo.com/news/interpace-biosciences-audit-committee-investigation-103000398.html Interpace Biosciences’ Audit Committee Investigation Finds Complaints Unsubstantiated
+08:56 AM
+MichaelGoodeNOVN +52% $0.698 $94m mkt cap https://finance.yahoo.com/news/novan-nitricil-technology-shows-vitro-110000370.html Novan’s NITRICIL™ Technology Shows In Vitro Antiviral Effect Against SARS-CoV-2 in Human Airway Infection Model
+08:56 AM
+MichaelGoodeNOVN this is in test tubes lol
+08:56 AM
+costam911float 3.7 MM IDXG
+08:56 AM
+MichaelGoodeBleach also works at killing SARS-CoV-2 in test tubes
+08:56 AM
+Travis_Rioslol
+08:57 AM
+gio22MichaelGoode(giggle)
+08:57 AM
+OCNYDayTradingTimLentoit is possible, but needs to be done as a study
+08:58 AM
+TimLentoOCNYDayTradingcool, thx
+08:58 AM
+MichaelGoodeOCX +37% $2.01 $131m mkt cap https://finance.yahoo.com/news/oncocyte-announces-prospective-data-demonstrating-120000716.html Oncocyte Announces New Prospective Data Demonstrating That Treatment Informed by DetermaRx™ Significantly Improves Lung Cancer Patient Survival
+08:59 AM
+JRodAR83TIMBO SLICE!!!
+08:59 AM
+AidenGM
+08:59 AM
+SergLNDGM
+08:59 AM
+Kooper59gm
+08:59 AM
+immywalkergm
+08:59 AM
+thehighwaygood morning!
+08:59 AM
+DipNripgood morning
+08:59 AM
+DoublehGm
+08:59 AM
+Gerg40517GM
+08:59 AM
+Aj1978Gm boss
+08:59 AM
+TapOrNap3100gm
+08:59 AM
+Stroe217Goodmorning
+08:59 AM
+bhyde1989GM
+08:59 AM
+OCNYDayTradingmorning tim
+08:59 AM
+charlie008good morning
+08:59 AM
+riverawgm
+08:59 AM
+Al780Good morning
+08:59 AM
+Mark88GM!
+08:59 AM
+thinkegm
+08:59 AM
+DPM1201GM Tim!
+08:59 AM
+Scipiogm
+08:59 AM
+BrianKuoGM boss
+08:59 AM
+001CPmorning
+08:59 AM
+Watchmearn1good morning(dance)
+08:59 AM
+eastcoastGood morning
+08:59 AM
+PennywizerMorning 😊
+08:59 AM
+mikeesf79morning Tim!
+08:59 AM
+libzentGood morning
+08:59 AM
+AngelHuertasGM coach
+08:59 AM
+glekarkynGM
+08:59 AM
+Sin_tradinggm!
+08:59 AM
+Joesmoney2Good morning Tim
+08:59 AM
+kermike33GM
+08:59 AM
+JoeyDGM!
+08:59 AM
+MichaelGoode$MDRX +33% $11.03 $1.8 billion mkt cap https://finance.yahoo.com/news/allscripts-sell-careport-health-business-210100313.html Allscripts to sell CarePort Health business to WellSky
+08:59 AM
+PatrickRobertsonGood morning
+08:59 AM
+geostudiogood Morning Tim, hope you had a safe journey back
+09:00 AM
+PfssmalleyGreat morning!
+09:00 AM
+BeckdanIvanPIB is good to use, but I'll stick with CP. Just one bad day with their system today. It has traditionally been rock solid.
+09:00 AM
+Rhin0Good morning
+09:00 AM
+ManFromShadowGood morning Tim
+09:00 AM
+emnmeg09GM
+09:00 AM
+IvanPBeckdanI meant you can use both
+09:00 AM
+BluegocartGood morning
+09:00 AM
+TimLentoMarket opens in less than 30 minutes. Please abide by chat rules from now until 4:00 PM EST. Violators are being muted in private. http://bit.ly/NewChatRules
+09:01 AM
+alomichelGood morning! New student and very eager to learn
+09:01 AM
+Mikeyrocks93Here comes the Robinhood effect
+09:01 AM
+libzentalomichelwelcome!
+09:02 AM
+Cranero_beMikeyrocks93What time they can start trading?
+09:02 AM
+BeckdanIvanPI screw up if I try to trade too much in different accounts. I killed my Tradezero account a while back doing that. Made $30K at Centerpoint and lost $29K at TZ boxing a position on KODK.
+09:02 AM
+MichaelGoode$GEN +22% $0.64 $104m mkt cap https://finance.yahoo.com/news/ltc-aco-receives-positive-reconciliation-200300224.html LTC ACO Receives Positive Reconciliation and Settlement Under the Medicare Shared Savings Program (MSSP)
+09:02 AM
+BeckdanShort locate is back up. I feel better already!
+09:02 AM
+bralphs10$HALB gapping up pretty good so far
+09:03 AM
+amsbeatsMorning heathens. Gap list is looking slightly weak today.. Market has really been dying down the last week
+09:03 AM
+costam911little gao on $HALB
+09:03 AM
+zzaznhan626zzBeckdanhow much do u spend on these locates per week or 2 weeks?
+09:03 AM
+amsbeatsCome on market makers get your shit together P***ies. There are still lots of shorts to squeeze!
+09:03 AM
+MichaelGoode$XELB +28% $1.00 $19m mkt cap insider buy reported yesterday after close https://www.sec.gov/Archives/edgar/data/1083220/000110465920114584/xslF345X03/tm2033128d1_form4.xml
+09:04 AM
+Stroe217Thoughts on $GEVO
+09:04 AM
+zzaznhan626zzBeckdanwantd to compare to e-trade. because i'm paying 2K per week or 2 weeks i have to check more carefully. eating up all my gains
+09:05 AM
+MichaelGoode$EFOI +27% $10.63 $33m mkt cap https://finance.yahoo.com/news/energy-focus-launches-advanced-uv-123000430.html Energy Focus Launches Advanced UV-C Disinfection Product Portfolio Offering Airborne and Surface Disinfection Solutions for Commercial and Residential Indoor Environments
+09:05 AM
+jamesriverajr$GEVO and I had it on my watchlist but didn't pull the trigger FML
+09:06 AM
+MichaelGoode$VOXX +18% $10.24 $243m mkt cap https://finance.yahoo.com/news/voxx-international-corporation-reports-fiscal-200100613.html VOXX International Corporation Reports Its Fiscal 2021 Second Quarter Financial Results
+09:07 AM
+costam911$VOXX 13MM float
+09:08 AM
+BosscabarDid ENZC have news come out?
+09:08 AM
+immywalker$Gevo would love to see this run
+09:08 AM
+NotaRussianSpyWKHS up PM, still in overnight, waiting to add on support or sell into perks
+09:09 AM
+Beckdanzzaznhan626zzIt varies a lot. I spend on average $100-300 a day for short locates.
+09:10 AM
+Mikeyrocks93$EFOI running
+09:10 AM
+zzaznhan626zzBeckdanso it is like etrade, thought i was getting ripped off there for a moment
+09:11 AM
+MichaelGoodeadd $GEVO to pre gainers list +13% $1.20 $91m mkt cap https://finance.yahoo.com/news/gevo-collaborates-total-cray-valley-130000842.html Gevo Collaborates with TOTAL Cray Valley to Develop Renewable Isoamylene
+09:13 AM
+Joesmoney2in on $GEVO 2k at 1.18
+09:13 AM
+tommy888gbig chatroom in $EFOI
+09:14 AM
+TripleTenacityIDXG breaking down further
+09:15 AM
+MichaelGoodeNOVN a cheap borrow and potential short for me, lower-priced than ideal
+09:15 AM
+Aj1978In 2k $GEVO 1.18
+09:15 AM
+DNeshJanABML spiking premarket
+09:15 AM
+hansh075$GEVO traded 991M vol on 20th aug...the high was 2.18
+09:16 AM
+MichaelGoodeLKNCY gapping up a little 4.61 x 4.65 -- very little liquidity in premarket because it is OTC of course
+09:16 AM
+TimLentoMarket opens in less than 15 minutes. Please abide by chat rules from now until 4:00 PM EST. Violators are being muted in private. http://bit.ly/NewChatRules
+09:17 AM
+BryanxMichaelGoodeim assuming you are looking to short once it gets more extended? Given the positive coronavirus news
+09:17 AM
+tommy888g$NIO 11% gap up
+09:17 AM
+DTS86wall on gevo getting large
+09:18 AM
+MichaelGoodeBryanxit is already up 50%
+09:19 AM
+costam911prints going through $HALB
+09:20 AM
+NDeNezzaTop panic watcher: $VOXX
+09:20 AM
+NDeNezzaAnyone have any others
+09:21 AM
+JetLevantABML 25% gap up
+09:21 AM
+OCNYDayTrading$GEVO looking like it wants to move into open
+09:21 AM
+costam911lets go sun devils!
+09:22 AM
+ksat88where do you see pre-market info for $HALB
+09:23 AM
+rickycas6$NIO rocket
+09:23 AM
+BeckdanTop shorts for today- MDRR, IDXG, $EFOI Nothing looks really good right now though. I need something to really move up before I feel like the risk is good.
+09:23 AM
+Bertiolo97NOVN watching , VXRT and $VOXX
+09:23 AM
+costam911ksat88times and sales
+09:23 AM
+Atrain22$HALB indicating .042 on STT
+09:23 AM
+SharkEsqOCX has been coiling around $2 for the past hour after spiking on lung cancer treatment news.
+09:24 AM
+ThompsonslakeMichaelGoodeHeld LKNCY overnight.
+09:24 AM
+costam9115 min
+09:25 AM
+Atrain22$EFOI is strongest gainer so far SFET $SPOR $GEVO $GEN $XELB OCX IDXG MDRR on watch nothing yet
+09:25 AM
+JetLevantNSPX top watch for panic
+09:26 AM
+NDeNezzaJetLevantGood call
+09:26 AM
+kobrakaiBeckdanim short MDRR from 2.60
+09:26 AM
+jdukeGood Morning (sun)
+09:26 AM
+BeckdankobrakaiNice. Thats where I'd like to see it to get short.
+09:26 AM
+Watchmearn1NOVN spiking
+09:27 AM
+Atrain22kobrakaiyeah all these pumps have been fading even short lasted squeezes have been breaking lately
+09:27 AM
+MichaelGoode3 minutes until market open
+09:27 AM
+kobrakaicovered MDRR 1.96
+09:28 AM
+OnTeeBosscabarENZC news https://www.accesswire.com/610379/Enzolytics-Inc-Announces-Execution-of-Binding-Letter-of-Intent-for-Merger-with-BioClonetics-Immunotherapeutics-Inc
+09:28 AM
+Atrain22$HALB $NIO best into open
+09:28 AM
+BosscabarThank you
+09:28 AM
+TimLentoWelcome to ! Everything that is not an actionable stock alert or a brief discussion of a current or potential stock trade is off-topic during the trading day. Discussions may take place in the off topic room. Violators are being muted in private. See the rules and abbreviations here > http://bit.ly/NewChatRules
+09:28 AM
+JetLevantNSPX gapping down a bit. cmonnnnn panic
+09:29 AM
+TripleTenacityNOVN still can't break the .77 levelChat Log for 10/15/2020
+12:20 AM
+RagincajunIm in on GPOR, huge volume today and finding bottom , should be exciting tomorrow
+03:00 AM
+Joshboggessgoodnight
+03:36 AM
+KimoGoodnight y'all, my daughter went to sleep early I might get 5 hours sleep tonight. 3a Hawaii time rise and shine
+03:39 AM
+IvanPgood morning :)
+03:41 AM
+andyin250gm
+04:00 AM
+thinkegm
+04:01 AM
+KimoGm (shake)
+04:02 AM
+KimoI appreciate you folks pre market comments. I don't have a lot of time to drink coffee and get my shizz together in 10-20 minutes
+04:04 AM
+thinke$STAF price action
+04:04 AM
+tycoon448(bear)
+04:06 AM
+Jputnam13Good morning
+04:33 AM
+IvanPSPI spiking
+04:37 AM
+IvanPSPI news: strategic agreement: https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8378175265796104
+04:40 AM
+thinkeSPI low volume
+04:40 AM
+IvanPyes, but wait for 7am, 8am, 9am. It could be a runner again
+04:41 AM
+IvanPit spiked from 7.50 to 10 on low volume, let's see what it does with the high volume :)
+04:43 AM
+thinkeIvanPyou r the true, pm moderator, so buy the dip ?, news is fluffy, but it's an former runner
+04:47 AM
+IvanPI'm not :) I'm just learning, I'm only saying my opinions, you can correct me if I'm wrong. But SPI was a supernova spiker recently on similar news, so there are good odds it can spike again. But it does not have to, it's just a theory. Remember what Tim says - we need to react to what's happening. And never try to predict. Hence, I'd wait for the volume and price action (7am, 8am, 9am). If it doesn't spike, fuck it :)
+04:48 AM
+IvanPAnd I'm so early here only because I'm in London - 4am eastern equals 9am GMT :)
+04:50 AM
+IvanPand I like pre-market spikers, because it's not so fast as at market hours and it usually does not drop so fast - you have time to react (cut loses quickly). I've already made 1 trade this morning and I made a small profit even after making a mistake and buying for ASK (1.47) instead of buying for BID (1.37) - wrong button :D It still spiked a little, slowly, then it slowly fade out, so there was plenty of time to sell.
+04:51 AM
+AleksanderJYou traded $STAF ?
+04:51 AM
+IvanPbut I traded wrong ticker (KNIX), should have traded STAF, it spiked more
+04:51 AM
+IvanPunfortunately not :)
+04:52 AM
+AleksanderJI was looking at it before it spiked, but since I didn't see any catalyst, I thought it would spike and fail
+04:52 AM
+IvanPbut I made a note, that after hours spikers that end strong, could spike at 4am again. I will be watching them now
+04:52 AM
+AleksanderJaha, nice to notice
+04:52 AM
+IvanPSTAF or KNIX?
+04:53 AM
+AleksanderJSTAF
+04:54 AM
+IvanPsome people that miss the first spike, trade it the next day. or maybe there's a pattern that people follow (as I said before, after hours spiker that ends strong, spiking in the morning) and they follow it. Or maybe, few people started trading it, caused the small gap up and then bots were triggered and bought it too. Hard to say
+04:54 AM
+thinkeyeah momentum is kept through the night
+04:55 AM
+IvanPbut it happens, spikes without a current catalyst, it's hart to explain
+04:55 AM
+IvanP*hard
+04:55 AM
+IvanPexactly
+04:55 AM
+AleksanderJYeah, all we can do is pay attention and learn :)
+04:55 AM
+Mikeyrocks93Big Spikes make me hard
+04:56 AM
+AleksanderJGood to know.
+04:57 AM
+thinkeIvanPI a traded $STAF took a nice quick 15 % shot on a small position
+04:57 AM
+thinkeSPI moving
+04:57 AM
+thinketoo low volume yet
+04:57 AM
+IvanPyes, looks like it bounced from 8.5, but I'd wait for volume
+04:59 AM
+IvanP7.2 looks to be this week's support, so it sounds like a reasonable risk given the positive news and hot sector. Just thinking loud ...
+05:01 AM
+thinkebig resistance round 9 $ could break this easy with volume
+05:03 AM
+IvanPJG news, 17.24M funding
+05:04 AM
+IvanPthinkevery nice, you must have been quick
+05:07 AM
+thinkeIvanPWhere do you get this news so fast STT?
+05:08 AM
+IvanPSTT news scanner - just click on the eye, then custom news scan, create new and then filter what you're interested in, like price below 15, volume 1000, %change 1 or so.
+05:08 AM
+IvanPBut I'm considering getting some other news source too (TOS or Benzinga)
+05:10 AM
+IvanPThe problem is (and I can't get it), there is no alert on this news scanner .... why anyone implements a news scanner without and alert? But, you can set up alert in Top%gainers window on a Headline. So if any of the ticker in top % gainers got news, you're alerted. Problem is, the window is empty in the morning and you want to be alerted before the stock spikes, when the news got out ...
+05:18 AM
+Rumon999IvanP17.M RMB which is Chinese currency not USD. ITs not a lot when you convert in USD
+05:21 AM
+JoeyDGM
+05:28 AM
+IvanPRumon999good point, so weak news
+05:54 AM
+thinkeUSWS spiking
+05:55 AM
+Gerg40517GM All
+05:55 AM
+andyin250gm
+06:21 AM
+Kooper59good morning folks
+06:22 AM
+Kooper59IvanPTim Lento always links "Scanz"
+06:23 AM
+Kooper59https://scanz.com/pricing/
+06:23 AM
+IvanPYes, scanz, TOS, equityfeed, benzinga are the most common (news and scanners)
+06:24 AM
+Kooper59i haven't looked in to it. we have our house tore to hell. contractors are giving us grief. once that's finished i plan to get a new computer and get set up properly. right now i'm using an i3 lappy connected to my 60" tv
+06:25 AM
+Kooper59i use fidelity ATP and ToS and my machine bogs. it croaked in the middle of a trade the other day but fortunately i escaped with a small profit.
+06:25 AM
+IvanPI think benzinga is 99/mo, the basic one, not sure if both news and scanners are included, but news definitely
+06:25 AM
+IvanPah, so you're saying, another news feed will eat your laptop resources?
+06:26 AM
+Kooper59i'm pretty sure it would. i keep getting out of memory errors on ToS
+06:26 AM
+Kooper59i need to build a good machine and buy a few proper monitors. then i was planning to get STT.
+06:27 AM
+Kooper59i'm considering joining @evolvedtrader's program
+06:27 AM
+Kooper59i think it's a little slower moving and less pressure
+06:27 AM
+Kooper59i ate it hard yesterday on MDRR
+06:28 AM
+Kooper59i was sizing up on that second run up. was in for about 2000 shares at one point and it dropped over a dollar in a minute. it was dropping so fast i couldn't catch it until i was in the red for $800
+06:28 AM
+IvanPnow how do I decide between scanz and benzinga? :)
+06:28 AM
+IvanPyeah me too, MDRR's a bitch
+06:29 AM
+Kooper59there was good strength and volume going up and i don't see how anyone could have predicted a million shares sold all at once.
+06:29 AM
+Kooper59it must have been a programmed trade or something. i thought i was following the rules.
+06:29 AM
+IvanPyou can't predict that. Couple of days ago, Tim was also caught on a big drop
+06:30 AM
+Kooper59where you from Ivan?
+06:30 AM
+IvanPI know Tim doesn't like it (and doesn't use it), but I'm considering to start using stop losses. I think his arguments don't hold any more, there are pretty smart algorithms there and if you set it up right, it will definitely be executed
+06:31 AM
+IvanPI'm in London (living and working), but I'm from Slovakia
+06:31 AM
+Kooper59i really need to learn more. i'd like to have hotkeys to sell.
+06:31 AM
+Kooper59i love fidelity and Active Trader Pro but the way i'm doing it seems a little clunky
+06:31 AM
+IvanPthat's what I'm considering too :) Again, Tim's argument against hotkeys is overtrading
+06:32 AM
+Kooper59the drop yesterday was too fast. a hotkey may have saved me but maybe not. it was sooo fast it looked like a late print
+06:33 AM
+Kooper59we visited the czech republic two years ago
+06:33 AM
+IvanPhow much was it percentwise for you? I lost 10% on that trade
+06:33 AM
+IvanPbut it's also because I tried to add on dip buy and it kept falling. I should have sold and then wait for the dip
+06:34 AM
+Kooper59i don't even know.
+06:34 AM
+IvanPone candle (1m) usually does not drop more than 5%-10%, so you should have enough time, but I think you need to sell for MIDPRICE to get executed
+06:34 AM
+Kooper59about 10%
+06:35 AM
+Kooper59i was four cents from an exitt
+06:35 AM
+IvanPI put all my trades in excel and one of the column is % PnL before and after commissions
+06:35 AM
+Kooper59i was going to exit at 4.80
+06:35 AM
+Kooper59i'm old
+06:35 AM
+IvanPsometimes %PnL is a profit before commissions and a loss after, scalping is not profitable :)
+06:35 AM
+Kooper59i don't know how to use excel
+06:35 AM
+Kooper59i'm also a hardware guy
+06:36 AM
+Kooper59we visited england on the same trip but didn't go to london
+06:36 AM
+Kooper59we went to see a friend in Leeds
+06:36 AM
+Kooper59we used to play Worms2 together back in the day
+06:37 AM
+Kooper59im 61 years old
+06:37 AM
+IvanPthere's a cheap course on Excel on Udemy, it's worth it. But you can save your trades to profit.ly, it will calculate PnL for you
+06:37 AM
+Kooper59i'm embarrassed to put my trades there
+06:37 AM
+IvanPit's never too late to learn something :)
+06:37 AM
+Kooper59(doh)
+06:38 AM
+IvanPI think you don't need to share them (I think there is an option to keep them private; maybe I'm wrong)
+06:38 AM
+Kooper59i see
+06:38 AM
+AleksanderJ61 years old. If you can get a hang of this, then at least you have some income after retirement, unlike most people. I'm 33 and I expect the pension fund to be gone by the time I retire
+06:38 AM
+Kooper59i'm not a very regimented person. i don't keep logs other than what ATP has. it lists all my closed positions.
+06:39 AM
+Kooper59i'm disabled but haven't tried to apply yet. our government sucks donkey dicks big time. i actually expect the shit to hit the fan and violent revolution.
+06:39 AM
+StudyingUpSoSheCanStayHomeBe careful with SPI. It’s still up so much when you think about it. It was in the 1s before the 3rd week in September when it then went supernova.
+06:40 AM
+Kooper59i think the dollar will collapse completely because the fed just keeps creating them out of thin air.
+06:40 AM
+Kooper59i have some precious metal. gold, silver, brass, lead.
+06:40 AM
+AleksanderJYeah, I can't imagine what will happen if the dollar collapses
+06:40 AM
+MongooseKooper59That the first thing...omit I'm not...I can't...and do what it will take to go beyond the limit...right now...you just put on your self...Just take the first step...
+06:41 AM
+Kooper59Mongoosethanks for the advice
+06:42 AM
+MaerskVVPR offering 8.50 a share
+06:42 AM
+MongooseAleksanderJThere is no value to the money and will only become worse if more money continues to get printed
+06:42 AM
+Kooper59AleksanderJit can't continue the way it is. clearly the elites are pushing for something else. google "the great reset"
+06:43 AM
+Kooper59AleksanderJwe in the states who believe in individual liberty are in their way. we also have too many guns.
+06:43 AM
+MongooseKooper59(y)
+06:44 AM
+Kooper59AleksanderJthe media has turned our country into a land of fruits and nuts. they think voting for some other rich puke to run their lives is going to change something. they're a bunch of tv watching zombies. i can't even look at television. it's so stupid i wonder what sort of mentality can even look at this and be entertained?
+06:45 AM
+Kooper59toilet paper. that's what they buy. i buy freeze dried food and ammo.
+06:45 AM
+gpkendrickGM - Can we talk stocks here?
+06:45 AM
+Kooper59lol
+06:45 AM
+kobyoshiKooper59Not just the regular media. Social media has a bug play in that, but otherwise I agree
+06:46 AM
+gpkendrickYou're bringing me down, man
+06:46 AM
+Kooper59i gave up on social media. it's a divisive tool run by one of the elites.
+06:46 AM
+Kooper59sorry kendo. i'm off my soapbox now
+06:47 AM
+gpkendrickOK. News says there is concern over rising Covid cases - hence the market weakness.
+06:47 AM
+kobyoshi$STAF moving a little
+06:48 AM
+gpkendrickKooper59I'm 63 btw
+06:49 AM
+Kooper59gpkendrickyou don't look 63 in your picture
+06:50 AM
+IvanPMDJH contract news, but it looks like it already spiked 15 mins ago
+06:50 AM
+gpkendrickKooper59That was probably about 6 years ago
+06:52 AM
+gpkendrick$STAF looks strong, watching for 0700 spike. No news that I see this AM
+06:53 AM
+Maerskgpkendricklooks like a delisting notice.......STAF
+06:53 AM
+kobyoshi$STAF so they just pump for a few days to get over $1
+06:54 AM
+Maerskkobyoshie x a c t l y
+06:54 AM
+gpkendrickYes, could be
+06:55 AM
+gpkendrick$STAF up 100% since yesterday close
+06:56 AM
+gpkendrickSPI has news
+06:57 AM
+louiedecaro31$PEI great news yesterday real-estate company look for more volume today before really starts moving also check out VVII both have decent float both just need more volume but slowly climbed up all day yesterday.
+06:57 AM
+gpkendrickBut we know there is no logic to what goes up or how much
+06:57 AM
+louiedecaro31opps $xxii not $vvii
+06:58 AM
+jamesriverajrAnyone in ATXI? Could see a reversal soon. The gap is huge to fill.
+06:58 AM
+IvanPgpkendrickyes, but most of it is from yesterday's after hours, it's very close to yesterday's after hours close, and bouncing between the previous resistance levels 1.35 and 1.6 now
+06:58 AM
+Kooper59i feel like a moron compared to some of you guys. i read and watch videos and watch the mentors trade but don't seem to get it.
+06:58 AM
+NotaRussianSpyVVPR big gap down
+07:00 AM
+gpkendrickKooper59Keep it simple - buy if it's going up. Sell into strength - take the Money. Get out if it stops going up.
+07:00 AM
+PeterValenciaKooper59Andrew Aziz books he wrote really helped me start to figure some of it out.
+07:00 AM
+kobyoshigpkendrickIt never seems that easy, but yes
+07:00 AM
+NotaRussianSpyFutures Down quite a bit: $QQQ down 7 points too. Could be a good day for PUTs
+07:00 AM
+Kooper59gpkendricki tried that on MDRR yesterday and it dropped a dollar in 15 seconds.
+07:00 AM
+IvanPSPI woke up at 7am
+07:02 AM
+jamesriverajr$AVXL Anavex Life Sciences Announces Positive Results from Proof of Concept controlled Phase 2 Clinical Trial Evaluating ANAVEX®2-73 (blarcamesine) in Parkinson’s Disease Dementia
+07:02 AM
+jamesriverajrIt's currently halted
+07:02 AM
+rcoburn6$husn
+07:02 AM
+drkpleasuremorning all
+07:03 AM
+IvanPHUSN news and spike (Merger Agreement)
+07:03 AM
+drkpleasureGM
+07:04 AM
+gpkendrickKooper59I made money on the run up but I didn't hold it or chase it. When they are up 300 percent for no good reason, you gotta be very cautious. Take the $$ and get out.
+07:09 AM
+NickDodgewatching MDRX and ATEC to start short and its looking like MDRX has had more volume so...
+07:09 AM
+jamesriverajrHUSN now that it's dipping, what indicators do most of y'all use to determine whether or not you'd enter the trade? I'm just watching it because I've been trading like shit lately; bad executions.
+07:10 AM
+kobyoshiMDJH news and super low float. 1.3 mil
+07:11 AM
+Kooper59jamesriverajri see people talking about the 8 ema. some also talk about RSI. still others mention VWAP often.
+07:11 AM
+kissumsSPI moving
+07:11 AM
+Kooper59not sure how to use them
+07:12 AM
+gpkendrickjamesriverajrSPI running
+07:12 AM
+gpkendrickSorry that wasn't meant for you - just general
+07:13 AM
+Shanky7$STAF cracked 20c in the last 3 mins
+07:16 AM
+IvanPjamesriverajrnote the 7 indicators Tim recommends to watch. For me, definitely the catalyst (strong/weak), chart history (does is spike and drops, or does it keep strong for some time and respike?), risk/reward - stocks already 200% up are risky (can suddenly drop, see MDRR yesterday), volume (very important, it's best to trade top 10 day-volume stocks), price action - dip buying? catching the spike?
+07:16 AM
+IvanPand also the overall market (index indicators like SPY, DIA, QQQ)
+07:17 AM
+IvanPThat's pretty much the basics, I would say
+07:18 AM
+jamesriverajrIvanPThanks man. I guess it's trading 101 but my execution just seems shit lately. Like I keep entering stocks that do absolutely nothing after initial spike.
+07:19 AM
+kobyoshiMDJH In $6.30 out $6.52 fast mover here
+07:19 AM
+DirkjohnsonHopefully $VOXX will run like SPI
+07:19 AM
+Kooper59missed my entry at 6.12
+07:20 AM
+kissums$STAF flagging nicely above 1.5 hmm
+07:24 AM
+jamesriverajrHUSN there is no way this thing doesn't go today; small position
+07:27 AM
+TripleTenacitySPI New PM High 10.18
+07:33 AM
+IvanPSPI 10.50, will be a runner today
+07:33 AM
+SharkEsqGM SPI in $9.82 out $10.34 small position
+07:36 AM
+EAdaponSharkEsqnice trade
+07:38 AM
+drkpleasure(y)
+07:39 AM
+SharkEsqEAdaponTY, SPI about to explode
+07:39 AM
+SharkEsqreal choppy though
+07:39 AM
+kobyoshiMDJH slowed down. an leveled out
+07:43 AM
+teongokSPI gonna be winner today
+07:44 AM
+PeterValenciaBased of what you more experienced traders have seen, is SPI something you would hold through the day to see where it goes?
+07:44 AM
+SharkEsqSPI spiked to $45 back in September. Very low float.
+07:45 AM
+Kooper59SPI in 9.96 out 11.17 200 sh
+07:45 AM
+Shanky7SPI in at 10.80 out at 11.62 100s
+07:45 AM
+DibberSUNW seems to be lagging SPI , but may still catch its drift
+07:45 AM
+SharkEsqKooper59Nice!
+07:46 AM
+Dibberjust watching
+07:46 AM
+DirkjohnsonAnybody see FSLY tank 30% because of TIKTOK?
+07:46 AM
+Kooper59SharkEsqthx
+07:47 AM
+Dibberspi
+07:47 AM
+Dibber(sorry, didn't mean to type that)
+07:48 AM
+kissumsSPI so strong on 5s
+07:48 AM
+teongokHUSN looking good as well let's see how robinhood gonna do with it
+07:49 AM
+Kooper59i'd love to rebuy SPI but every time i make a win and rebuy i end up losing
+07:49 AM
+SykeimlongKooper59same, you should probably walk away now
+07:50 AM
+gpkendrickKooper59That's how its done :o
+07:51 AM
+gpkendrickSPI I missed that spike - don't want to chase now
+07:52 AM
+thinkethe big pm moves are at lunch time here in CEST ... missing all this ever so slightly
+07:53 AM
+Kooper59the HUSN news is ridiculously good.
+07:53 AM
+INFINITYKooper59(y)
+07:54 AM
+JustinAgentsKooper59Keep an eye at the volume bars. Typically large spikes in volume start a price shift.
+07:54 AM
+NotaRussianSpySPI I seem to have regular streaks of walking just minutes before big moves... makes me feel I need to sit here 8+ hours a day sometimes D : <
+07:55 AM
+Kooper59gpkendricki literally think i couldn't have done it better. it's good to get some of yesterday back.
+07:56 AM
+Kooper59https://apnews.com/press-release/globe-newswire/business-technology-new-york-government-regulations-ownership-changes-17ac19e6002893581cc021388f7b11a4
+07:56 AM
+Kooper59this says FreightHub expects 100% YoY growth in 2020
+07:57 AM
+Sanchez8849Kooper59SPI I would say focus less on your profits or losses but more on recognizing the pattern and sticking too your plan to protect your profits.
+07:59 AM
+kissums$STAF perk
+07:59 AM
+Bertiolo97good morning
+07:59 AM
+gpkendrickKooper59You can ALWAYS do better - we are not perfect. Take the $$ and be happy. I'm down $90 this AM. Timing is way off.
+07:59 AM
+gpkendrickKooper59It's a tough market.
+08:00 AM
+thinkeIvanPthe SPI call was good ...
+08:00 AM
+NotaRussianSpyProfits/Losses should be the last thing a successful trader looks at, when analyzing a trade, both before and after. It is the least significant indicator of a successful trader, contradictory to popular belief.
+08:00 AM
+Beckdansomeone ripped $STAF with 145K shares in that candle about 2 minutes ago.
+08:02 AM
+thinkeBeckdanSPI too
+08:02 AM
+RickyWhite$atif was going till that also
+08:02 AM
+Sanchez8849NotaRussianSpyagreed, I don't even have them up on a screen during my trading day
+08:03 AM
+Cranero_beHUSN as well
+08:03 AM
+BeckdanthinkeSPI was a nice rip about 15 minutes ago. I got locates for it so short later if it gets crazy like last time
+08:04 AM
+gpkendrick$TTNP news is basically - "Look at me!
+08:04 AM
+BeckdanthinkeThe prints at 8:00 are all old prints from the morning that are finally posting. Happens every day around 0800 and 0815
+08:05 AM
+thinkeBeckdanoh ok thanks
+08:06 AM
+IvanPthinkeyeah, I should have bought, damn
+08:06 AM
+pfelix09gpkendrickwhat is the news ??
+08:06 AM
+BeckdanthinkeIt is scary as hell when you see those go through sometimes when you are in a stock though.
+08:06 AM
+SharkEsqWow SPI ripping
+08:07 AM
+Shanky7SPI in at 11.30 out at 12.30 only 50s
+08:07 AM
+Kooper59Shanky7nice
+08:07 AM
+BeckdanSharkEsqPlease let SPI get stupid again today I got 5K borrowed cheap early this morning.
+08:07 AM
+thehighwayALST news https://finance.yahoo.com/news/allstar-health-brands-inc-alst-120000065.html
+08:08 AM
+SharkEsqBeckdanWOw, good move. Are you on IB?
+08:08 AM
+RickyWhite$spi now $sunw making a move
+08:08 AM
+Shanky7SPI on crack
+08:08 AM
+thinkeBeckdanIs SPI also pumped due to algo action?
+08:08 AM
+RickyWhiteso this could be a replay of last month.. $Spi $Sunw $peck $pola
+08:08 AM
+Trade4usBeckdanThink you will get your wish almost 100%
+08:09 AM
+IvanPhm, charts going crazy, jumping 30% up and down, $STAF, SPI, HUSN
+08:10 AM
+kissumsit's the blackpool ticks from 8am
+08:10 AM
+kissumsits annoying
+08:10 AM
+kissumsjust look at the bid/ask/level 2 book
+08:11 AM
+SharkEsqBeckdanI've been testing the waters shorting but haven't gone the next level to locate shares, so I'm limited to what's available on AmT or eTrade at the moment.
+08:11 AM
+lilianasIvanPSPI i've never seen the price action sooooo wonkey
+08:12 AM
+SharkEsqSo, for any shorts out there, how's it work on HTB shares? Do you pick up the phone and call your broker and reserve the shares, or email?
+08:13 AM
+IvanPHUSN bids at 0.8, but the tape shows some up ticks to 0.9, crazy
+08:13 AM
+gpkendrickMDJH trying to cross VWAP
+08:13 AM
+IvanPI think it's settled now
+08:13 AM
+Trade4usNET covered 55.80 from 56.41
+08:14 AM
+Kooper59i did not see that coming SPI
+08:14 AM
+Kooper59i also didn't bite
+08:16 AM
+jamesriverajrHUSN flagging a bit
+08:16 AM
+gpkendrickpfelix09$TTNP https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8433365912849817
+08:16 AM
+SharkEsqSPI in at $12.66 out at $13.10, small position on that little spike.
+08:18 AM
+thinke(thinking loud) SPI will probably gap up more, before 930 it will dump again
+08:19 AM
+IvanP$STAF spiking
+08:20 AM
+JoeySTAF Spiking
+08:20 AM
+ArysDanielnice
+08:20 AM
+BeckdanthinkeSorry for late reply. Just got back from making coffee and taking out trash. SPI isn't an algo yet today, but last time it ran it was an algo for sure.
+08:22 AM
+BeckdanSharkEsqTwo comments on shorting. Don't get stubborn or you will blow up fast and I think it is easier than longing if you control your risk and your emotions (not easy).
+08:24 AM
+SharkEsqBeckdanThx for that. What broker do you use for shorting?
+08:25 AM
+teongokHUSM moving a little
+08:25 AM
+Gerg40517gm
+08:25 AM
+thinkegm
+08:25 AM
+Kooper59gm tim
+08:25 AM
+eastcoastGood morning
+08:25 AM
+kdfiendgm
+08:25 AM
+riverawgm
+08:25 AM
+ArysDanielgn
+08:26 AM
+DPM1201GM
+08:26 AM
+ArysDanielgm
+08:26 AM
+costam911GM
+08:26 AM
+MongooseSup
+08:26 AM
+INFINITY(sun)
+08:26 AM
+JoeyI want to start short selling How hard is it to get shorts to short
+08:26 AM
+Aj1978Gm
+08:26 AM
+dongingersgood morning
+08:26 AM
+lilianasbuon giorno carissimo!
+08:26 AM
+Stroe217gm
+08:26 AM
+lusc1980Good Morning
+08:26 AM
+Mark88GM!
+08:26 AM
+Sin_tradinggmmm
+08:26 AM
+IzriMoses(coffee)
+08:26 AM
+ItsTimeBuenos Dias General Sykes.
+08:26 AM
+teongokgm TIM
+08:26 AM
+SharkEsqFor those watching SPI, it spiked to at around 1:40 on 9/23 and hit over $45, it then spiked from $22 to $30 PM at 9am on the 24th. 9am might be interesting this morning.
+08:27 AM
+SharkEsqGM
+08:27 AM
+BeckdanSharkEsqCenterpoint
+08:27 AM
+costam911wanted an overnight play in HUSN based on the way it closed yesterday, and didnt have the conviction to make the trade. Disappointed in myself, in the learning bank it goes.
+08:27 AM
+SharkEsqBeckdanSO, do you call your broker to reserve HTB shares?
+08:27 AM
+drkpleasure$spi in $12.90 out $13.44 crazy
+08:27 AM
+IvanPHUSN gapping up
+08:29 AM
+TunaTaco282i see your bid on the tape... ha awesome
+08:29 AM
+Sykeimlong$STAF uptrend, hope it breaks hod. solid dip and rip
+08:29 AM
+jamesriverajrHUSN volume picking up
+08:30 AM
+MichaelGoodeUAVS AgEagle Aerial Systems Partners with Valqari to Manufacture Drone Delivery Stations
+08:30 AM
+kissumsdon't you hate it when your sell limit order is 1c off..
+08:31 AM
+MongooseTENX News out
+08:31 AM
+RickyWhite$uavs news
+08:31 AM
+BeckdanSharkEsqThis shows a screen just now on Centerpoint short locates. https://profit.ly/user/Beckdan/blog/short-locates-on-centerpoint
+08:32 AM
+ChevonMichaelGoode...here we go
+08:34 AM
+SharkEsqBeckdanThanks for your help!! I appreciate it
+08:34 AM
+TunaTaco282damn, @SPI again
+08:34 AM
+TunaTaco282SPI
+08:34 AM
+BeckdanSharkEsqNo problem
+08:34 AM
+ajb997Can anyone offer advice with configuring IBKR account to allow pink sheet and to also allow pre-market trades?
+08:36 AM
+jamesriverajrHUSN looking strong
+08:36 AM
+thinkeajb997click on the ordertype ("DAY") then check Fill outside RTH
+08:37 AM
+WantMore22Good morning Tim!
+08:38 AM
+MichaelGoode9%+ pre gainers: $STAF SPI $PEI HUSN $HBP ARMP MDJH EIGR $JOB $AVXL ORGO CARS USWS AREC TENX $AWX UAVS $VOLT
+08:39 AM
+ajb997thinkeawesome thanks
+08:42 AM
+IvanPajb997And I also recommend to set this as default. I missed so many trades pre-market because of this checkbox ...
+08:45 AM
+RsbrunerHUSN
+08:46 AM
+Sykeimlongthere it is $STAF
+08:46 AM
+TimLentostaf cured covid?
+08:47 AM
+costam911"Benzinga Pro top 4 stonks to watch "CLOU , ZM , PECK , PGEN "
+08:47 AM
+jamesriverajrHUSN about to break premarket high
+08:47 AM
+MichaelGoode$STAF +115% $1.69 $16m mkt cap -- I see no news or filings
+08:48 AM
+TimLentono news? buy buy buy!
+08:48 AM
+MichaelGoodeSPI +81% $13.07 $215m mkt cap https://finance.yahoo.com/news/spi-energy-advances-edisonfuture-electric-083000355.html SPI Energy Advances EdisonFuture Electric Vehicle Subsidiary Through Strategic Agreement With Shaanxi Tongjia Automobile Co., Ltd.
+08:50 AM
+MrDimTimLentoOMG perfect reason, I'm putting all my savings there right away !
+08:50 AM
+MichaelGoode$PEI +29% $0.751 $62m mkt cap https://finance.yahoo.com/news/preit-reaches-agreement-approximately-80-210500457.html PREIT Reaches Agreement with Approximately 80% of its Lenders to Recapitalize Business
+08:52 AM
+costam911why does that sound like bad news to me $PEI
+08:52 AM
+Sykeimlong$STAF breaks hod *Unpopular opinion*
+08:53 AM
+MrDimDo I smell halts
+08:53 AM
+MichaelGoodeHUSN +38% $0.8937 $28m mkt cap https://finance.yahoo.com/news/hudson-capital-inc-enters-definitive-110000722.html Hudson Capital Inc. Enters into Definitive Merger Agreement with FreightHub, Inc., a North American Digital Transportation Logistics Platform Company with a Focus on US-Mexico Cross-Border Shipping -- reverse merger
+08:55 AM
+NotaRussianSpySykeimlongAccording to TD charts, HOD is @ 4 A.M., $2.05 highs.
+08:55 AM
+gpkendrickUAVS climbing nicely
+08:55 AM
+MichaelGoode$HBP +29% $3.12 $86m mkt cap -- updated form SC-13D/A from group that is trying to buy them out https://www.sec.gov/Archives/edgar/data/1093082/000119312520269387/d33272dsc13da.htm
+08:55 AM
+SykeimlongNotaRussianSpyyup
+08:55 AM
+SykeimlongNotaRussianSpyu should jump in
+08:55 AM
+ChevonSykeimlongOr tests it and double tops at the very least. It IS 2020
+08:58 AM
+PraveencnChevon$STAF The snap back has been brutal since many know that this is up on nothing. I would watch out for that.
+08:59 AM
+ChevonPraveencnoh no doubt, I dont touch anything in pre-market (at this point in my career) and I wait for certain confirmations right after the open.
+08:59 AM
+Sloth269$STAF may be based on todays jobless numbers?
+09:00 AM
+jamesriverajrIDEX https://www.zacks.com/research/get_news.php?id=72ghwudvql Ideanomics Announces MEG September and Q3 Sales Activity
+09:00 AM
+jamesriverajrCould run
+09:00 AM
+lusc1980in HUSN @0.80, out @0.89, 10%+ premarket... it could run more
+09:00 AM
+lusc1980but better not to get greedy
+09:01 AM
+Brian24costam911"let's shuffle this debt around in hopes we can consolidate the notes so maybe we can cash flow" lol
+09:01 AM
+thetraderwindsDOCRF news https://www.globenewswire.com/news-release/2020/10/15/2109087/0/en/CloudMD-Closes-Acquisition-of-Snapclarity-Inc-Creating-One-Centralized-Assessment-Oriented-Platform-That-Provides-Access-to-Primary-Care-and-Mental-Health.html
+09:01 AM
+MichaelGoodeSPAQ Fisker Announces Strategic Cooperation With Magna
+09:01 AM
+costam911Brian24right?
+09:02 AM
+MichaelGoodeARMP +17% $3.68 $70m mkt cap https://finance.yahoo.com/news/armata-pharmaceuticals-announces-clearance-investigational-113000039.html Armata Pharmaceuticals Announces Clearance of Investigational New Drug (IND) Application to Initiate Phase 1b/2a Clinical Trial of Lead Candidate AP-PA02 in Pseudomonas aeruginosa Infections
+09:02 AM
+TimLentoMarket opens in less than 30 minutes. Please abide by chat rules from now until 4:00 PM EST. Violators are being muted in private. http://bit.ly/NewChatRules
+09:02 AM
+jamesriverajrSPAQ was on my watchlist too, ugh
+09:02 AM
+ajb997IvanPmanaged to change it, thanks buddy!
+09:03 AM
+MichaelGoodeMDJH +20% $5.64 $63m mkt cap https://finance.yahoo.com/news/mdjm-ltd-signs-sales-agent-103000281.html MDJM LTD Signs Sales Agent Contract for a 333,000 ft2 Residential Project with Leading Real Estate Developer in Tianjin
+09:04 AM
+NotaRussianSpyMe, sitting here, begging SPI to come down so I don't miss yet another huge run on it (Saw SPI @ 1.50 in Sept. and thought it was over extended, being up 50%.... lol how wrong I was)
+09:04 AM
+Beckdanchatroom is watching SPI right now.
+09:04 AM
+MichaelGoodeORGO +19% $4.53 $470m mkt cap https://finance.yahoo.com/news/organogenesis-holdings-inc-reports-preliminary-203000825.html Organogenesis Holdings Inc. Reports Preliminary Financial Results for Third Quarter 2020
+09:05 AM
+Trade4us$STAF quick 1.87 1.97
+09:05 AM
+_JJTHEBARBER$STAF moving
+09:05 AM
+TunaTaco282SPAQ pr
+09:05 AM
+TunaTaco282finally!!
+09:05 AM
+GrandMaestroBeckdanwhich chatroom?
+09:05 AM
+Beckdanchatroom in SPI
+09:06 AM
+costam911SPI breaks 14.30 im long
+09:06 AM
+costam911if**
+09:07 AM
+Lpena1214$STAF hod break lol
+09:08 AM
+ChevonSykeimlongI am not itching to trade $STAF but the HOD break makes for intresting study
+09:08 AM
+Pennywizer$VOXX, I don’t understand why Tim likes this and actually bought more. Before I buy I need to know “why”, otherwise Ill just be a FOLLOWER and not a student. 🤦‍♂️
+09:08 AM
+C_ShellOf course the one with no news or filings easily breaks hod
+09:08 AM
+JonnytraderSykeimlongI agree!
+09:08 AM
+Praveencn$STAF got caught in the first drop down to 1.40, cut losses, got back in at 1.61 sold along the way broke even, now holding a small portion that's left. phew.
+09:08 AM
+PanicatthediscoPennywizeryou a challenge student?
+09:08 AM
+AshTrades$STAF in @ 1.77 out @ 2. Not bad for pre-market
+09:09 AM
+CrabbyEaglePennywizerEarnings $VOXX
+09:09 AM
+TonyiorioWhat up with $VOXX ??????
+09:10 AM
+BeckdanShort some Got short SPI with avg 13.77 covered some 13.53
+09:10 AM
+MichaelGoodePTON SUED BY NORDICTRACK MAKER OVER LATEST BIKE TECHNOLOGY
+09:10 AM
+ChiitownSUNW is the sympathy play for SPI today
+09:11 AM
+BeckdanAll covered 13.18 SPI. Damn covered too soon.
+09:11 AM
+DibberBeckdanNice read!
+09:11 AM
+thinkeMichaelGoode$STAF pumping up that thing like crazy
+09:11 AM
+GilbertRegalado$STAf in my opinion will become nothing more than a short squeeze. No real run up like today's since ages so a lot of shorters will try to obviously short it. If im not mistaken short squeeze plays is whats hot right now
+09:11 AM
+Beckdanchatroom left SPI and went to $STAF. No shares to short $STAF :-(
+09:11 AM
+tommy888gbecarfull with $STAF posibble MDLY scenario
+09:11 AM
+taiwanPennywizer$VOXX was an earnings winner yesterday, "Revenue was up 41.9%, led by a 50.7% jump in the consumer electronics segment.", closed strong, hence Tim buy, though it's a higher priced stock
+09:12 AM
+SykeimlongChevonSPI dip and rip
+09:13 AM
+rxdocPennywizerTim bought yesterday, sold some a/h...remaining position - hoping for a bounce
+09:13 AM
+ItsTime$STAF taking my 43% gains am am out!
+09:14 AM
+AshTrades$JOB
+09:14 AM
+PennywizerTHANK YOU ALL, its rare for Tim to buy a higher priced stock, surprised. But all that makes sense noe.
+09:14 AM
+ChevonSykeimlongbro, get out of my head. I JUST wrote "9:45 watch" in my notebook. Yeah dip & rip. Again, I need to slow down on my trades a weee bit.
+09:15 AM
+ChevonSykeimlongall the best, it seems like a great dip & rip idea especially if it holds $2
+09:15 AM
+SykeimlongChevonlmaooo feel me
+09:16 AM
+BeckdanCovered way too soon on SPI. ouch.
+09:18 AM
+tekkentagalogMichaelGoode I cannot find link to PTON sued
+09:18 AM
+Beckdan$NIO, SPI, $JOB, KXIN are my top short watches for the day so far.
+09:19 AM
+ChevonSykeimlongI'm saving my mental energy and focus for Earnings Winners since earnings season is pretty close. But yeah $STAF could be really good, I may take a small position
+09:20 AM
+BeckdanI may look to buy a panic on FSLY on the open. It would be a fast trade only into a panic off the bad news yesterday.
+09:20 AM
+costam911WOW BECK LONG!
+09:20 AM
+costam911SORRY DIDNT MEAN CAPS
+09:20 AM
+TimLentocostam911chill.
+09:21 AM
+SCMitchhaha
+09:21 AM
+LRBTraderToo early for caps brother.
+09:21 AM
+kdfiendlol
+09:21 AM
+BosscabarIs he being to loud
+09:21 AM
+reverselongguys excited
+09:21 AM
+BosscabarLento didn’t turn down his hearing aid
+09:21 AM
+Aj1978Call 911 lol
+09:21 AM
+costam911what i do
+09:21 AM
+costam911lol
+09:22 AM
+AidenTimLento:D
+09:22 AM
+ItsTimelol
+09:22 AM
+scaredcynicalhaha
+09:22 AM
+charveyWhat do you all think about $MGI?
+09:24 AM
+TimLentoWhen to Dip Buy Morning Panics https://profit.ly/500Mw7
+09:24 AM
+SpaceTraderSPI and $STAF are my top watches for dip and rips and late day short squeezes
+09:24 AM
+costam911FWIW im becks biggest fan
+09:24 AM
+JetLevant$HALB small gap up. honestly wouldn't be surprised if it ran again.
+09:24 AM
+KennethLeeSpaceTraderSame for me
+09:25 AM
+MichaelGoode5 minutes until market open
+09:25 AM
+costam911HUSN on watch for a tech breakout over PM high
+09:25 AM
+doby1765$STAF big buyers at 2
+09:25 AM
+libzentSPI and $STAF, only watching it
+09:26 AM
+louiedecaro31MDJH breaking out big volume spike
+09:27 AM
+jdukeGood Morning(sun)
+09:27 AM
+Chadb9Pree market is down alot and a good chuck of stocks. Anyone know why
+09:27 AM
+Zlatan_187Morning.
+09:27 AM
+ajb997Chadb9election
+09:27 AM
+MichaelGoode2 minutes until market open
+09:27 AM
+SykeimlongChadb9I think it has something to do with hunter biden smokoing crack
+09:28 AM
+Beckdanchatroom got smoked trying to buy SPI at 12.50.
+09:28 AM
+TimLentoWelcome to ! Everything that is not an actionable stock alert or a brief discussion of a current or potential stock trade is off-topic during the trading day. Discussions may take place in the off topic room. Violators are being muted in private. See the rules and abbreviations here > http://bit.ly/NewChatRules
+09:28 AM
+costam911im following the volume, $STAF and HUSN on potential panics/tech breakouts
+09:28 AM
+thehighwaygood luck today all
+09:28 AM
+LRBTraderTrade smart ladies and gents.
+09:29 AM
+JetLevant$HALB watching for panic
+09:29 AM
+PennywizerChadb9Lack of stimulus deal.
+09:29 AM
+JetLevantgap up weak
+09:29 AM
+JetLevant$NWBO gap up 13%
+09:29 AM
+gooneMichaelGoodeis it too early to short INNO
+09:29 AM
+Jaykian720MDJH holding up pre-mkt, same sector has MDRR yesterday, 1.5m float, long-term breakout near at $6.15
+09:30 AM
+MichaelGoodeDIN GDINGChat Log for 10/16/2020
+12:48 AM
+AsimtradingI trade from my cell phone.. and only like to trade on Webull as I can see the charts forming
+12:49 AM
+AsimtradingCan’t trade otc... td and errands have
+12:49 AM
+AsimtradingTd and etrade hve poor charts
+04:05 AM
+VsKullarETTX
+04:23 AM
+IvanP$GPOR going
+04:26 AM
+thinkeGM, Volume too low for me
+04:26 AM
+tycoon448thinkeWho the you
+04:29 AM
+junpasionGood morning!
+04:42 AM
+andyin250gm
+04:46 AM
+Maerskhope "cosmicconucopia" got out of his LYL long......posted the short 2.31......now 1.78....
+04:50 AM
+IvanP$F earnings news, 25% increase of sales in China
+04:50 AM
+IvanPno price action, though
+04:51 AM
+IvanPhttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=7467994023680163
+05:22 AM
+cricket2020let see if this is another Friday run for VVPR
+05:43 AM
+tycoon448cricket2020let's see
+05:50 AM
+JoeyDGM!
+05:50 AM
+dino0301Morning
+06:02 AM
+drkpleasureGM (sun)
+06:02 AM
+acaimonsterVVPR announced $25m offering at 8.5$ per share yesterday, wouldn't expect a run anytime soon unless they have some news.
+06:06 AM
+jseerogood news on MTC
+06:07 AM
+IvanPtraders took a day off, obviously
+06:11 AM
+XtraderJwho can trade this early i can only start at 7 with fidelity
+06:12 AM
+IvanPmany brokers, IB to name one
+06:13 AM
+XtraderJbeen watching $BA gap up all morning could have made my week lol thanks ill look into them
+06:29 AM
+Vttrade4lifegood morning
+06:29 AM
+Vttrade4lifeanyone watching $AMRN
+06:29 AM
+Vttrade4lifeNo movement yet. But good news at4:30 yesterday
+06:29 AM
+thinkeASLN is moving
+06:30 AM
+Vttrade4lifespike after hours. Holding
+06:31 AM
+XtraderJVttrade4lifenice gap to fill @$6.65
+06:32 AM
+IvanP$DPW news and spiking
+06:32 AM
+Vttrade4lifehttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=8476410730824273
+06:33 AM
+Vttrade4lifehttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=6415573292835132
+06:34 AM
+Vttrade4lifeIvanPBeen there before, can do it again
+06:34 AM
+Vttrade4lifebut agreed
+06:35 AM
+tommy888g$DPW lmao i cant belive it :D
+06:36 AM
+XtraderJwatching $DPW
+06:40 AM
+tommy888g$DPW whyin PR is nothing it can charge NKLA too (rofl)
+06:40 AM
+Maersktommy888gye news is a m a z i n g-a battery charger...! w t f
+06:42 AM
+tommy888gMaerskgoode PR ( amazon / Tesla ) .... but is $DPW
+06:44 AM
+IvanP$DPW trying again
+06:47 AM
+MaerskASLN "plans to develop"..................geez
+06:49 AM
+tommy888gany news in RWLK?
+06:50 AM
+glekarkynGood Morning
+06:51 AM
+INFINITYASLN has traded half-million shares already this morning, and pre-market isn't open yet. How is this possible?
+06:52 AM
+INFINITYAnyone know?
+06:52 AM
+MaerskINFINITYsome brokers let you trade from as early as 4am ........
+06:52 AM
+acaimonster$PFE BNTX announced they might apply for vaccine approval in Nov, that should rise the markets a bit.
+06:52 AM
+INFINITYMaerskIt isn't 4:00am yet.
+06:53 AM
+IvanPpre-market is open since 4am, RWLK already traded 1.33M shares
+06:53 AM
+INFINITYMaerskYou mean eastern?
+06:53 AM
+louiedecaro31INFINITYASLN looking good
+06:53 AM
+MaerskINFINITYcorrect
+06:53 AM
+INFINITYMaerskAnd what broker, I'm curious as hell.
+06:54 AM
+AleksanderJI can trade from 4AM EST with IB
+06:54 AM
+louiedecaro31IB is the main pre market broker
+06:54 AM
+INFINITYAleksanderJWow, always wondered how this PRE Pre-market was trading so early.
+06:55 AM
+INFINITYE-trade makes me wait until 7am.
+06:55 AM
+IvanPsame question every morning and it's so easy to google it... try "brokers trading pre-market", for example this site: https://comparebrokers.co/compare/after-hours-trading/
+06:55 AM
+thinkeASLN double top kicked me out ... never sell at support ... lesson learnt
+06:55 AM
+INFINITYIvanPWrong. I did google it. Pre-market starts at 7am eastern.
+06:55 AM
+INFINITYIvanPThis is before 'pre-market'
+06:56 AM
+DTS86lol, well i start at 4am eastern with the rest of em
+06:57 AM
+INFINITYIvanPAt least by what I've seen. Do you like IB?
+06:58 AM
+IvanPhave you tried investopedia? https://www.investopedia.com/terms/p/premarket.asp "Several direct-access brokers allow access to pre-market trading to commence as early at 4:00 a.m. EST from Monday through Friday."
+06:58 AM
+INFINITYIvanPI wonder if etrade will allow if requested.
+06:59 AM
+IvanPI like IB in a way ... a can imagine a better way of placing orders. For last couple of days I screw up couple of orders because of this GUI. Still trying to find a faster and more reliable way to place orders
+06:59 AM
+RickyWhiteEtrade starts at 7am.. Only broker I know that starts before is WeBull starts at 4am
+06:59 AM
+louiedecaro31thinkeDoes double top mean as much pre market when the volume hasn't reached full potential? just curious on peoples thoughts with that?
+06:59 AM
+IvanPYes, I think Etrade does not allow 4am trading ..., but there are more brokers than IB that allow it
+07:01 AM
+C_ShellGood Morning people
+07:01 AM
+INFINITYIvanPMy current settings allow 7am. I will have to call them. I'm up early anyway, and so much activity in the pre-market these days. Used to be, PR's come out at 9ish, now pre-market is the new playing feild.
+07:02 AM
+IvanP$SGBX solar news
+07:02 AM
+IvanPhttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=6989337716947846
+07:02 AM
+thinkelouiedecaro31Kind of, but it does mean that it touched resistance and then pulling back a little, afterward it tries to break it again but also fails to b/o
+07:03 AM
+thinkechat room on ASLN
+07:04 AM
+louiedecaro31But as you just saw as soon as 7 am got here it crushed resistance
+07:04 AM
+louiedecaro31$SGBX news
+07:05 AM
+mqhizarhey guys im really having trouble with interactive brokers yesterday i was trying to trade but it kept on showing "you dont have trading permissions" but i had it on always im from india so i cannot use a e trade account , do you know a better broker or a fix to this problem?
+07:06 AM
+thinkelouiedecaro31true, could be that not everyone could be it yet ... still learning ... good point
+07:08 AM
+INFINITYASLN Aslan Pharma to develop ASLAN003 for autoimmune diseases Oct. 16, 2020 at 5:34 a.m. ET on Seeking Alpha ---> https://seekingalpha.com/news/3622752-aslan-pharma-to-develop-aslan003-for-autoimmune-diseases?mod=mw_quote_news
+07:08 AM
+INFINITY$SGBX Blink and SG Blocks Enter Into Strategic Master Development and Production Agreement to Bring Solar, Off-grid, Modular EV Charging Solutions to Market ---> https://www.marketwatch.com/press-release/blink-and-sg-blocks-enter-into-strategic-master-development-and-production-agreement-to-bring-solar-off-grid-modular-ev-charging-solutions-to-market-2020-10-16?mod=mw_quote_news_seemore
+07:09 AM
+Kooper59hi everyobe
+07:09 AM
+Kooper59everyone even
+07:10 AM
+IvanPSMLP spiked and cracked. ASLN and $SGBX strong
+07:10 AM
+INFINITY$HTZ Hertz Global enters into a commitment letter for debtor-in-possession financing ---> https://seekingalpha.com/news/3622791-hertz-global-enters-commitment-letter-for-debtor-in-possession-financing?mod=mw_quote_news
+07:11 AM
+jamesriverajr$HTZ I was staring at it at 1.05 (headbang)
+07:13 AM
+Chalet2021SGBX still climbing
+07:17 AM
+louiedecaro31$SGBX hot sector news low floatr
+07:18 AM
+INFINITYASLN might bounce here...
+07:20 AM
+IvanPlosing volume, could as well go down to 3.0
+07:22 AM
+Gerg40517GM all
+07:22 AM
+kobyoshiBLNK moving a bit, also named in the news with $SGBX
+07:22 AM
+INFINITY$SGBX bouncing
+07:22 AM
+louiedecaro31here goes SGBX
+07:22 AM
+INFINITYlouiedecaro31(y)
+07:23 AM
+IvanPyes, $SGBX still not losing volume and bouncing a little
+07:24 AM
+louiedecaro31and its gone
+07:24 AM
+IvanPlet's see if it can bounce from 3.5
+07:25 AM
+Gringoguapo8) Buen dia from Central America
+07:27 AM
+ArysDanielbuenos dias
+07:27 AM
+riverawgm
+07:27 AM
+NotaRussianSpyNNDM nice little gap up, with 5.40 highs ($1/share)
+07:28 AM
+STOCK_HUSTLEIn $HTZ @1.35
+07:28 AM
+riverawbuenos dias
+07:31 AM
+Agraz23HUGE offering at 2.20
+07:32 AM
+ArysDanielSTOCK_HUSTLEnice entry
+07:32 AM
+INFINITYSTOCK_HUSTLENice entry, see ya caught the bottom of that consolidation there :) Good luck!
+07:33 AM
+tycoon448quick 250$ profit on $HTX in at 1.37 out at 1.49
+07:33 AM
+Kooper59tycoon448nice
+07:34 AM
+INFINITYtycoon448(y)
+07:35 AM
+Winfordanyone watching SMLP
+07:36 AM
+tycoon448$HTZ wants more
+07:37 AM
+tycoon448Do you guys participate in IPO's?
+07:37 AM
+INFINITYWinfordYep, looks to be bottoming out a bit.
+07:37 AM
+STOCK_HUSTLEINFINITYwill most likely be a long day, Last time I traded them I made 15k
+07:38 AM
+NotaRussianSpyNO. I never touch IPO's anymore. No history = no reference
+07:38 AM
+Shanky7$HTZ in at 1.38 out at 1.53 200s
+07:38 AM
+jamesriverajrI'm super salty about $HTZ, saw it before any price movement at 1.05 and hesitated, now don't want to chase
+07:38 AM
+STOCK_HUSTLEShanky7congrats, nice quick trade
+07:38 AM
+Shanky7$SGBX in in at 3.57 out at 3.64 200s did not feel right
+07:38 AM
+Shanky7STOCK_HUSTLEthank you :)
+07:39 AM
+NotaRussianSpyjamesriverajrHow do you think I feel, when I saw SPI in sept @ 1.50 premarket, before it went 49.00
+07:39 AM
+Beckdanshort 1.50 $HTZ
+07:39 AM
+tycoon448$SGBX bottoming. Good buy I think
+07:39 AM
+INFINITYShanky7(y)
+07:39 AM
+Kooper59i made $200 on SPI yesterday premarket then dicked around chasing it and ended up -800 on the day. go me.
+07:40 AM
+Kooper59if i ever make $200 again i'm shutting my shit off and walking away
+07:40 AM
+BeckdanWill add some more if it can get back to 1.55. $HTZ
+07:41 AM
+lusc1980Kooper59did the same... fully agree with you for next time
+07:41 AM
+tycoon448Beckdanwow! how did you know
+07:41 AM
+Beckdantycoon448Reading the level 2 and time and sales.
+07:42 AM
+AleksanderJI'm actually really happy with my losses. I keep doing the same mistakes over and over, so at least I know what I must improve on
+07:42 AM
+Dirkjohnson$HTZ got 1.7B in financing it may pull a KODAK move because they had less than half when their stick went berserk
+07:42 AM
+Beckdantycoon448Tons of selling in the mid 1.50s on $HTZ
+07:42 AM
+kobrakaiwasnt $HTZ in bankruptcy or did i get that one confused
+07:42 AM
+NotaRussianSpyjamesriverajrNNDM holding well on gap up
+07:43 AM
+DirkjohnsonkobrakaiYes back in May
+07:43 AM
+NotaRussianSpyVVPR gap up
+07:45 AM
+Kooper59BeckdanSMLP curling up. great news and history of spiking
+07:45 AM
+Beckdantycoon448I would actually love to see $HTZ get all the way up to the 1.90s. I would short with a much bigger position up there.
+07:47 AM
+tycoon448Beckdanwhat can you say about $SGBX
+07:48 AM
+Beckdantycoon448It might try to rip shorts faces off and it is expensive to borrow. Holding VWAP for now.
+07:48 AM
+tycoon448Does anybody participate in IPO's?
+07:48 AM
+RadiumGm
+07:49 AM
+Beckdantycoon448I probably won't trade it today unless it really traps shorts and becomes an obvious long for me. $SGBX
+07:49 AM
+DirkjohnsonI think once the promoters get a hold of $HTZ its gonna FLY
+07:50 AM
+Chalet2021Yup, agreed, think $HTZ is gonna fly
+07:50 AM
+BeckdanDirkjohnsonIT's got to get above 1.60, 1.70, and 1.90s to do much. Tons of overhead resistance on $HTZ
+07:52 AM
+Shanky7$SGBX in at 3.88 out at 4.07 80s only .
+07:52 AM
+tycoon448Over time I understood best long is buying consolidation not dips
+07:52 AM
+tommy888g$SGBX 3 weeks ago had PR about covid test center and today about EV / BLNK charging solution ... this guys can do everythink
+07:53 AM
+INFINITYtommy888gWonder if they bake bread?
+07:54 AM
+tycoon448was staring at $SGBX at 3.6 didn't pull the trigger
+07:54 AM
+tommy888gINFINITYthey will if one day its gone hype stonk
+07:54 AM
+INFINITYtommy888g(giggle)
+07:55 AM
+BeckdanCovered $HTZ for now at 1.44. Got to get ready for the morning. That was a nice reject below the highs that time.
+07:55 AM
+luismill713it says $SGBX is in the industrial sector and the industry is metal fabrication.. lol
+07:55 AM
+tycoon448$HTZ too big of float and market cap is over 200M
+07:55 AM
+IvanPI was bagholding $SGBX for months, bought it in may for 6.08 when it spiked, but then it droped to mid 2s, dip bought couple of time and only sold with small profit in September for 3.28 when it spiked again. So, be careful :)
+07:56 AM
+IvanP(one of my very first trades, very stupid ones...)
+07:56 AM
+tycoon448$SGBX is today's runner baby
+07:57 AM
+Ah25Sgbx parabolic
+07:58 AM
+Aj1978, rw
+07:58 AM
+IvanP$SGBX: "7:24AMIvanP:let's see if it can bounce from 3.5" ... and it has. Ano now in mid 4s. Now, why didn't I buy it? Damn ... :)
+07:59 AM
+kobyoshiIvanP$SGBX I told myself I would buy if dipped to $3.5 and then didnt cause it stayed there too long.
+08:00 AM
+Chalet2021kobyoshiI made the very same mistake!
+08:00 AM
+tycoon448$HTZ won't give up
+08:00 AM
+OCNYDayTradingKooper59had a speculative buy order for SMLP @ $0.85. Initially was going to pick up @ $0.9, but looked like it was going to go back down to the minute scale 200 sma. Looks like I should have kept that initial order
+08:01 AM
+tommy888gI think $DPW CEO its looking $SGBX stonk .... WTF .... my PR was better end I did it many times
+08:01 AM
+davelevETFM low priced penny stocks confirms m&a on Monday https://twitter.com/FOMO_CORP/status/1317070801665929217?s=19
+08:03 AM
+Beckdanshort again $HTZ 1.54
+08:04 AM
+IvanP8am misprints, here we go again
+08:05 AM
+Shanky7$SGBX whats gogin on is that a sell off
+08:06 AM
+jamesriverajrMDGS https://finance.yahoo.com/news/medigus-acquire-control-automated-online-120000443.html
+08:06 AM
+tommy888gBeckdanman $HTZ is former supernova ... bankruptcy is hot2020
+08:06 AM
+tommy888g:D
+08:07 AM
+IvanPnot a good time to short $HTZ now ...
+08:07 AM
+MaerskDKNG......
+08:07 AM
+tycoon448$HTZ baby
+08:07 AM
+jamesriverajrI'm still butt hurt I was look at $HTZ at 1.05 for a few mins
+08:07 AM
+costam911good news for $HTZ this morning
+08:08 AM
+PatrickRobertsonits too choppy at the moment $HTZ
+08:08 AM
+IvanPoh, these stacked orders at 8am, I have to utilize it next time ... $SGBX trading for 4 now, but couple of sells for 3.5 went through, lol
+08:09 AM
+Syeda1821Good morning to everybody
+08:09 AM
+BeckdanCovered $HTZ 1.59 that time around lost about 200, but made 400 the first trade.
+08:09 AM
+IvanPTbone18I think they were stacked ... like GTC orders from previous days etc.
+08:11 AM
+bLIKEotterIvanPSo why choose then to sell?
+08:12 AM
+tommy888gBeckdanI seen article $HTZ is one of most shorted stocks in marked...
+08:12 AM
+IvanPthey set the order yesterday, or a week ago etc., but their broker only trades from 8am
+08:12 AM
+IvanPthat's just my theory
+08:12 AM
+bLIKEotterinteresting
+08:15 AM
+luismill713$HTZ float is 155.64 mill.. and has traded about 19 mill so far...
+08:15 AM
+jamesriverajrBeckdanRight now at that 1.70's resistance
+08:17 AM
+kobrakai$NWBO gap up
+08:17 AM
+KennethLeeBuying who ever dip first between $SGBX, DPW, HTZ, SMLP. All seen to have pretty good news
+08:18 AM
+NotaRussianSpy$HTZ in @ 1.66 out @ 1.86 - looking to re enter on strong dips
+08:18 AM
+kobrakaiMDRR heavy ask
+08:20 AM
+jamesriverajr$HTZ possible shorts all covering
+08:21 AM
+Jputnam13Good morning, everyone.
+08:22 AM
+Dirkjohnson$HTZ in at 1.51 out at 1.78 2k shares nice way to start my friday
+08:23 AM
+tycoon448$SGBX basing but no volume
+08:23 AM
+NotaRussianSpyWKHS in 22.35 and out @ 22.65 overnight, not gapping up like how I would like, still expecting a retrace of 28 resistance, just not holding for a possible drop at market open
+08:24 AM
+jamesriverajrBTZI https://twitter.com/HarringtonKevin/status/1317078718519627776
+08:24 AM
+jamesriverajrKevin Harrington tweet
+08:24 AM
+STOCK_HUSTLE$HTZ this should be crazy at 0900 with RH they love this stock
+08:25 AM
+Maverick_clSTOCK_HUSTLEindeed RH it is mentioned here in the news: https://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=4642522886185613
+08:27 AM
+TripleTenacity$HTZ New PM high
+08:30 AM
+DirkjohnsonSTOCK_HUSTLEAgreed once the promoters get a hold of it I thinknit will pull a KODAK MOMENT😊
+08:31 AM
+Beckdantommy888g$HTZ definitely heavily shorted, but for good reason.
+08:31 AM
+DirkjohnsonI'm just hoping for dip before then
+08:31 AM
+BeckdanI hit $HTZ one more time at 1.96
+08:32 AM
+IvanPSTOCK_HUSTLEyou're saying, there's probably a lot of bagholders from RH which will probably sell at open, so it will drop badly? :)
+08:32 AM
+IvanPand then it can bounce ...
+08:32 AM
+KennethLeeI hope the pull back on $HTZ comes right at open. The dip and rip will be awesome
+08:33 AM
+STOCK_HUSTLEIvanPNo robin people love to buy this so I expect a huge surge with this news
+08:33 AM
+BeckdanI had one other trade on $HTZ a little bit ago that cost me again. Down 600 on it for the day, but I think this one is going to be a huge short at some point today. My loser a little while ago was accidently wrong size. Got in a hurry and put in 10K shares instead of 1000 that I meant to start with. Oh well.
+08:33 AM
+Kooper59how many charts do you guys watch at once?
+08:34 AM
+kobrakaiim short MDRR 2.77
+08:34 AM
+tommy888gBeckdani know but 2020 value investor is dead
+08:34 AM
+Kooper59Beckdanouch. i did that on MDRR the other day. meant to sell 1000 and bought instead. cost me a few hundo.
+08:35 AM
+STOCK_HUSTLEBeckdanI do agree their will be an opportunity for this to be short but the upside shall be great
+08:35 AM
+TganrudeGood mornin!
+08:35 AM
+Kooper59value investing dead? tell that to PAYC or NVCR or $NVDA
+08:35 AM
+BeckdanKooper59I have 10 charts up on a 55" tv with a minute chart, a daily chart, order window/level 2, and times and sales for all 10 tickers. I try to never trade more than 2 or 3 at the most if they are moving much.
+08:36 AM
+IvanPor tesla, I'm 350% up since Jan
+08:36 AM
+RickyWhiteBeckdanthe good ole fat finger mistake.. I had a few.. my worst was I wanted 2 Tesla options contracts.. I got 20 & when I thought I was down $150 I was like I'm gonna cut and sell. I looked still had 18 left and was down $1500.. not fun..lol
+08:36 AM
+Kooper59Beckdanyou have that all on one screen?
+08:37 AM
+Kooper59i'd like to see that layout if you get a chance to post it
+08:37 AM
+Chalet2021$HTZ over $2
+08:37 AM
+cmorga04cant decide if i want to get in on $HTZ PM or wait for open to see if there will be a dip/rip
+08:38 AM
+IvanPI see even experienced trades (after several years) sill make these mistakes. I did one buy order yesterday instead of sell, bought ASK instead of BID and one buy order ... I even don't remember submitting it. A couple of losses because of these mistakes. lol I blame the GUI :)
+08:39 AM
+BeckdanKooper59Click on the picture in this post and you can see my set-up better. https://profit.ly/user/Beckdan/blog/trading-set-up
+08:39 AM
+bLIKEotterIvanPYEAH Im pretty new so something like that happened to me yesterday. I'm thinking its rookie mistakes. Guess not
+08:39 AM
+Vishd$HTZ 1.6billion finance package
+08:39 AM
+Kooper59Beckdanthx
+08:39 AM
+IvanPlol, nice
+08:39 AM
+IvanPthe setup
+08:40 AM
+kobrakai$NWBO looks to me that its ramping up for another breakout
+08:40 AM
+BeckdanI am just wrong as hell so far on $HTZ. Congrats to you guys that are smarter than me today.
+08:40 AM
+kobrakaibid and ask is 1.53 x 1.54 already
+08:40 AM
+STOCK_HUSTLEBeckdanNice setup
+08:40 AM
+jamesriverajrI would've been well over 100% on $HTZ had I not been a little bitch FML
+08:41 AM
+cmorga04lol
+08:41 AM
+Jputnam13Everything I thought I knew...I know nothing regarding HTZ
+08:42 AM
+cmorga04when it goes to %500 go pour yourself a drink
+08:43 AM
+KennethLeejamesriverajrI been watching it since 6a.m and still didn't get in but I know that drop is coming so just wait for it
+08:43 AM
+jamesriverajrcmorga04I'm trying to find a way to have someone sneak me a little whiskey at work as we speak
+08:44 AM
+DNeshJanThanks to the group! covered $HTZ at $1.69.. looking good so far
+08:44 AM
+PatrickRobertsondang sold way too soon $HTZ 1.92 out 2.03
+08:44 AM
+jamesriverajrKennethLeeI may just add to my SPAQ position to really drown in my whiskey tears
+08:45 AM
+PatrickRobertsonnot good when it consolidates freaks me out
+08:47 AM
+MrDimBeckdanLol, u have the same Logitech speakers as I do :)
+08:47 AM
+JRodAR83$HTZ 7mill vollume in 1min!
+08:47 AM
+cmorga04jamesriverajri could have got in at $1.50 myself, kicking myself
+08:47 AM
+cmorga04but as soon as i pull the trigger it will drop like a bomb lol
+08:48 AM
+jamesriverajrcmorga04I'm getting all my bitch-ass-ness out now cause after 9:30 I tend to get muted here LMAO
+08:48 AM
+tycoon448Does anyone participate in IPO's guys/
+08:48 AM
+tycoon448?
+08:49 AM
+KennethLeecmorga04That is why we wait lol. We take the dip or the breakout. just hope it dips first but its going to run today
+08:49 AM
+jmvaughn6I decided to play it safe on $HTZ. Had a loss yesterday that shook my confidence.
+08:49 AM
+BeckdanMrDimThere is a little hidden gem in that picture that no one has seen that I know of. I forgot it was laying on the desk.
+08:50 AM
+AshTradesjmvaughn6That happened to me day before. So I was cautious and low on confidence yesterday. lol
+08:50 AM
+MrDimBeckdanlol u mean the nail cutter :-D
+08:51 AM
+BeckdanMrDimWell, that and a 9mm handgun. oooppps
+08:51 AM
+MrDimhahahaha :D I missed that
+08:52 AM
+NotaRussianSpy$NWBO looks like it may gap up
+08:52 AM
+kobrakai$NWBO 1.58 x 1.59
+08:53 AM
+tommy888g$NIO new highs
+08:54 AM
+IvanP$GPOR 8k filling (agreement) and spiking
+08:54 AM
+IvanPhttps://app.quotemedia.com/data/downloadFiling?type=HTML&webmasterId=501&ref=115387271&CK=874499
+08:54 AM
+Geminitommy888gyep, could see a nice dip and rip here after a gap up further?
+08:54 AM
+BeckdanBeen trading $HTZ and it has kicked my ass so far. -655 realized and I'm short 3K at 2.19 right now
+08:54 AM
+Kooper59Beckdanright now i'm working from a lappy and a 60" tv with 8 daily charts on it. i have to keep clicking around to see what i want and things get lost below other things. i can't wait till the office is finished being remodeled so i can get a proper computer and some monitors
+08:54 AM
+IvanPwell, spiking, it spiked a little, sorry
+08:54 AM
+TripleTenacity$HTZ looks primed for a panic
+08:54 AM
+PatrickRobertson$NWBO last few days everytime it gaps up it dips off the open
+08:54 AM
+KennethLeeTripleTenacityI hope lol
+08:55 AM
+BeckdanTripleTenacityDang I covered 3K of the 6 I had at 2.16 right before that panic. Good call.
+08:56 AM
+Shanky7I left so much money on the table but I am glad I made the little money that I did . I use my phone to trade and recently shifted to Webull I think their app has better charting than i have ever seen.
+08:56 AM
+NotaRussianSpy$NAV crazy chart
+08:56 AM
+WinfordBought SGBX at 4.01 Hold or cut my loss?
+08:57 AM
+TripleTenacity$HTZ dip buyers coming in...this is where I usually get burned thinking it's a recovery and it dumps
+08:57 AM
+rdentiAre commons at risk on HTZ bk?
+08:57 AM
+tommy888gBeckdanR bandit fix mic finaly :D
+08:58 AM
+JRodAR83$HTZ more news
+08:58 AM
+Beckdantommy888gThanks. Forgot to turn it on until you posted.
+08:58 AM
+Beckdantommy888gWas too busy getting smoked by $HTZ
+08:58 AM
+S_SullyBTZI news. don't know if it will make it go up
+08:59 AM
+IvanPWinforddepending on your risk level. It's down 5% for you already, if this is your risk level, then cut it off, if it's more (I hope not), then wait. $SGBX was bouncing from 3.5, but it could also drop hard at 9am or 9:30, nobody knows.
+08:59 AM
+Beckdanall covered $HTZ 1.10 Still down 388 on the day. better than the 2K unrealized I had earlier.
+08:59 AM
+IvanP$GPOR trying to spike now
+08:59 AM
+PatrickRobertsonthats a scary spot to be in Beck
+08:59 AM
+Beckdanchat bought $HTZ
+09:00 AM
+MichaelGoode8%+ pre gainers: $HTZ $SGBX ASLN RWLK $NAV $CIT SMLP $GPOR MTC LAZY $FSI AFI $FLEX $ACOR
+09:00 AM
+MrDimBeckdanof course
+09:00 AM
+TripleTenacity$HTZ range bound 2.08 to 2.20
+09:00 AM
+Beckdanshort at 2.19
+09:00 AM
+Beckdanonly 3K to start.
+09:00 AM
+chut$HTZ chat guy long
+09:01 AM
+jamesriverajrIvanPAnother one I was looking at around .30. Bruh.
+09:01 AM
+rdentiAnyone know if HTZ common shareholders r at risk under BK Agmt?
+09:01 AM
+tommy888gBeckdan9 RH
+09:02 AM
+Beckdanadding 2.27
+09:03 AM
+_JJTHEBARBER$HTZ wants another run
+09:03 AM
+IvanP$SGBX looks to be bouncing from 3.5 again
+09:03 AM
+NotaRussianSpy$HTZ if 2.35 gets rejected, I wouldn't be surprised to see a dip/panic at or near the open to 1.80's, maybe low 1.90's
+09:03 AM
+NotaRussianSpyoh... as i say it
+09:03 AM
+Beckdanwrong again so far.
+09:04 AM
+costam911long term resis at 2.50 $HTZ will test
+09:04 AM
+KennethLeeThe news is to good on $HTZ. Its going to run at open
+09:04 AM
+costam911agree
+09:04 AM
+MATW23VVPR news
+09:04 AM
+AshTradesWhat does Chat guy Long means in STT breaking news. Anyone knows?
+09:04 AM
+andyin250$HTZ looking like the next KODK
+09:04 AM
+costam911AshTradesthey are in another chat room where they are going long
+09:05 AM
+AshTradescostam911I see. Thanks
+09:05 AM
+TripleTenacity$HTZ Of course since I didn't go long it spikes (headbang)
+09:05 AM
+MichaelGoode$HTZ +134% $2.42 $373m mkt cap https://finance.yahoo.com/news/bankrupt-car-rental-firm-hertz-124447193.html Bankrupt car rental firm Hertz secures $1.65 bln in financing, shares soar
+09:05 AM
+doby1765$SGBX a lot of pm volitility
+09:06 AM
+NotaRussianSpyKennethLeeI hope you're right, but also wrong. A dip would benefit everyone more, including shorts to cover and longs to add, including ME :D
+09:06 AM
+Sloth269Retails number up, above expectations
+09:06 AM
+Gerg40517Just 100s but in @1.90 and out @2.30/. I feel like im catching patterns!!!
+09:07 AM
+MichaelGoode$HTZ on the margin this is beneficial to the company to get a DIP loan but it isn't surprising -- DIP loans are superior to all existing loans and are very low risk to the lenders. This does on net increase the company's indebtedness which will make it less likely for shareholders to get anything at the end of bankruptcy
+09:07 AM
+KennethLeeNotaRussianSpyMan I hope im wrong too lol
+09:08 AM
+MichaelGoode$SGBX +69% $3.42 $29m mkt cap https://finance.yahoo.com/news/blink-sg-blocks-enter-strategic-111500605.html BLINK AND SG BLOCKS ENTER INTO STRATEGIC MASTER DEVELOPMENT AND PRODUCTION AGREEMENT TO BRING SOLAR, OFF-GRID, MODULAR EV CHARGING SOLUTIONS TO MARKET
+09:08 AM
+Gerg40517GM
+09:08 AM
+MrDimHi Tim
+09:08 AM
+JRodAR83gm
+09:08 AM
+riverawgm
+09:08 AM
+KennethLeeGM
+09:08 AM
+OCNYDayTradingmorning tim
+09:08 AM
+DipNripgood morning
+09:08 AM
+thehighwaymorning!
+09:08 AM
+AhraghebGM
+09:08 AM
+KBYgm
+09:08 AM
+libzentGood morning
+09:08 AM
+ScipioGM
+09:08 AM
+BluegocartGood morning
+09:08 AM
+Nguyenken6GM Tim
+09:08 AM
+andyin250gm
+09:08 AM
+lennal3nWinfordgood morning
+09:08 AM
+ThompsonslakeGM
+09:08 AM
+Aj1978Gm boss
+09:08 AM
+NotaRussianSpyGerg40517In fact, you are :) thats a perfect trade. Just keep at that rate, and in a few months/year or 2, you'll be doing the same setup with large size, and BAM. x10 profits! Keep it up!
+09:08 AM
+Maverick_clGM!!!! TGIF!!!
+09:08 AM
+RV74Morning Tim
+09:08 AM
+pushpasGM
+09:08 AM
+TrentUglowMorning Tim
+09:08 AM
+DrewMattGood morning TIm
+09:08 AM
+AriaHello 👋
+09:08 AM
+lennal3ngood morning
+09:09 AM
+TonestockpixMorning coach
+09:09 AM
+Rhin0GM
+09:09 AM
+Hanif2020Salam!...
+09:09 AM
+Maverick_cl8)
+09:09 AM
+tommy888gGM all
+09:09 AM
+Martyboy2121222Good morning, everyone first time in here
+09:09 AM
+Ezmoney_21gm
+09:09 AM
+Maverick_clHola Amigos!!
+09:09 AM
+DirkjohnsonKicking myself for getting out of $HTZ at 1.78
+09:09 AM
+jmvaughn6Good Morning
+09:09 AM
+squantosmornin' boss
+09:09 AM
+ItsTimeGood Morning General!! Ready War!
+09:09 AM
+luckyman37(hi)
+09:09 AM
+glekarkynGood Morning Tim
+09:09 AM
+Maverick_cllets do it warriorrrsssss
+09:09 AM
+OnTeeGooood morning!
+09:09 AM
+MichaelGoodeASLN +30% $2.49 $93m mkt cap https://finance.yahoo.com/news/aslan-pharmaceuticals-develop-aslan003-next-092500823.html ASLAN Pharmaceuticals to Develop ASLAN003 as Next Generation DHODH Inhibitor in Autoimmune Conditions
+09:10 AM
+NotaRussianSpyGood Morning Timothy Sykes, Millionaire, Mentor and Trader here!
+09:10 AM
+PatrickisapersonGAXY news https://www.otcmarkets.com/stock/GAXY/news/Galaxy-Next-Generation-Closes-Asset-Purchase-of-Classroom-Technology-Solutions-Inc?id=277142
+09:10 AM
+AshTradesGood morning Tim!!
+09:10 AM
+dino0301goood morning
+09:10 AM
+KhalilsayiedGood Morning everyone. Second day here!
+09:11 AM
+NotaRussianSpyBeckdanHave you changed your short bias yet? Or are you only looking to re short into spikes?
+09:11 AM
+MichaelGoodeRWLK +22% $1.42 $26m mkt cap -- no new news -- shares are trading higher potentially as traders circulate an August 27th press release that highlighted the US Court of Appeals dismissed a securities lawsuit against the company. https://finance.yahoo.com/news/10-stocks-moving-thursdays-hours-211918076.html
+09:11 AM
+Beckdandonated a few more to $HTZ. Still short 3K at 2.24 avg now
+09:11 AM
+JetLevantGAXY news
+09:11 AM
+JetLevant$VYST news
+09:11 AM
+squantosRegulatooooooooors.............mount up!
+09:12 AM
+JetLevant$NWBO gapping up, yesterdays high 1.58
+09:12 AM
+BeckdanNotaRussianSpyI should have changed, but I'm stubborn. Very likely I only trade it short.
+09:12 AM
+WantMore22Good morning
+09:12 AM
+doby1765$SGBX nice bounce
+09:13 AM
+IzriMosessquantoswarren g
+09:13 AM
+JetLevant$VYST daily chart looking nice, got a little room to run id say
+09:13 AM
+MichaelGoode$NAV +20% $42.65 $4.1 billion mkt cap Traton close to acquiring Navistar for $44.50 per share, CNBC reports -- Volkswagen's (VWAGY) Traton and Navistar (NAV) are very close to a deal for Traton to acquire what it does not own of the Navistar for $44.50 per share, CNBC's David Faber report, citing people close to the negotiations. Carl Icahn and Mark Rachesky are supporting deal, which still needs formal approval, but has been agreed to verbally, Faber adds.
+09:13 AM
+MichaelGoode$NAV of course best to ignore it because it is a buyout
+09:14 AM
+NotaRussianSpyBeckdanAh, well i can only recommend acquiring a long perspective on $HTZ, if only to aid you in finding a better shorting opportunity. As I am doing the reverse for going long :)
+09:14 AM
+dkv242608gm
+09:14 AM
+BeckdanI doubt I will have a $HTZ position at the open. I'll take my loss or profits before then.
+09:14 AM
+Kimogm
+09:14 AM
+jdukeGood Morning (sun)
+09:14 AM
+JetLevantNSPX looking like a panic at the open
+09:14 AM
+MichaelGoode$CIT +20% $23.83 $2.3 billion mkt cap https://finance.yahoo.com/news/cit-announces-third-quarter-2020-101500505.html CIT Announces Third Quarter 2020 Financial Results
+09:14 AM
+squantosIzriMosesyup!
+09:15 AM
+thinkeI don't get the reason for $HTZ to be up on this news ...
+09:15 AM
+NotaRussianSpyIf SOLO holds 3.00, could see a spike and retest of 3 day highs, and possible B/O. needs volume and support
+09:15 AM
+AcetradeFirst day over PTD! Enjoying the freedom while in and out of $HTZ a couple of times
+09:15 AM
+Beckdanchatroom on $HTZ again.
+09:16 AM
+2xmatt$GPOR
+09:16 AM
+krulldaddyAcetradecongrats! it is definitely different! i've just have to watch myself not turning a winner into a slot machine lol -- enjoy it and take those bags!!!
+09:16 AM
+Gerg40517AcetradeCongrats on getting over the PDT
+09:16 AM
+IzriMoses$HTZ looking to buy on dip at the open
+09:16 AM
+JRodAR83$HTZ nhod
+09:17 AM
+AcetradeGerg40517Thanks! Started with $3K in June. Been a nice little climb...but tough.
+09:17 AM
+Bluegocart$HTZ is like a fighter jet at full power, on the flight deck, waiting to launch at 0930
+09:17 AM
+NotaRussianSpyIf $GNUS holds 1.40 today, I will look to enter for a speculative hold play, which I should have done when I anticipated the dip into the 1.30's. Oh well, a few pennies won't hurt :P
+09:17 AM
+libzentIzriMosesToo
+09:17 AM
+tommy888gGTT PR
+09:17 AM
+TunaTaco282thinkeit was pretty much at the bottom... now they have hope to restructure
+09:18 AM
+TunaTaco282shorts are heavy too
+09:18 AM
+_JJTHEBARBER$HTZ is gonna be another one of these fast moving stocks , dangerous . Lets see how it opens
+09:18 AM
+libzent$HTZ waiting for dip at the market open
+09:18 AM
+Ragincajun$GPOR
+09:18 AM
+Gerg40517AcetradeImpressive! Im starting with just over 4k, been studying like a madman and hitting it with small positions.
+09:18 AM
+tommy888ghttps://api.quotemedia.com/supplement/news-story/?webmasterId=102132&storyId=7577211356313535
+09:18 AM
+BluegocartAcetradeCongrats. Big milestone.
+09:18 AM
+tuncelmasGTT Communications 8-K Shows $2.15B Deal To Sell Its Infrastructure Division To I Squared Capital
+09:18 AM
+JRodAR83Why is $HTZ going to dip at open?
+09:18 AM
+JustWantToBeRich$HTZ possible short squeeze I’m calling it
+09:18 AM
+MichaelGoode11 minutes until market open
+09:19 AM
+sovinbeau$NWBO could have a nice b/o if it breaks the 1.59 resistance from yesterday
+09:19 AM
+bralphs10JRodAR83because its up so much and theres a ton of bag holders in it im sure
+09:19 AM
+ItsTimeWhats does SHELF UP of shares means??? Anyone?
+09:19 AM
+Beckdanchat add add add add so far
+09:19 AM
+Beckdanso did I on the short side
+09:20 AM
+Beckdan2.34 avg now
+09:20 AM
+IzriMosesNNDM near year high
+09:20 AM
+gpkendrickI made $600 on $HTZ - hit my goal done for today. It's Friday - Good Luck Everyone! :)
+09:20 AM
+skinniwhat is iex -1.00? lv2 getting flooded with this
+09:20 AM
+JRodAR83bralphs10Gotcha. Thank you.
+09:20 AM
+AcetradeBluegocartThanks. Didn't take but a couple of massive losses to learn to cut losses quickly. It takes several good trades to wipe out a bad trade.
+09:20 AM
+thinke$HTZ squeezing?
+09:20 AM
+libzentgpkendrickcongrats!!!
+09:20 AM
+AshTradesgpkendrickCongrats
+09:20 AM
+andyin250thinkevery possible.
+09:20 AM
+LRBTraderNice job!
+09:20 AM
+ShipBuildergpkendrickCongrats on your 600 bux win! enjoy ur weekend
+09:20 AM
+NotaRussianSpyBeckdanI could see this @ 4.00 sometime today, So i would be careful with those add ;)
+09:21 AM
+NotaRussianSpyBeckdanBut great average!
+09:21 AM
+IzriMoses$HTZ $2.50 early resistance
+09:22 AM
+tycoon448GTT news
+09:22 AM
+Kooper59gpkendrickgood job Kendo! thx!
+09:22 AM
+AcetradeAnyone else holding $ENRT o/n?
+09:22 AM
+gpkendrickThanks guys! 3 positive weeks in a row - I finally learned to cut losses and never hold & hope.
+09:23 AM
+NotaRussianSpygpkendrickThats great! Just watch for the possibility of letting the success get to your head! Thats where 50% of traders fail, is after they succeed :) Keep it up!
+09:23 AM
+costam911Beckdansometimes you just gotta tune out the chat room chatter, and focus on you plan
+09:23 AM
+JetLevantDSGT gapping down
+09:23 AM
+Mongoose:D
+09:24 AM
+FlowTradergpkendrickcongrats on the win!
+09:24 AM
+JetLevantstupid little takeout push at the end DSGT
+09:24 AM
+JetLevantfake out
+09:24 AM
+JenJengpkendrick(y)
+09:24 AM
+gpkendrickNotaRussianSpyYes, I've noticed that overconfidence is what gets me in trouble now.
+09:25 AM
+JetLevantNSPX down 33%
+09:25 AM
+tycoon448Anyone comment on GTT plz
+09:25 AM
+libzentOnly watching $HTZ
+09:25 AM
+JoshTradergood morning everyone
+09:26 AM
+Kooper59tycoon448not a whole lot of volume
+09:26 AM
+Maverick_clgpkendrickfelicitaciones!
+09:26 AM
+NickV77HTZ, will it break $3, we shall see!
+09:27 AM
+MichaelGoode3 minutes until market open
+09:27 AM
+costam911rumor on twitter of news comming from $HALB today
+09:27 AM
+KennethLeeSo much talk on $HTZ im sure its the money maker for the day
+09:28 AM
+NotaRussianSpygpkendrickI agree, thats where "trading in the Zone" by Mark Douglas helps aaaa lot! GL!
+09:28 AM
+JoshTraderWhat is today's $HALB in your opinion
+09:28 AM
+Ezmoney_21NotaRussianSpylove that book. been reading it all october
+09:28 AM
+doby1765$GBX spike
+09:28 AM
+Beckdansized way down $HTZ 2.34
+09:28 AM
+TimLentoWelcome to ! Everything that is not an actionable stock alert or a brief discussion of a current or potential stock trade is off-topic during the trading day. Discussions may take place in the off topic room. Violators are being muted in private. See the rules and abbreviations here > http://bit.ly/NewChatRules
+09:28 AM
+doby1765$SGBX
+09:28 AM
+Beckdan3.2K now.
+09:29 AM
+gpkendrickNotaRussianSpyThanks! I will check that out. GL!
+09:29 AM
+SHAMILTripleTenacityYeah maaan tell me next time you had this kind of plans(y)
+09:29 AM
+Spudneck_DanNo gap up DSGT oof. Maybe morning play tho
+09:30 AM
+MichaelGoodeDING DING DING DING DING DING
+09:30 AM
+costam911looking for a robinhood effect on $HTZ today
 '''

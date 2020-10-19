@@ -25,5 +25,3 @@ for i in range(0, len(text)):
 #for stock in stock_set:
     #print(stock)
 
-
-
