@@ -25,7 +25,7 @@ key = 'ARJTRG5ZQH4Y6MWQJLA0LLHUZVZBU21S'
 
 def bigloopType2(): # like type 1.0 plays but i kill at the base of the last known green
     stock_list = list(stock_set)
-    #stock_list = ["SPY"]
+    #stock_list = ["AMRN"]
     stockCounter = 0  # this is used to advance to the next day whenever algo has checked all the stocks for the current day
 
     # that means
@@ -274,19 +274,15 @@ def bigloopType2(): # like type 1.0 plays but i kill at the base of the last kno
 
             else:
                 if row['low'] <= stop_loss:
-                    timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss])
                     realPercentChange =  findPercentageChange(buy_price, stop_loss) # stop loss is the new stop loss man
+                    print(realPercentChange)
 
-        new_row = {'Instrument': stock, 'BuyPrice': buy_price, 'BuyTime': time.ctime(buy_time / 1000),
+
+                    new_row = {'Instrument': stock, 'BuyPrice': buy_price, 'BuyTime': time.ctime(buy_time / 1000),
                    "SellTime": timeOfSale, "Real%change": realPercentChange}
-        # append row to the dataframe
-        resultsTable = resultsTable.append(new_row, ignore_index=True)
 
-
-
-
-
-        continue
+                    resultsTable = resultsTable.append(new_row, ignore_index=True)
+                    break
 
 
 
