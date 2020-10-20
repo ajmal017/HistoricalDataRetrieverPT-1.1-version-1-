@@ -25,7 +25,7 @@ key = 'ARJTRG5ZQH4Y6MWQJLA0LLHUZVZBU21S'
 
 def bigloopType3(): # Type 1.0 plays
     stock_list = list(stock_set)
-    stock_list = ["SOL"]
+    #stock_list = ["SOL"]
     stockCounter = 0  # this is used to advance to the next day whenever algo has checked all the stocks for the current day
 
     # that means
