@@ -25,7 +25,7 @@ key = 'ARJTRG5ZQH4Y6MWQJLA0LLHUZVZBU21S'
 
 def bigloopType3(): # Type 1.0 plays
     stock_list = list(stock_set)
-    stock_list = ["SRNE"]
+    stock_list = ["SOL"]
     stockCounter = 0  # this is used to advance to the next day whenever algo has checked all the stocks for the current day
 
     # that means
@@ -54,7 +54,7 @@ def bigloopType3(): # Type 1.0 plays
         stockIterator = stockIterator + 1
         # start_date_string = "10/06/2020 04:00:00"
         # end_date_string = "10/06/2020 09:29:00"
-        multiplier = 1.6  # this is where I'll take profit
+        multiplier = 0.94  # this is where I'll take profit
         # Considering date is in dd/mm/yyyy format
         # start_date  = datetime.timestamp(datetime.strptime(start_date_string, "%m/%d/%Y %H:%M:%S"))*1000
         # end_date = datetime.timestamp(datetime.strptime(end_date_string, "%m/%d/%Y %H:%M:%S"))*1000
@@ -138,7 +138,10 @@ def bigloopType3(): # Type 1.0 plays
             print("")
             continue
 
-        df = pd.DataFrame(friendly_dict['candles'])
+        try:
+            df = pd.DataFrame(friendly_dict['candles'])
+        except:
+            print("can't get the candles from friendly dict for this stock, ", stock)
         if len(df) == 0:
             print("This stock does not exist, ", stock)
             print("================================================")
@@ -235,109 +238,119 @@ def bigloopType3(): # Type 1.0 plays
         mymarketafterthrustingDF = market_after_cracking_pmlow[relative_go_back_above_pm_low_after_crack:]
 
         AllAbovePmLmymarketafterthrustingDF = mymarketafterthrustingDF[mymarketafterthrustingDF['high'] >= premarket_low]
-        
 
 
 
-        break
-        if (AllBelowPmHmymarketafterdippingDF['close'] > AllBelowPmHmymarketafterdippingDF[
-            'open']).any():  # if there are any greens present in the dip portion after the PMHighBreak
-            doGreensBelowPMHighExist = True
-            mygreensproutdf = AllBelowPmHmymarketafterdippingDF[
-                AllBelowPmHmymarketafterdippingDF['close'] > AllBelowPmHmymarketafterdippingDF['open']]
+
+
+        if (AllAbovePmLmymarketafterthrustingDF['open'] > AllAbovePmLmymarketafterthrustingDF[
+            'close']).any():  # if there are any reds present in the thrust portion after the PMLowCrack --- rephrased for type -1.0
+            doRedsAbovePMLowExist = True
+            myredsproutdf = AllAbovePmLmymarketafterthrustingDF[
+                AllAbovePmLmymarketafterthrustingDF['open'] > AllAbovePmLmymarketafterthrustingDF['close']]
         else:
-            print("There are no greens below the PM high level for this stock: ", stock)
+            print("There are no reds present in the thrust portion after the PMLowCrack: ", stock)
             print("================================================")
             print("")
             print("")
             continue
 
-        potential_loss = mygreensproutdf[0:1]
 
-        potential_loss_percent = ((potential_loss['high'] - potential_loss['low']) / potential_loss['high']) * 100
+
+        potential_loss = myredsproutdf[0:1]
+
+        #print(potential_loss)
+
+        potential_loss_percent = ((potential_loss['low'] - potential_loss['high']) / potential_loss['low']) * 100
 
         try:
-            buy_price = potential_loss['high'].values[0]  # stupid variable name but whatever
+            shortSellPrice = potential_loss['low'].values[0]
         except:
-            print("getting the buy price fucked up, the offending stock is, ", stock)
+            print("getting the shortSellPrice fucked up, the offending stock is, ", stock)
 
         try:
-            stop_loss = potential_loss['low'].values[0]
+            stop_loss = potential_loss['high'].values[0]
         except:
             print("I can't get the stop loss for this stock: ", stock)
 
-        if doGreensBelowPMHighExist:
-            buy_time = potential_loss['datetime'].values[0]
+        if doRedsAbovePMLowExist:
+            shortSellTime = potential_loss['datetime'].values[0]
 
         try:
-            indexOfBuy = potential_loss['high'].index.values[0]
+            indexOfShortSell = potential_loss['low'].index.values[0]
         except:
-            print("this is the faulty stock because I think because it doesnt have a buy price but pls check: ", stock)
+            print("this is the faulty stock because I think because it doesnt have a ShortSell price but pls check: ", stock)
             print("================================================")
             print("")
             print("")
             continue
 
-        takeProfitLevel = buy_price * multiplier
+        takeProfitLevel = shortSellPrice * multiplier
 
-        marketAfterMyBuy = marketFri[marketFri['datetime'] > buy_time]  # 1602271740000 is my buy time
+        marketAfterMyBuy = marketFri[marketFri['datetime'] > shortSellTime]  # 1602271740000 is my buy time.
+        # NOTE THAT THE CANDLE I BUY ON IS ONE IN FRONT OF THE CONFIRMATION REDSPROUT CANDLE
 
-        doesTakeProfitLevelExist = doesPriceLevelExist(marketAfterMyBuy, 'high', takeProfitLevel, 'greateroreq')
-        doesStopLossKillerExist = doesPriceLevelExist(marketAfterMyBuy, 'low', stop_loss, 'lessoreq')
+
+
+        doesTakeProfitLevelExist = doesPriceLevelExist(marketAfterMyBuy, 'low', takeProfitLevel, 'lessoreq')
+        doesStopLossKillerExist = doesPriceLevelExist(marketAfterMyBuy, 'high', stop_loss, 'greateroreq')
 
         #
 
         # if they both exist, then I want to find out which came first so i know if i won or loss
         if doesStopLossKillerExist and doesTakeProfitLevelExist:
-            timeOfTakeProfit = marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel]['datetime'].values[0]
-            timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]['datetime'].values[0]
+            timeOfTakeProfit = marketAfterMyBuy[marketAfterMyBuy['low'] <= takeProfitLevel]['datetime'].values[0]
+            timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['high'] >= stop_loss]['datetime'].values[0]
             if timeOfTakeProfit < timeOfStopLossKiller:
-                print("I won, I sold at: ",
-                      time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel]))
-                realPercentChange = findPercentageChange(buy_price, takeProfitLevel)
-                timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel])
+                print("I won, I bought to cover at: ",
+                      time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= takeProfitLevel]))
+
+                realPercentChange = findPercentageChange(shortSellPrice, takeProfitLevel)
+                timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= takeProfitLevel])
+
             else:
-                marketFromBuyToStopLossSell = marketAfterMyBuy.loc[
-                    (((marketAfterMyBuy['datetime'] > buy_time) & (
+                marketFromBuyToStopLossBuyCover = marketAfterMyBuy.loc[
+                    (((marketAfterMyBuy['datetime'] > shortSellTime) & (
                                 marketAfterMyBuy['datetime'] < timeOfStopLossKiller)))]
-                highestPointReachedBeforeDying = marketFromBuyToStopLossSell['high'].max()
-                print("I lost, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]),
-                      " but before I died the highest ($ not %change) point was at: ", highestPointReachedBeforeDying)
-                realPercentChange = findPercentageChange(buy_price, stop_loss)
-                potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
-                timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss])
+                lowestPointReachedBeforeBuyingToCover = marketFromBuyToStopLossBuyCover['low'].min()
+
+                print("I lost, I bought to cover at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= stop_loss]),
+                      " but before I died the highest ($ not %change) point was at: ", lowestPointReachedBeforeBuyingToCover)
+                realPercentChange = findPercentageChange(shortSellPrice, stop_loss)
+                potentialWinPercentChange = findPercentageChange(shortSellPrice, lowestPointReachedBeforeBuyingToCover)
+                timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= stop_loss])
 
         # # if one of them exists, take it either as a loss or win
         if doesTakeProfitLevelExist and not doesStopLossKillerExist:
             print("I won, I sold at: ",
-                  time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel]))
-            realPercentChange = findPercentageChange(buy_price, takeProfitLevel)
-            timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= takeProfitLevel])
+                  time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= takeProfitLevel]))
+            realPercentChange = findPercentageChange(shortSellPrice, takeProfitLevel)
+            timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= takeProfitLevel])
         elif doesStopLossKillerExist and not doesTakeProfitLevelExist:
-            timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]['datetime'].values[0]
-            marketFromBuyToStopLossSell = marketAfterMyBuy.loc[
-                (((marketAfterMyBuy['datetime'] > buy_time) & (marketAfterMyBuy['datetime'] < timeOfStopLossKiller)))]
-            highestPointReachedBeforeDying = marketFromBuyToStopLossSell['high'].max()
+            timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['high'] >= stop_loss]['datetime'].values[0]
+            marketFromBuyToStopLossBuyCover = marketAfterMyBuy.loc[
+                (((marketAfterMyBuy['datetime'] > shortSellTime) & (marketAfterMyBuy['datetime'] < timeOfStopLossKiller)))]
+            lowestPointReachedBeforeBuyingToCover = marketFromBuyToStopLossBuyCover['low'].min()
 
-            print("I lost, I sold at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]),
-                  " but before I died the highest ($ not %change) point was at: ", highestPointReachedBeforeDying)
-            realPercentChange = findPercentageChange(buy_price, stop_loss)
-            potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
-            timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss])
+            print("I lost, I bought to cover at: ", time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= stop_loss]),
+                  " but before I died the highest ($ not %change) point was at: ",lowestPointReachedBeforeBuyingToCover)
+            realPercentChange = findPercentageChange(shortSellPrice, stop_loss)
+            potentialWinPercentChange = findPercentageChange(shortSellPrice, lowestPointReachedBeforeBuyingToCover)
+            timeOfSale = time24HOfIncident(marketAfterMyBuy[marketAfterMyBuy['high'] >= stop_loss])
 
         # if they both DON'T exist, find the highest point reached
         if not doesTakeProfitLevelExist and isStopLossNotReached:
             print("I neither won nor lost, the highest ($ not %change) point reached was: ",
                   marketAfterMyBuy['high'].max(), " and the percentage change was, ",
-                  findPercentageChange(buy_price, marketAfterMyBuy['high'].max()))
-            potentialWinPercentChange = findPercentageChange(buy_price, highestPointReachedBeforeDying)
+                  findPercentageChange(shortSellPrice, marketAfterMyBuy['low'].min()))
+            potentialWinPercentChange = findPercentageChange(shortSellPrice, lowestPointReachedBeforeBuyingToCover)
 
         try:
-            timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['low'] <= stop_loss]['datetime'].values[0]
+            timeOfStopLossKiller = marketAfterMyBuy[marketAfterMyBuy['high'] >= stop_loss]['datetime'].values[0]
         except:
             print("I couldn't get the time of stop loss killer, offending stock is: ", stock)
 
-        new_row = {'Instrument': stock, 'BuyPrice': buy_price, 'BuyTime': time.ctime(buy_time / 1000),
+        new_row = {'Instrument': stock, 'BuyPrice': shortSellPrice, 'BuyTime': time.ctime(shortSellTime / 1000),
                    "SellTime": timeOfSale, "Win?": isWin, "Real%change": realPercentChange,
                    "Potential%Change": potentialWinPercentChange}
         # append row to the dataframe
@@ -348,9 +361,9 @@ def bigloopType3(): # Type 1.0 plays
         # todo here we start the main deal
         if isType1PointOhPlay:
             print("this is the stock: ", stock, " the stock is: ", stock)
-            print("this is my buy time: ", time.ctime(buy_time / 1000), " the stock is: ", stock)
-            print("this is my buy price: ", buy_price, " the stock is: ", stock, " and the premarket high was, ",
-                  premarket_high)
+            print("this is my SHORTSELL time: ", time.ctime(shortSellTime / 1000), " the stock is: ", stock)
+            print("this is my SHORTSELL price: ", shortSellPrice, " the stock is: ", stock, " and the premarket low was, ",
+                  premarket_low)
             print("was this a win for", stock, " ?: ", isWin)
             print("================================================")
             print("")
