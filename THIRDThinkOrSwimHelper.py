@@ -37,10 +37,13 @@ def bigloopType3(): # Type 1.0 plays
                                          "Potential%Change"])
 
     # update all of these later
-    premarketstart = 1602489600000 # 12th Oct 4PM SGT,
-    currentTime = 1602374400000 # 11th Oct 8AM SGT
-    endTime = 1602979200000 # 18TH Oct 8AM SGT
+    premarketstart = 1603094400000+ 24 * 60 * 60 * 1000*2# 21th oct 4PM SGT,
 
+
+
+    currentTime = 1603065600000+ 24 * 60 * 60 * 1000*2 #21th OCT 8AM SGT
+    endTime = 1603262952000+ 24 * 60 * 60 * 1000# 22nd OCT 8AM SGT
+#+ 24 * 60 * 60 * 1000 * 10
     stockIterator = 0
 
 
@@ -371,7 +374,7 @@ def bigloopType3(): # Type 1.0 plays
 
         # TODO I WANT TO BE ABLE TO SEARCH FOR THE INDEX OF STOPKILL AND INDEX OF TAKEPROFITREACH AND SEE WHICH COMES FIRST
 
-    resultsTable.to_excel(r'C:\Users\rohit kurup\Documents\export_dataframe6.xlsx', index=False, header=True)
+    resultsTable.to_excel(r'C:\Users\rohit kurup\Documents\ukn', index=False, header=True)
 
 
 

@@ -22,6 +22,6 @@ for i in range(0, len(text)):
             else:
                 stock_set.add(stock_string)
                 break
-#for stock in stock_set:
-    #print(stock)
+for stock in stock_set:
+    print(stock)
 
